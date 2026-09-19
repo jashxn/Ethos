@@ -1,126 +1,19 @@
 local function setupLoader()
-	local ASSET_VERSION = "7a8a8a357f29b63633b6b3c92661889b2e323a61"
-	local ASSET_INCOMPLETE_VERSION = ASSET_VERSION .. ":incomplete"
-	local ASSET_CACHE_DIRECTORY = "Ethos Suite/assets"
-	local ASSET_VERSION_FILE = ASSET_CACHE_DIRECTORY .. "/version.txt"
-	local REQUIRED_ASSETS = {
-		["6049668989"] = 9592,
-		["9313765853"] = 2628,
-		["72171626148979"] = 63038,
-		["72547227978193"] = 19837,
-		["73319551652130"] = 9592,
-		["75168668455048"] = 471,
-		["76434172246740"] = 9631,
-		["77761671279302"] = 16878,
-		["78442024543745"] = 6535,
-		["81624121716376"] = 4357,
-		["81857207543459"] = 2149,
-		["102257689032914"] = 149,
-		["103447516002004"] = 664,
-		["103579038000804"] = 246,
-		["108130691619628"] = 2628,
-		["108478460783491"] = 128009,
-		["109558354270594"] = 482,
-		["110284516095156"] = 6425,
-		["112615609542917"] = 183,
-		["113005153483202"] = 4352,
-		["115040833269706"] = 706,
-		["115758629709887"] = 900,
-		["116215943524454"] = 297,
-		["116467261580362"] = 605,
-		["117009356276298"] = 215,
-		["117616164364352"] = 3321,
-		["118471988295372"] = 3378,
-		["119807438922709"] = 18235,
-		["121899300432067"] = 6054,
-		["122288503920903"] = 15812,
-		["123370242140574"] = 4009,
-		["126065347737085"] = 2209,
-		["130886810708338"] = 16087,
-		["134513918387904"] = 4235,
-		["136756919777087"] = 655,
-	}
+	local services = setmetatable(
+		{},
+		{
+			__index = function(self, serviceName)
+				local service = game:GetService(serviceName)
+				if cloneref then
+					service = cloneref(service)
+				end
 
-	local function supportsAssetCache()
-		return type(getcustomasset) == "function"
-			and type(writefile) == "function"
-			and type(readfile) == "function"
-			and type(isfile) == "function"
-			and type(isfolder) == "function"
-			and type(makefolder) == "function"
-	end
+				self[serviceName] = service
+				return service
+			end,
+		}
+	)
 
-	local function assetCacheReady()
-		if not supportsAssetCache() then
-			return true
-		end
-		local existsSuccess, exists = pcall(isfile, ASSET_VERSION_FILE)
-		if not existsSuccess or not exists then
-			return false
-		end
-		local readSuccess, version = pcall(readfile, ASSET_VERSION_FILE)
-		if not readSuccess then
-			return false
-		end
-		if version ~= ASSET_VERSION and version ~= ASSET_INCOMPLETE_VERSION then
-			return false
-		end
-		for assetId, expectedBytes in pairs(REQUIRED_ASSETS) do
-			local fileSuccess, fileExists = pcall(
-				isfile,
-				ASSET_CACHE_DIRECTORY .. "/" .. assetId .. ".png"
-			)
-			if not fileSuccess or not fileExists then
-				return false
-			end
-			local assetSuccess, contents = pcall(
-				readfile,
-				ASSET_CACHE_DIRECTORY .. "/" .. assetId .. ".png"
-			)
-			if not assetSuccess
-				or type(contents) ~= "string"
-				or #contents ~= expectedBytes
-				or #contents < 8
-				or string.byte(contents, 1) ~= 137
-				or string.sub(contents, 2, 4) ~= "PNG"
-				or string.byte(contents, 5) ~= 13
-				or string.byte(contents, 6) ~= 10
-				or string.byte(contents, 7) ~= 26
-				or string.byte(contents, 8) ~= 10 then
-				return false
-			end
-		end
-		if version == ASSET_INCOMPLETE_VERSION then
-			local writeSuccess = pcall(writefile, ASSET_VERSION_FILE, ASSET_VERSION)
-			if not writeSuccess then
-				return false
-			end
-		end
-		return true
-	end
-
-	if assetCacheReady() then
-		local existingLoader = getgenv().EthosLoader
-		if type(existingLoader) == "table" and type(existingLoader.destroy) == "function" then
-			local _ = pcall(existingLoader.destroy)
-		end
-		return nil
-	end
-
-	local services = setmetatable({}, {
-		__index = function(self, serviceName)
-			local service = game:GetService(serviceName)
-			if cloneref then
-				service = cloneref(service)
-			end
-
-			self[serviceName] = service
-			return service
-		end,
-	})
-
-	local CoreGui = services.CoreGui
-	local Players = services.Players
 	local TweenService = services.TweenService
 
 	local previousLoader = getgenv().EthosLoader
@@ -138,14 +31,16 @@ local function setupLoader()
 	local OPEN_OFFSET = 28
 
 	local function resolveParent()
-		if type(gethui) == "function" then
-			local success, parent = pcall(gethui)
-			if success and typeof(parent) == "Instance" then
-				return parent
-			end
+		if type(gethui) ~= "function" then
+			error("gethui is required to parent the Ethos loader", 0)
 		end
 
-		return CoreGui
+		local success, parent = pcall(gethui)
+		if not success or typeof(parent) ~= "Instance" then
+			error("gethui did not return a valid Instance", 0)
+		end
+
+		return parent
 	end
 
 	local gui = Instance.new("ScreenGui")
@@ -155,16 +50,7 @@ local function setupLoader()
 	gui.DisplayOrder = 1000000
 	gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-	local parented = pcall(function()
-		gui.Parent = resolveParent()
-	end)
-	if not parented then
-		local localPlayer = Players.LocalPlayer
-		if localPlayer == nil then
-			localPlayer = Players.PlayerAdded:Wait()
-		end
-		gui.Parent = localPlayer:WaitForChild("PlayerGui")
-	end
+	gui.Parent = resolveParent()
 
 	local root = Instance.new("Frame")
 	root.Name = "Root"
@@ -373,10 +259,18 @@ local function setupLoader()
 	)
 
 	return loader
-
 end
 
 setupLoader()
+
+local loaderGlobals = getgenv()
+local luarmorScriptKey = script_key
+if type(luarmorScriptKey) ~= "string" or luarmorScriptKey == "" then
+	luarmorScriptKey = loaderGlobals.script_key
+end
+if type(luarmorScriptKey) == "string" and luarmorScriptKey ~= "" then
+	loaderGlobals.__ETHOS_LUARMOR_SCRIPT_KEY = luarmorScriptKey
+end
 
 local scripts = {
 	[9931749389] = "https://api.luarmor.net/files/v4/loaders/3361a2d402d20d3ec1073a417c214e94.lua", --// DUNGEON QUEST
