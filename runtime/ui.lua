@@ -3517,7 +3517,7 @@ aA)ap:set('Connecting'..aE)end)task.wait(0.5)end aC=nil end)end,function()if aC
 then ah.cancel(aC)aC=nil end end,ak:Observer(al.ServerConnecting)aI:onChange(
 function()if am(al.ServerConnecting)then aE()else aG()end end)table.insert(ak,
 function()aG()end)local aJ=table.freeze{server_connection={text=ap,stateType=aq}
-}ao:set(aJ)local aK=function(aK,aL,aM)assert(type(aK)=='string'and aK~='',
+}ao:set(aJ)at()local aK=function(aK,aL,aM)assert(type(aK)=='string'and aK~='',
 'AddStatus requires a non-empty string key.')assert(type(aL)=='string',
 'AddStatus requires initialText string.')local aN=string.lower(aM or'info')
 assert(an[aN],(
