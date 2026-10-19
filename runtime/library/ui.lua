@@ -3,95 +3,77 @@ c,'NONE','FAST'return{['assets/fontPresets']=function(i,j)return table.freeze{
 BaseUrl=
 [[https://raw.githubusercontent.com/jashxn/Ethos-Suite-Assets/6b030ae3ca714a1e8eb2a438087c0f98775f7ed6/fonts/text/]]
 ,Version='6b030ae3ca714a1e8eb2a438087c0f98775f7ed6',Families={['Cal Sans']={Name
-='cal-sans',Faces={{File='cal-sans/CalSans-Regular.ttf',Bytes=226420,Checksum=
-'98ddf6dc',Weight=400,Style='normal'},{File='cal-sans/CalSans-Italic.ttf',Bytes=
-230272,Checksum='ae7ebff5',Weight=400,Style='italic'},{File=
-'cal-sans/CalSans-Medium.ttf',Bytes=226764,Checksum='1675807f',Weight=500,Style=
-'normal'},{File='cal-sans/CalSans-MediumItalic.ttf',Bytes=230592,Checksum=
-'de2e08df',Weight=500,Style='italic'},{File='cal-sans/CalSans-SemiBold.ttf',
-Bytes=226940,Checksum='fde33e2d',Weight=600,Style='normal'},{File=
-'cal-sans/CalSans-SemiBoldItalic.ttf',Bytes=230608,Checksum='349217a0',Weight=
-600,Style='italic'},{File='cal-sans/CalSans-Bold.ttf',Bytes=226496,Checksum=
-'4731423f',Weight=700,Style='normal'},{File='cal-sans/CalSans-BoldItalic.ttf',
-Bytes=230244,Checksum='b6cbcd46',Weight=700,Style='italic'}}},Geist={Name=
-'geist',Faces={{File='geist/Geist-Thin.ttf',Bytes=124388,Checksum='79f69a21',
-Weight=100,Style='normal'},{File='geist/Geist-ThinItalic.ttf',Bytes=126820,
-Checksum='43d9c671',Weight=100,Style='italic'},{File=
-'geist/Geist-ExtraLight.ttf',Bytes=125360,Checksum='23d124a7',Weight=200,Style=
-'normal'},{File='geist/Geist-ExtraLightItalic.ttf',Bytes=127708,Checksum=
-'287b3d42',Weight=200,Style='italic'},{File='geist/Geist-Light.ttf',Bytes=125444
-,Checksum='64bbfee3',Weight=300,Style='normal'},{File=
-'geist/Geist-LightItalic.ttf',Bytes=127492,Checksum='9c60d18d',Weight=300,Style=
-'italic'},{File='geist/Geist-Regular.ttf',Bytes=126048,Checksum='240803e3',
-Weight=400,Style='normal'},{File='geist/Geist-Italic.ttf',Bytes=128284,Checksum=
-'eb282158',Weight=400,Style='italic'},{File='geist/Geist-Medium.ttf',Bytes=
-127660,Checksum='366bb9d2',Weight=500,Style='normal'},{File=
-'geist/Geist-MediumItalic.ttf',Bytes=129904,Checksum='1e4609b1',Weight=500,Style
-='italic'},{File='geist/Geist-SemiBold.ttf',Bytes=127872,Checksum='7cc23b69',
-Weight=600,Style='normal'},{File='geist/Geist-SemiBoldItalic.ttf',Bytes=130840,
-Checksum='76d5d0f9',Weight=600,Style='italic'},{File='geist/Geist-Bold.ttf',
-Bytes=128824,Checksum='ac089c1b',Weight=700,Style='normal'},{File=
-'geist/Geist-BoldItalic.ttf',Bytes=130600,Checksum='3db0ad09',Weight=700,Style=
-'italic'},{File='geist/Geist-ExtraBold.ttf',Bytes=129664,Checksum='50b745a6',
-Weight=800,Style='normal'},{File='geist/Geist-ExtraBoldItalic.ttf',Bytes=131520,
-Checksum='625e18c5',Weight=800,Style='italic'},{File='geist/Geist-Black.ttf',
-Bytes=130508,Checksum='54bf8176',Weight=900,Style='normal'},{File=
-'geist/Geist-BlackItalic.ttf',Bytes=131748,Checksum='fd98f0f7',Weight=900,Style=
-'italic'}}},Manrope={Name='manrope',Faces={{File=
-'manrope/Manrope-ExtraLight.ttf',Bytes=137168,Checksum='835a394b',Weight=200,
-Style='normal'},{File='manrope/manrope-light.ttf',Bytes=139224,Checksum=
-'e5a9c357',Weight=300,Style='normal'},{File='manrope/manrope-regular.ttf',Bytes=
-143112,Checksum='235b2cc0',Weight=400,Style='normal'},{File=
-'manrope/manrope-medium.ttf',Bytes=144696,Checksum='afff0121',Weight=500,Style=
-'normal'},{File='manrope/manrope-semibold.ttf',Bytes=145104,Checksum='26d1dd3a',
-Weight=600,Style='normal'},{File='manrope/manrope-bold.ttf',Bytes=146104,
-Checksum='e5b75dcf',Weight=700,Style='normal'},{File=
-'manrope/manrope-extrabold.ttf',Bytes=145268,Checksum='c8cc5d43',Weight=800,
-Style='normal'}}},['Space Grotesk']={Name='space-grotesk',Faces={{File=
-'space-grotesk/SpaceGrotesk-Light.ttf',Bytes=114720,Checksum='89e0045d',Weight=
-300,Style='normal'},{File='space-grotesk/SpaceGrotesk-Regular.ttf',Bytes=114428,
-Checksum='fc5294bd',Weight=400,Style='normal'},{File=
-'space-grotesk/SpaceGrotesk-Medium.ttf',Bytes=116664,Checksum='de3c6c38',Weight=
-500,Style='normal'},{File='space-grotesk/SpaceGrotesk-Bold.ttf',Bytes=116056,
-Checksum='6b7b66ee',Weight=700,Style='normal'}}}}}end,[
-'assets/icons/generatedDashboardImages']=function(i,j)local k={Glow146=
-'rbxassetid://121899300432067',Glow198='rbxassetid://122288503920903',Glow70=
-'rbxassetid://126065347737085',NavbarUnderglow='rbxassetid://113005153483202'}
-return k end,['assets/lucide']=function(i,j)local k,l,m,n=j(i.Parent.Parent.
-utils.runtimeAssets),j(i.data),
+='cal-sans',Faces={{File='cal-sans/CalSans-Regular.ttf',Weight=400,Style=
+'normal'},{File='cal-sans/CalSans-Italic.ttf',Weight=400,Style='italic'},{File=
+'cal-sans/CalSans-Medium.ttf',Weight=500,Style='normal'},{File=
+'cal-sans/CalSans-MediumItalic.ttf',Weight=500,Style='italic'},{File=
+'cal-sans/CalSans-SemiBold.ttf',Weight=600,Style='normal'},{File=
+'cal-sans/CalSans-SemiBoldItalic.ttf',Weight=600,Style='italic'},{File=
+'cal-sans/CalSans-Bold.ttf',Weight=700,Style='normal'},{File=
+'cal-sans/CalSans-BoldItalic.ttf',Weight=700,Style='italic'}}},Geist={Name=
+'geist',Faces={{File='geist/Geist-Thin.ttf',Weight=100,Style='normal'},{File=
+'geist/Geist-ThinItalic.ttf',Weight=100,Style='italic'},{File=
+'geist/Geist-ExtraLight.ttf',Weight=200,Style='normal'},{File=
+'geist/Geist-ExtraLightItalic.ttf',Weight=200,Style='italic'},{File=
+'geist/Geist-Light.ttf',Weight=300,Style='normal'},{File=
+'geist/Geist-LightItalic.ttf',Weight=300,Style='italic'},{File=
+'geist/Geist-Regular.ttf',Weight=400,Style='normal'},{File=
+'geist/Geist-Italic.ttf',Weight=400,Style='italic'},{File=
+'geist/Geist-Medium.ttf',Weight=500,Style='normal'},{File=
+'geist/Geist-MediumItalic.ttf',Weight=500,Style='italic'},{File=
+'geist/Geist-SemiBold.ttf',Weight=600,Style='normal'},{File=
+'geist/Geist-SemiBoldItalic.ttf',Weight=600,Style='italic'},{File=
+'geist/Geist-Bold.ttf',Weight=700,Style='normal'},{File=
+'geist/Geist-BoldItalic.ttf',Weight=700,Style='italic'},{File=
+'geist/Geist-ExtraBold.ttf',Weight=800,Style='normal'},{File=
+'geist/Geist-ExtraBoldItalic.ttf',Weight=800,Style='italic'},{File=
+'geist/Geist-Black.ttf',Weight=900,Style='normal'},{File=
+'geist/Geist-BlackItalic.ttf',Weight=900,Style='italic'}}},Manrope={Name=
+'manrope',Faces={{File='manrope/Manrope-ExtraLight.ttf',Weight=200,Style=
+'normal'},{File='manrope/manrope-light.ttf',Weight=300,Style='normal'},{File=
+'manrope/manrope-regular.ttf',Weight=400,Style='normal'},{File=
+'manrope/manrope-medium.ttf',Weight=500,Style='normal'},{File=
+'manrope/manrope-semibold.ttf',Weight=600,Style='normal'},{File=
+'manrope/manrope-bold.ttf',Weight=700,Style='normal'},{File=
+'manrope/manrope-extrabold.ttf',Weight=800,Style='normal'}}},['Space Grotesk']={
+Name='space-grotesk',Faces={{File='space-grotesk/SpaceGrotesk-Light.ttf',Weight=
+300,Style='normal'},{File='space-grotesk/SpaceGrotesk-Regular.ttf',Weight=400,
+Style='normal'},{File='space-grotesk/SpaceGrotesk-Medium.ttf',Weight=500,Style=
+'normal'},{File='space-grotesk/SpaceGrotesk-Bold.ttf',Weight=700,Style='normal'}
+}}}}end,['assets/lucide']=function(i,j)local k,l,m,n=j(i.Parent.Parent.utils.
+runtimeAssets),j(i.data),
 [[c75eae3390ccda7ae56a4b57354a6091170f523daf63fc458bbf0219c824f9e1]],
 [[https://raw.githubusercontent.com/jashxn/Ethos-Suite-Assets/bf2e3e2058fffb682e40b444035f58129e817b35/fonts/lucide/]]
 local o=table.freeze{Name='Lucide',Url=n..m..'/lucide.ttf',Version=m,Kind='font'
-,Bytes=903264,Checksum='bc832231',Weight=400,Style='normal'}local p,q,r,s={
-FontAsset=o},0 function p.IsIcon(t)return type(t)=='string'and l[t]~=nil end
-function p.GetFontAsset(t)if not p.IsIcon(t)then return nil,
-'Unknown Lucide icon.'end if not r then if os.clock()<q then return nil,s end
-local u,v=k.createFont(o)if not u then s=v or'Lucide font could not be loaded.'q
-=os.clock()+3 return nil,s end r=u s=nil q=0 end return{IconName=t,FontFace=r,
-Text=t},nil end return table.freeze(p)end,['assets/lucide/data']=function(i,j)
-return table.freeze{['a-arrow-down']=57344,['a-arrow-up']=57345,['a-large-small'
-]=57346,accessibility=57347,activity=57348,ad=57349,['air-vent']=57350,airplay=
-57351,['alarm-clock']=57352,['alarm-clock-check']=57353,['alarm-clock-minus']=
-57354,['alarm-clock-off']=57355,['alarm-clock-plus']=57356,['alarm-smoke']=57357
-,['align-center-horizontal']=57358,['align-center-vertical']=57359,[
-'align-end-horizontal']=57360,['align-end-vertical']=57361,[
-'align-horizontal-distribute-center']=57362,['align-horizontal-distribute-end']=
-57363,['align-horizontal-distribute-start']=57364,[
-'align-horizontal-justify-center']=57365,['align-horizontal-justify-end']=57366,
-['align-horizontal-justify-start']=57367,['align-horizontal-space-around']=57368
-,['align-horizontal-space-between']=57369,['align-start-horizontal']=57370,[
-'align-start-vertical']=57371,['align-vertical-distribute-center']=57372,[
-'align-vertical-distribute-end']=57373,['align-vertical-distribute-start']=57374
-,['align-vertical-justify-center']=57375,['align-vertical-justify-end']=57376,[
-'align-vertical-justify-start']=57377,['align-vertical-space-around']=57378,[
-'align-vertical-space-between']=57379,ambulance=57380,ampersand=57381,ampersands
-=57382,amphora=57383,anchor=57384,angle=57385,antenna=57386,anvil=57387,aperture
-=57388,['app-window']=57389,['app-window-mac']=57390,apple=57391,archive=57392,[
-'archive-restore']=57393,['archive-x']=57394,armchair=57395,['armenian-dram']=
-59201,['arrow-big-down']=57396,['arrow-big-down-dash']=57397,['arrow-big-left']=
-57398,['arrow-big-left-dash']=57399,['arrow-big-right']=57400,[
-'arrow-big-right-dash']=57401,['arrow-big-up']=57402,['arrow-big-up-dash']=57403
-,['arrow-down']=57404,['arrow-down-0-1']=57405,['arrow-down-1-0']=57406,[
+,Weight=400,Style='normal'}local p,q,r,s={FontAsset=o},0 function p.IsIcon(t)
+return type(t)=='string'and l[t]~=nil end function p.GetFontAsset(t)if not p.
+IsIcon(t)then return nil,'Unknown Lucide icon.'end if not r then if os.clock()<q
+then return nil,s end local u,v=k.createFont(o)if not u then s=v or
+'Lucide font could not be loaded.'q=os.clock()+3 return nil,s end r=u s=nil q=0
+end return{IconName=t,FontFace=r,Text=t},nil end return table.freeze(p)end,[
+'assets/lucide/data']=function(i,j)return table.freeze{['a-arrow-down']=57344,[
+'a-arrow-up']=57345,['a-large-small']=57346,accessibility=57347,activity=57348,
+ad=57349,['air-vent']=57350,airplay=57351,['alarm-clock']=57352,[
+'alarm-clock-check']=57353,['alarm-clock-minus']=57354,['alarm-clock-off']=57355
+,['alarm-clock-plus']=57356,['alarm-smoke']=57357,['align-center-horizontal']=
+57358,['align-center-vertical']=57359,['align-end-horizontal']=57360,[
+'align-end-vertical']=57361,['align-horizontal-distribute-center']=57362,[
+'align-horizontal-distribute-end']=57363,['align-horizontal-distribute-start']=
+57364,['align-horizontal-justify-center']=57365,['align-horizontal-justify-end']
+=57366,['align-horizontal-justify-start']=57367,['align-horizontal-space-around'
+]=57368,['align-horizontal-space-between']=57369,['align-start-horizontal']=
+57370,['align-start-vertical']=57371,['align-vertical-distribute-center']=57372,
+['align-vertical-distribute-end']=57373,['align-vertical-distribute-start']=
+57374,['align-vertical-justify-center']=57375,['align-vertical-justify-end']=
+57376,['align-vertical-justify-start']=57377,['align-vertical-space-around']=
+57378,['align-vertical-space-between']=57379,ambulance=57380,ampersand=57381,
+ampersands=57382,amphora=57383,anchor=57384,angle=57385,antenna=57386,anvil=
+57387,aperture=57388,['app-window']=57389,['app-window-mac']=57390,apple=57391,
+archive=57392,['archive-restore']=57393,['archive-x']=57394,armchair=57395,[
+'armenian-dram']=59201,['arrow-big-down']=57396,['arrow-big-down-dash']=57397,[
+'arrow-big-left']=57398,['arrow-big-left-dash']=57399,['arrow-big-right']=57400,
+['arrow-big-right-dash']=57401,['arrow-big-up']=57402,['arrow-big-up-dash']=
+57403,['arrow-down']=57404,['arrow-down-0-1']=57405,['arrow-down-1-0']=57406,[
 'arrow-down-a-z']=57407,['arrow-down-from-line']=57408,['arrow-down-left']=57409
 ,['arrow-down-narrow-wide']=57410,['arrow-down-right']=57411,[
 'arrow-down-to-dot']=57412,['arrow-down-to-line']=57413,['arrow-down-up']=57414,
@@ -600,98 +582,24 @@ wine=59176,['wine-off']=59177,workflow=59178,worm=59179,wrench=59180,[
 'assets/runtimeManifest']=function(i,j)return table.freeze{Version=
 '3e953f3a220548a7fdb6fa8fdab532cb6bcc7505',BaseUrl=
 [[https://raw.githubusercontent.com/jashxn/Ethos-Suite-Assets/3e953f3a220548a7fdb6fa8fdab532cb6bcc7505/images/ui/]]
-,Assets={['6049668989']={File='6049668989.png',Bytes=9592,Checksum='63318a6c'},[
-'9313765853']={File='9313765853.png',Bytes=2628,Checksum='7227e80e'},[
-'72171626148979']={File='72171626148979.png',Bytes=63038,Checksum='1900460a'},[
-'81624121716376']={File='81624121716376.png',Bytes=4357,Checksum='30a61169'},[
-'81857207543459']={File='81857207543459.png',Bytes=2149,Checksum='1bc0cf8c'},[
-'113005153483202']={File='113005153483202.png',Bytes=4352,Checksum='2e9b32af'},[
-'115758629709887']={File='115758629709887.png',Bytes=900,Checksum='bd987cda'},[
-'116215943524454']={File='116215943524454.png',Bytes=297,Checksum='e0365365'},[
-'117616164364352']={File='117616164364352.png',Bytes=3321,Checksum='e69a020c'},[
-'118471988295372']={File='118471988295372.png',Bytes=3378,Checksum='3fef4055'},[
-'121899300432067']={File='121899300432067.png',Bytes=6054,Checksum='a5c2b151'},[
-'122288503920903']={File='122288503920903.png',Bytes=15812,Checksum='edd43037'},
-['126065347737085']={File='126065347737085.png',Bytes=2209,Checksum='e6a1f22e'}}
-}end,['components/actionButton']=function(i,j)local k=i.Parent.Parent.utils
-local l,m,n,o,p,q=j(k.animate),j(k.color3),j(k.images),j(k.safecallback),j(k.
-perf),i.Parent.Parent.packages local r,s=j(q.fusion),j(i.Parent.Parent.Internal)
-local t,u,v,w,x,y,z=r.Children,r.OnEvent,r.peek,s.Scope,j(i.Parent.Parent.
-storage.theme),{},TweenInfo.new(0.25,Enum.EasingStyle.Quad,Enum.EasingDirection.
-Out)function y.new(A)b(c(g),d(h),e(false))A=A or{}local B,C,D,E,F=(A.Scope or w)
-:innerScope(),A.Size or UDim2.fromOffset(30,30),A.ImageSize or UDim2.fromOffset(
-18,18),A.CornerRadius or UDim.new(0,4),A.DefaultImage or''local G,H=A.
-ActiveImage or F,A.DefaultImageKey local I,J,K,L,M,N,O,P=A.ActiveImageKey or H,A
-.IsToggled or B:Value(false),A.HasNotification or B:Value(false),A.
-NotificationColor or x.AccentDestructive,A.NotificationSize or UDim2.fromOffset(
-8,8),if A.Name=='Dashboard'then'ui:dashboardToggleClick'else
-'ui:actionButtonClick',B:Value(false),B:Value(false)local Q,R,S,T={Root=nil,
-IsToggled=J,HasNotification=K,Type='ActionButton'},function()p.mark(N)p.profile(
-N,function()if A.ToggleOnClick~=false then J:set(not v(J))end if A.OnClick then
-o(function()A.OnClick(v(J))end)end end)end,function(Q,R,S)local T=B:Tween(B:
-Computed(function(T)b(c(g),d(h),e(false))return T(S)and 1 or 0 end),z)local U=B:
-New'ImageLabel'{Name='ImageLabel',BackgroundTransparency=1,Image=Q,
-ImageTransparency=B:Computed(function(U)b(c(g),d(h),e(false))return 1-math.
-clamp(U(T),0,1)end),Visible=B:Computed(function(U)b(c(g),d(h),e(false))return U(
-T)>0.01 end),ImageColor3=l(function(U)b(c(g),d(h),e(false))if U(J)then return U(
-x.AccentPrimary)else return U(x.FgTertiary)end end,35,1,B),Size=l(function(U)b(
-c(g),d(h),e(false))local V=D if U(P)then return UDim2.new(V.X.Scale,V.X.Offset*
-0.9,V.Y.Scale,V.Y.Offset*0.9)elseif U(J)then return UDim2.new(V.X.Scale,V.X.
-Offset*1.1,V.Y.Scale,V.Y.Offset*1.1)else return V end end,50,1,B),Rotation=l(
-function(U)b(c(g),d(h),e(false))if U(P)then return-5 else return 0 end end,70,1,
-B),Position=UDim2.fromScale(0.5,0.5),AnchorPoint=Vector2.new(0.5,0.5),[t]={B:New
-'UIScale'{Scale=B:Computed(function(U)b(c(g),d(h),e(false))return 0.75+0.25*math
-.clamp(U(T),0,1)end)}}}if R then return n:Track(R,U)end return U end if H then
-local U,V=B:Computed(function(U)b(c(g),d(h),e(false))return not U(J)end),B:
-Computed(function(U)b(c(g),d(h),e(false))return U(J)end)T={S(n[H]or F,H,U),S(n[I
-]or G,I,V)}else T=S(B:Computed(function(U)b(c(g),d(h),e(false))if U(J)then
-return G else return F end end),nil,B:Value(true))end local U=l(function(U)b(c(g
-),d(h),e(false))return(U(K)and not U(J))and 1 or 0 end,32,0.65,B)local V=B:New
-'Frame'{Name='ActionButtonContainer',BackgroundTransparency=1,Size=C,LayoutOrder
-=A.LayoutOrder or 0,[t]={B:New'ImageButton'{Name=A.Name or'ActionButton',
-AutoButtonColor=false,BackgroundColor3=l(function(V)b(c(g),d(h),e(false))if V(P)
-then return m.lightenRGB(V(x.BgPrimary),2)elseif V(O)then return m.lightenRGB(V(
-x.BgPrimary),10)else return V(x.BgPrimary)end end,45,1,B),BorderColor3=Color3.
-fromRGB(0,0,0),BorderSizePixel=0,Size=l(function(V)b(c(g),d(h),e(false))if V(P)
-then return UDim2.fromScale(0.92,0.92)elseif V(O)then return UDim2.fromScale(
-1.05,1.05)else return UDim2.fromScale(1,1)end end,60,1,B),Position=UDim2.
-fromScale(0.5,0.5),AnchorPoint=Vector2.new(0.5,0.5),ZIndex=2,[t]={B:New
-'UICorner'{Name='UICorner',CornerRadius=E},B:New'UIStroke'{Name='UIStroke',Color
-=l(function(V)b(c(g),d(h),e(false))local W=if A.StrokeColor~=nil then V(A.
-StrokeColor)else m.lightenRGB(V(x.BgTertiary),18)if V(P)then return m.
-lightenRGB(W,2)elseif V(O)then return m.lightenRGB(W,8)else return W end end,50,
-1,B),Thickness=A.StrokeThickness or 1,Transparency=0,Enabled=A.Stroke~=false},T}
-,[u'MouseEnter']=function()O:set(true)if A.OnMouseEnter then A.OnMouseEnter()end
-end,[u'MouseLeave']=function()O:set(false)if A.OnMouseLeave then A.OnMouseLeave(
-)end end,[u'MouseButton1Down']=function()P:set(true)if A.OnMouseDown then A.
-OnMouseDown()end end,[u'MouseButton1Up']=function()P:set(false)if A.OnMouseUp
-then A.OnMouseUp()end end,[u'Activated']=function()R()end,[u'InputBegan']=
-function(V)if V.UserInputType==Enum.UserInputType.MouseButton1 or V.
-UserInputType==Enum.UserInputType.Touch then P:set(true)end end,[u'InputEnded']=
-function(V)if V.UserInputType==Enum.UserInputType.MouseButton1 or V.
-UserInputType==Enum.UserInputType.Touch then P:set(false)if A.OnInputEnded then
-A.OnInputEnded(V)end end end},B:Computed(function()if A.ShowNotification then
-return B:New'Frame'{Name='NotificationIndicator',AnchorPoint=Vector2.new(1,0),
-BackgroundColor3=L,BorderSizePixel=0,Position=UDim2.new(1,2,0,-2),
-BackgroundTransparency=B:Computed(function(V)b(c(g),d(h),e(false))return 1-math.
-clamp(V(U),0,1)end),Size=B:Computed(function(V)b(c(g),d(h),e(false))local W=math
-.max(V(U),0)return UDim2.new(M.X.Scale*W,M.X.Offset*W,M.Y.Scale*W,M.Y.Offset*W)
-end),Visible=B:Computed(function(V)b(c(g),d(h),e(false))return V(U)>0.01 end),
-ZIndex=5,[t]={B:New'UICorner'{CornerRadius=UDim.new(1,0)},B:New'UIStroke'{Color=
-Color3.fromRGB(40,40,40),Thickness=1,Transparency=B:Computed(function(V)b(c(g),
-d(h),e(false))return 1-0.5*math.clamp(V(U),0,1)end)}}}end return nil end)}}Q.
-Root=V local W=false function Q.Destroy(X)if W then return end B:doCleanup()end
-B:insert(function()W=true end)B:insert(V.Destroying:Connect(function()Q:Destroy(
-)end))function Q.Click(X)if not W then R()end end return Q end return y end,[
-'components/button']=function(i,j)local k=i.Parent.Parent.utils local l,m,n,o,p,
-q=j(k.images),j(k.animate),j(k.color3),j(k.safecallback),j(k.controlLock),i.
-Parent.Parent.packages local r,s=j(q.fusion),j(i.Parent.Parent.Internal)local t,
-u,v,w,x,y=r.peek,s.Scope,r.Children,r.OnEvent,j(i.Parent.Parent.storage.theme),{
-}function y.new(z)b(c(g),d(h),e(false))z=z or{}local A,B,C=(z.Scope or u):
-innerScope(),z.AutomaticSizeX or false,z.Size if not C then if B then C=UDim2.
-new(0,0,0,z.Height or 28)else C=UDim2.new(1,0,0,z.Height or 28)end end local D,E
-,F,G={Callback=z.Callback or function()end,Style=string.lower(z.Type or'default'
-),HoverStyle=z.HoverType and string.lower(z.HoverType)or nil,Type='Button',
+,Assets={['6049668989']={File='6049668989.png'},['9313765853']={File=
+'9313765853.png'},['72171626148979']={File='72171626148979.png'},[
+'81624121716376']={File='81624121716376.png'},['81857207543459']={File=
+'81857207543459.png'},['113005153483202']={File='113005153483202.png'},[
+'115758629709887']={File='115758629709887.png'},['116215943524454']={File=
+'116215943524454.png'},['117616164364352']={File='117616164364352.png'},[
+'118471988295372']={File='118471988295372.png'},['121899300432067']={File=
+'121899300432067.png'},['122288503920903']={File='122288503920903.png'},[
+'126065347737085']={File='126065347737085.png'}}}end,['components/button']=
+function(i,j)local k=i.Parent.Parent.utils local l,m,n,o,p,q=j(k.images),j(k.
+animate),j(k.color3),j(k.safecallback),j(k.controlLock),i.Parent.Parent.packages
+local r,s=j(q.fusion),j(i.Parent.Parent.Internal)local t,u,v,w,x,y=r.peek,s.
+Scope,r.Children,r.OnEvent,j(i.Parent.Parent.storage.theme),{}function y.new(z)
+b(c(g),d(h),e(false))z=z or{}local A,B,C=(z.Scope or u):innerScope(),z.
+AutomaticSizeX or false,z.Size if not C then if B then C=UDim2.new(0,0,0,z.
+Height or 28)else C=UDim2.new(1,0,0,z.Height or 28)end end local D,E,F,G={
+Callback=z.Callback or function()end,Style=string.lower(z.Type or'default'),
+HoverStyle=z.HoverType and string.lower(z.HoverType)or nil,Type='Button',
 TooltipText=z.Tooltip or nil,Root=nil},A:Value(false),A:Value(false),if z.
 Enabled==nil then true else z.Enabled local H=p.attach(A,D,z,z.LockState)local I
 =A:Computed(function(I)return I(G)and not I(H.Locked)end)D.Callback=p.guard(D,D.
@@ -915,708 +823,32 @@ UDim.new(0,8),SortOrder=Enum.SortOrder.LayoutOrder},x:New'UIPadding'{Name=
 'UIPadding',PaddingBottom=UDim.new(0,8),PaddingLeft=UDim.new(0,8),PaddingRight=
 UDim.new(0,8),PaddingTop=UDim.new(0,8)},x:ForPairs(m.Suggestions,function(D,E,F,
 G)return F,r{Scope=E,name=G.name,description=G.description,types=G.types,top=G.
-top}end)}}}}}}return D end end,['components/dashboard']=function(i,j)local k,l,m
-,n=j(i.Parent.Parent.packages.states),j(i.components),j(i.hooks),j(i.Parent.
-Parent.utils.animate)local o=k.DashboardScope local p,q,r,s,t=o.Children,l.
-Canvas,j(i.views.Pages),j(i.views.Navbar),table.freeze{BACKGROUND_COLOR=Color3.
-fromRGB(0,0,0),SPRING_SPEED=15,SPRING_DAMPING=1,PADDING=table.freeze{TOP=48,LEFT
-=48,RIGHT=48,NAVBAR_OFFSET=56},GRADIENT_CONFIG=table.freeze{TRANSPARENCY=
-NumberSequence.new{NumberSequenceKeypoint.new(0,1),NumberSequenceKeypoint.new(1,
-0.25)},ROTATION=90},HIDDEN_TRANSPARENCY_THRESHOLD=0.999}local u=function()local
-u,v,w=o:innerScope(),k.isDashboardToggled,m.usePadding local x,y=w(),u:Computed(
-function(x)return x(v)and 0 or 1 end)local z=n(function(z)return z(y)end,t.
-SPRING_SPEED,t.SPRING_DAMPING,u)local A,B=u:Computed(function(A)if A(v)then
-return true end if not A(k.AnimationsEnabled)then return false end return A(z)<t
-.HIDDEN_TRANSPARENCY_THRESHOLD end),u:Computed(function(A)return t.PADDING.
-NAVBAR_OFFSET+A(x)end)return u:New'Frame'{Name='Dashboard',Size=UDim2.fromScale(
-1,1),Position=UDim2.fromScale(0,0),BackgroundTransparency=1,Visible=A,[p]={u:New
-'Frame'{Size=UDim2.fromScale(1,1),BackgroundColor3=t.BACKGROUND_COLOR,
-BackgroundTransparency=z,BorderSizePixel=0,[p]={u:New'UIGradient'{Transparency=t
-.GRADIENT_CONFIG.TRANSPARENCY,Rotation=t.GRADIENT_CONFIG.ROTATION}}},q{padding={
-top=t.PADDING.TOP,bottom=x,left=t.PADDING.LEFT,right=t.PADDING.RIGHT},[p]={q{
-padding={bottom=B},[p]={r(u)}},s()}}}}end return u end,[
-'components/dashboard/components']=function(i,j)local k=j(i.Glow)return{Canvas=
-j(i.Canvas),Card=j(i.Card),Fill=j(i.Fill),Border=j(i.Border),Glow=k.Glow,
-GlowRadius=k.GlowRadius,TabContainer=j(i.TabContainer),ServerTab=j(i.ServerTab),
-GameTab=j(i.GameTab)}end,['components/dashboard/components/Border']=function(i,j
-)local k,l=j(i.Parent.Parent.utils),j(i.Parent.Parent.Parent.Parent.packages.
-states)local m=l.DashboardScope local n,o,p=m.Children,k.udim2,k.bindingUtil
-local q,r,s=o.px,p.mapBinding,p.asBinding local t=function(t,u)local v,w,x,y,z=t
-.size or 1,t.radius or 0,t.color or Color3.new(1,1,1),t.transparency or 0,t[n]if
-not u then u=m end return u:New'Frame'{Size=r(v,function(A)return UDim2.new(1,-A
-*2,1,-A*2)end),Position=r(v,function(A)return q(A,A)end),BackgroundTransparency=
-1,[n]={u:New'UIStroke'{Thickness=v,Color=x,Transparency=y},u:New'UICorner'{
-CornerRadius=u:Computed(function(A)local B,C=A(s(w)),A(s(v))if B=='circular'then
-return UDim.new(1,0)else return UDim.new(0,B-C*2)end end)},z}}end return t end,[
-'components/dashboard/components/Canvas']=function(i,j)local k,l=j(i.Parent.
-Parent.Parent.Parent.packages.fusion),j(i.Parent.Parent.Parent.Parent.packages.
-states)local m,n=l.DashboardScope,k.Children local o=function(o,p)if type(o)==
-'table'then return m:Computed(function(q)return p(q(o))end)else return p(o)end
-end local p=function(p)local q,r,s,t,u,v,w,x=p.size or UDim2.fromScale(1,1),p.
-position or UDim2.fromScale(0,0),p.anchor,p.padding,p.clipsDescendants,p.zIndex,
-p.visible,p[n]local y=m:New'Frame'{Size=q,Position=r,AnchorPoint=s,
-ClipsDescendants=u,BackgroundTransparency=1,Visible=w,ZIndex=v,[n]={t and m:New
-'UIPadding'{PaddingTop=t.top and o(t.top,function(y)return UDim.new(0,y)end),
-PaddingRight=t.right and o(t.right,function(y)return UDim.new(0,y)end),
-PaddingBottom=t.bottom and o(t.bottom,function(y)return UDim.new(0,y)end),
-PaddingLeft=t.left and o(t.left,function(y)return UDim.new(0,y)end)},x}}return y
-end return p end,['components/dashboard/components/Card']=function(i,j)local k,l
-,m,n,o=j(i.Parent.Parent.utils),j(i.Parent.Parent.hooks),j(i.Parent.Parent.
-Parent.Parent.storage.theme),j(i.Parent.Parent.Parent.Parent.packages.states),j(
-i.Parent.Parent.Parent.Parent.packages.fusion)local p=n.DashboardScope local q,r
-,s,t,u,v=p.Children,o.peek,j(i.Parent.Canvas),j(i.Parent.Fill),j(i.Parent.Border
-),j(i.Parent.Glow)local w,x,y=v.Glow,v.GlowRadius,k.udim2 local z,A,B,C=y.px,l.
-useCurrentPage.useIsPageOpen,l.useDelayedUpdate,l.useSpring local D=function(D)
-local E,F,G,H,I,J=D.index or 0,D.page,D.size or z(326,648),D.position or UDim2.
-new(0,0,1,0),D[q],m.GetNavbarTheme()local K,L,M=A(F),(r(n.AnimationsEnabled))if
-L then M=B(K,function(N)return N and(E*40)or 0 end)end local N,O=H if L then O=p
-:Computed(function(P)local Q=P(H)local R=Q.X.Offset+G.X.Offset+100 return UDim2.
-new(Q.X.Scale,-R,Q.Y.Scale,Q.Y.Offset)end)N=C(p:Computed(function(P)local Q=P(M)
-return Q and H or P(O)end),{frequency=2,dampingRatio=0.8})end return s{anchor=
-Vector2.new(0,1),size=G,position=N,visible=p:Computed(function(P)if P(n.
-AnimationsEnabled)then return true end return P(K)end),[q]={w{radius=x.Size198,
-size=UDim2.new(1,100,1,96),position=z(-50,-28),color=J.dropshadow,gradient=J.
-dropshadowGradient,transparency=J.dropshadowTransparency},t{color=m.BgPrimary,
-transparency=0,radius=16,[q]={I,J.outlined and u{color=m.BgTertiary,radius=16,
-transparency=0.8}or nil}}}}end return D end,[
-'components/dashboard/components/Fill']=function(i,j)local k,l=j(i.Parent.Parent
-.utils),j(i.Parent.Parent.Parent.Parent.packages.states)local m=l.DashboardScope
-local n,o,p=m.Children,k.udim2,k.bindingUtil local q,r=o.scale,p.mapBinding
-local s=function(s)local t,u,v,w,x=s.color or Color3.new(1,1,1),s.gradient,s.
-transparency or 0,s.radius or 0,s[n]return m:New'Frame'{Size=q(1,1),
-BackgroundColor3=t,BackgroundTransparency=v,BorderSizePixel=0,[n]={u and m:New
-'UIGradient'{Color=u.color,Transparency=u.transparency,Rotation=u.rotation},(w~=
-nil and w~=0)and m:New'UICorner'{CornerRadius=r(w,function(y)if y=='circular'
-then return UDim.new(1,0)else return UDim.new(0,y)end end)},x}}end return s end,
-['components/dashboard/components/GameTab']=function(i,j)local k,l,m,n,o,p,q,r=
-j(i.Parent.Parent.Parent.Parent.packages.fusion),j(i.Parent.Parent.Parent.Parent
-.utils.images),j(i.Parent.Parent.utils),j(i.Parent.Parent.Parent.Parent.storage.
-theme),j(i.Parent.Parent.Parent.Parent.utils.color3),j(i.Parent.Parent.Parent.
-Parent.utils.animate),j(i.Parent.Parent.Parent.Parent.utils.pendingTasks),j(i.
-Parent.Parent.Parent.Parent.packages.states)local s=r.DashboardScope local t,u,v
-,w,x,y,z=s.Children,k.peek,k.OnEvent,j(i.Parent.Canvas),j(i.Parent.Fill),m.
-gameInfo,j(i.Parent.Parent.Parent.Parent.utils.services)local A,B,C=z.
-TeleportService,z.Players,function(A)local B,C,D,E,F=s:Value(false),s:Value(
-false),s:Value(false),s:Value(false),s:Value(false)return s:New'Frame'{Size=
-UDim2.new(1,0,0,120),BackgroundTransparency=1,LayoutOrder=A.order or 1,[t]={x{
-color=n.BgPrimaryHighlight,transparency=0.3,radius=8,[t]={s:New'UIStroke'{Color=
-n.BgTertiary,Transparency=0.45,Thickness=1},w{padding={left=16,right=16,top=16,
-bottom=16},[t]={s:New'TextLabel'{Text='Game & Place IDs',Size=UDim2.new(1,0,0,20
-),Position=UDim2.new(0,0,0,0),BackgroundTransparency=1,TextColor3=n.FgPrimary,
-TextSize=16,FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Bold,
-Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=
-Enum.TextYAlignment.Center},s:New'Frame'{Size=UDim2.new(1,0,0,60),Position=UDim2
-.new(0,0,0,32),BackgroundTransparency=1,[t]={s:New'UIListLayout'{Padding=UDim.
-new(0,12),SortOrder=Enum.SortOrder.LayoutOrder,FillDirection=Enum.FillDirection.
-Horizontal},s:New'Frame'{Size=UDim2.new(0.5,-6,1,0),BackgroundColor3=p(function(
-G)local H=G(n.BgPrimaryHighlight)if G(C)then return o.darkenRGB(H,8)elseif G(B)
-then return o.lightenRGB(H,15)else return H end end,35,0.9,s),BorderSizePixel=0,
-LayoutOrder=1,Position=UDim2.new(0,0,0,0),[t]={s:New'UICorner'{CornerRadius=UDim
-.new(0,8)},s:New'UIStroke'{Color=p(function(G)if G(C)then return u(n.
-AccentPrimary)elseif G(B)then return u(n.FgPrimary)else return u(n.BgTertiary)
-end end,35,0.9,s),Transparency=p(function(G)local H=0.7 if G(C)then H=0.1 elseif
-G(B)then H=0.3 end return H end,35,0.9,s),Thickness=p(function(G)if G(C)then
-return 2 elseif G(B)then return 1.5 else return 1 end end,35,0.9,s)},s:New
-'TextButton'{Text='',Size=UDim2.new(1,0,1,0),BackgroundTransparency=1,
-AutoButtonColor=false,[v'MouseEnter']=function()B:set(true)end,[v'MouseLeave']=
-function()B:set(false)end,[v'MouseButton1Down']=function()C:set(true)end,[v
-'MouseButton1Up']=function()C:set(false)end,[v'Activated']=function()local G=u(y
-.getGameInfo())local H=pcall(function()if setclipboard then setclipboard(
-tostring(G.gameId))end end)if H then F:set(true)task.wait(1)F:set(false)end end}
-,s:New'TextLabel'{Text='Game ID',Size=UDim2.new(1,0,0,14),Position=UDim2.new(0,
-12,0,8),BackgroundTransparency=1,TextColor3=n.FgSecondary,TextTransparency=0,
-TextSize=13,FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Medium,
-Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=
-Enum.TextYAlignment.Center},s:New'TextLabel'{Text=s:Computed(function(G)return
-tostring(G(y.getGameInfo()).gameId)end),Size=UDim2.new(1,-12,0,24),Position=
-UDim2.new(0,12,0,26),BackgroundTransparency=1,TextColor3=n.FgPrimary,
-TextTransparency=0,TextSize=14,FontFace=Font.new('rbxassetid://12187365364',Enum
-.FontWeight.Bold,Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,
-TextYAlignment=Enum.TextYAlignment.Center}}},s:New'Frame'{Size=UDim2.new(0.5,-6,
-1,0),BackgroundColor3=p(function(G)local H=G(n.BgPrimaryHighlight)if G(E)then
-return o.darkenRGB(H,8)elseif G(D)then return o.lightenRGB(H,15)else return H
-end end,35,0.9,s),BorderSizePixel=0,LayoutOrder=2,Position=UDim2.new(0,0,0,0),[t
-]={s:New'UICorner'{CornerRadius=UDim.new(0,8)},s:New'UIStroke'{Color=p(function(
-G)if G(E)then return G(n.AccentPrimary)elseif G(D)then return G(n.FgPrimary)else
-return G(n.BgTertiary)end end,35,0.9,s),Transparency=p(function(G)local H=0.7 if
-G(E)then H=0.1 elseif G(D)then H=0.3 end return H end,35,0.9,s),Thickness=p(
-function(G)if G(E)then return 2 elseif G(D)then return 1.5 else return 1 end end
-,35,0.9,s)},s:New'TextButton'{Text='',Size=UDim2.new(1,0,1,0),
-BackgroundTransparency=1,AutoButtonColor=false,[v'MouseEnter']=function()D:set(
-true)end,[v'MouseLeave']=function()D:set(false)end,[v'MouseButton1Down']=
-function()E:set(true)end,[v'MouseButton1Up']=function()E:set(false)end,[v
-'Activated']=function()local G=u(y.getGameInfo())local H=pcall(function()if
-setclipboard then setclipboard(tostring(G.placeId))end end)if H then F:set(true)
-task.wait(1)F:set(false)end end},s:New'TextLabel'{Text='Place ID',Size=UDim2.
-new(1,0,0,14),Position=UDim2.new(0,12,0,8),BackgroundTransparency=1,TextColor3=n
-.FgSecondary,TextTransparency=0,TextSize=13,FontFace=Font.new(
-'rbxassetid://12187365364',Enum.FontWeight.Medium,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center},s:New'TextLabel'{Text=s:Computed(function(G)return tostring(G(y.
-getGameInfo()).placeId)end),Size=UDim2.new(1,-12,0,24),Position=UDim2.new(0,12,0
-,26),BackgroundTransparency=1,TextColor3=n.FgPrimary,TextTransparency=0,TextSize
-=14,FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Bold,Enum.
-FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.
-TextYAlignment.Center}}}}}}}}}}}end local D,E=function(D,E)local F,G=D:Value(
-false),D:Value(false)return D:New'TextButton'{Text='',Size=UDim2.new(1,0,0,60),
-BackgroundColor3=D:Computed(function(H)return if H(F)and not H(G)then H(n.
-BgPrimary)else H(n.BgPrimaryHighlight)end),BorderSizePixel=0,AutoButtonColor=
-false,LayoutOrder=E.order or 1,Position=UDim2.new(0,0,0,0),[v'MouseEnter']=
-function()F:set(true)end,[v'MouseLeave']=function()F:set(false)end,[v'Activated'
-]=function()if u(G)then return end G:set(true)q.spawn(function()local H,I=pcall(
-function()A:Teleport(E.placeId,B.LocalPlayer)end)if not H then warn(
-'Teleport failed:',I)end G:set(false)end)end,[t]={D:New'UICorner'{CornerRadius=
-UDim.new(0,8)},D:New'UIStroke'{Color=n.BgTertiary,Transparency=0,Thickness=1},D:
-New'Frame'{Size=UDim2.new(0,4,1,-16),Position=UDim2.new(0,8,0,8),
-BackgroundColor3=n.AccentPrimary,BorderSizePixel=0,[t]={D:New'UICorner'{
-CornerRadius=UDim.new(1,0)}}},D:New'TextLabel'{Text=E.placeName or
-'Unknown Place',Size=UDim2.new(1,-60,0,22),Position=UDim2.new(0,20,0,10),
-BackgroundTransparency=1,TextColor3=n.FgPrimary,TextTransparency=0,TextSize=14,
-FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Bold,Enum.FontStyle
-.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.
-TextYAlignment.Center,TextTruncate=Enum.TextTruncate.AtEnd},D:New'TextLabel'{
-Text='Place ID: '..E.placeId,Size=UDim2.new(1,-60,0,18),Position=UDim2.new(0,20,
-0,32),BackgroundTransparency=1,TextColor3=n.FgSecondary,TextTransparency=0,
-TextSize=12,FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Medium,
-Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=
-Enum.TextYAlignment.Center},l:Track('PlaceLoadingIcon',D:New'ImageLabel'{Image=l
-.PlaceLoadingIcon,ImageColor3=n.AccentCaution,Visible=G,Size=UDim2.new(0,22,0,22
-),Position=UDim2.new(1,-30,0.5,-11),BackgroundTransparency=1,ImageTransparency=0
-}),l:Track('PlaceAvailableIcon',D:New'ImageLabel'{Image=l.PlaceAvailableIcon,
-ImageColor3=n.AccentPrimary,Visible=D:Computed(function(H)return not H(G)end),
-Size=UDim2.new(0,22,0,22),Position=UDim2.new(1,-30,0.5,-11),
-BackgroundTransparency=1,ImageTransparency=0})}}end,function(D)return s:New
-'Frame'{Size=UDim2.new(1,0,1,-136),BackgroundTransparency=1,LayoutOrder=D.order
-or 1,[t]={x{color=n.BgPrimaryHighlight,transparency=0.3,radius=8,[t]={s:New
-'UIStroke'{Color=n.BgTertiary,Transparency=0.45,Thickness=1},w{padding={left=16,
-right=16,top=16,bottom=16},[t]={s:New'Frame'{Size=UDim2.new(1,0,0,32),
-BackgroundTransparency=1,Position=UDim2.new(0,0,0,0),[t]={s:New'TextLabel'{Text=
-'Universe Places',Size=UDim2.new(1,-28,1,0),BackgroundTransparency=1,TextColor3=
-n.FgPrimary,TextTransparency=0,TextSize=16,FontFace=Font.new(
-'rbxassetid://12187365364',Enum.FontWeight.Bold,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center},s:New'Frame'{Size=UDim2.new(0,20,0,20),Position=UDim2.new(1,-20,0.5,-10)
-,BackgroundTransparency=1,[t]={s:New'UIScale'{Scale=1},l:Track('PlaceIcon',s:New
-'ImageLabel'{Image=l.PlaceIcon,ImageColor3=n.AccentPrimary,Size=UDim2.new(1,0,1,
-0),BackgroundTransparency=1,ImageTransparency=0})}}}},s:New'ScrollingFrame'{Size
-=UDim2.new(1,0,1,-40),Position=UDim2.new(0,0,0,40),BackgroundTransparency=1,
-BorderSizePixel=0,ScrollBarThickness=6,ScrollBarImageColor3=n.BgTertiary,
-ScrollBarImageTransparency=0,CanvasSize=D.canvasSize,[t]={s:New'UIListLayout'{
-Padding=UDim.new(0,12),SortOrder=Enum.SortOrder.LayoutOrder},D.content}}}}}}}}
-end local F=function()local F=y.getGameInfo()return w{padding={top=2,left=2,
-right=2},[t]={s:New'Frame'{Size=UDim2.new(1,0,1,0),BackgroundTransparency=1,[t]=
-{s:New'UIListLayout'{Padding=UDim.new(0,12),SortOrder=Enum.SortOrder.LayoutOrder
-,FillDirection=Enum.FillDirection.Vertical},C{order=1},E{canvasSize=s:Computed(
-function(G)local H=G(F)local I=math.max(#H.placeIds,1)return UDim2.new(0,0,0,I*
-68)end),content=s:Computed(function(G)local H=G(F)local I=H.placeIds if#I<=1
-then return s:New'TextLabel'{Text='No additional places found in this universe',
-Size=UDim2.new(1,0,0,60),BackgroundTransparency=1,TextColor3=n.FgSecondary,
-TextSize=14,FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Medium,
-Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Center,TextYAlignment=
-Enum.TextYAlignment.Center,LayoutOrder=1}end return s:ForValues(I,function(J,K,L
-,M)return D(K,{placeId=L,placeName='Place '..L,order=M})end)end),order=2}}}}}end
-return F end,['components/dashboard/components/Glow']=function(i,j)local k,l,m,n
-,o=j(i.Parent.Parent.utils),j(i.Parent.Parent.Parent.Parent.packages.states),j(i
-.Parent.Canvas),j(i.Parent.Parent.Parent.Parent.utils.runtimeAssets),j(i.Parent.
-Parent.Parent.Parent.assets.icons.generatedDashboardImages)local p=l.
-DashboardScope local q,r,s,t=p.Children,k.udim2,k.numberUtil,k.bindingUtil local
-u,v,w,x,y=r.px,r.applyUDim2,s.map,t.asBinding,{Size70=o.Glow70,Size146=o.Glow146
-,Size198=o.Glow198}local z,A={[y.Size70]=35,[y.Size146]=73,[y.Size198]=99},{[y.
-Size70]=37.5,[y.Size146]=75,[y.Size198]=125}local B=function(B)local C,D,E,F,G,H
-,I,J,K,L=B.radius,B.size,B.position,B.color,B.gradient,B.transparency or 0,B.
-maintainCornerRadius,B[q],p:Value(Vector2.new()),p:Value(1)local M,N=z[C],A[C]
-local O,P=I and p:Computed(function(O)local P=v(O(K),O(x(D)),O(L))return u(math.
-max(P.X,M*2),math.max(P.Y,M*2))end)or D,I and p:Computed(function(O)local P,Q=M*
-2,O(x(D))local R=v(O(K),UDim2.fromScale(Q.X.Scale,Q.Y.Scale),O(L)).X if R<P then
-local S=O(x(H))return 1-(1-S)*w(R,0,P,0,1)else return O(x(H))end end)or H return
-m{onChange=I and{AbsoluteSize=function(Q)K:set(Q.AbsoluteSize)end}or nil,[q]={p:
-New'ImageLabel'{Image=n.resolve(C),ImageColor3=F,ImageTransparency=P,ScaleType=
-Enum.ScaleType.Slice,SliceCenter=Rect.new(Vector2.new(N,N),Vector2.new(N,N)),
-SliceScale=p:Computed(function(Q)return Q(L)*0.1+0.9 end),Size=O,Position=E,
-BackgroundTransparency=1,[q]={G and p:New'UIGradient'{Color=G.color,Transparency
-=G.transparency,Rotation=G.rotation},J}}}}end return{Glow=B,GlowRadius=y}end,[
-'components/dashboard/components/ServerTab']=function(i,j)local k,l,m,n=j(i.
-Parent.Parent.utils),j(i.Parent.Parent.Parent.Parent.utils.images),j(i.Parent.
-Parent.Parent.Parent.storage.theme),j(i.Parent.Parent.Parent.Parent.packages.
-states)local o=n.DashboardScope local p,q,r,s,t,u=o.Children,j(i.Parent.Canvas),
-j(i.Parent.Fill),k.gameInfo,table.freeze{STAT_ROW_HEIGHT=24,CARD_HEIGHT=100,
-ENHANCED_CARD_HEIGHT=140,SERVER_STATS_HEIGHT=130,PADDING=table.freeze{SMALL=4,
-MEDIUM=12,LARGE=24},FONT_CONFIG=table.freeze{ASSET_ID='rbxassetid://12187365364'
-,SIZES=table.freeze{SMALL=11,MEDIUM=12,LARGE=16}}},function(p)local q,r,s=math.
-floor(p/3600),math.floor((p%3600)/60),p%60 if q>0 then return string.format(
-'%dh %dm',q,r)elseif r>0 then return string.format('%dm %ds',r,s)else return
-string.format('%ds',s)end end local v=function(v)local w=o:innerScope()return w:
-New'Frame'{Size=UDim2.new(1,0,0,t.STAT_ROW_HEIGHT),Position=v.position,
-BackgroundTransparency=1,[p]={w:New'Frame'{Size=UDim2.new(1,0,1,0),
-BackgroundTransparency=1,[p]={w:New'UIListLayout'{Padding=UDim.new(0,t.PADDING.
-SMALL),SortOrder=Enum.SortOrder.LayoutOrder,FillDirection=Enum.FillDirection.
-Horizontal},w:New'Frame'{Size=UDim2.new(0,45,1,0),BackgroundTransparency=1,
-LayoutOrder=1,[p]={w:New'TextLabel'{Text='AVG',Size=UDim2.new(1,0,0,10),Position
-=UDim2.new(0,0,0,0),BackgroundTransparency=1,TextColor3=m.FgSecondary,
-TextTransparency=v.transparency or 0,TextSize=t.FONT_CONFIG.SIZES.SMALL,FontFace
-=Font.new(t.FONT_CONFIG.ASSET_ID,Enum.FontWeight.Medium,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center},w:New'TextLabel'{Text=v.avgValue,Size=UDim2.new(1,0,0,12),Position=UDim2
-.new(0,0,0,12),BackgroundTransparency=1,TextColor3=m.Success,TextTransparency=v.
-transparency or 0,TextSize=t.FONT_CONFIG.SIZES.MEDIUM,FontFace=Font.new(t.
-FONT_CONFIG.ASSET_ID,Enum.FontWeight.Bold,Enum.FontStyle.Normal),TextXAlignment=
-Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.Center}}},o:New
-'Frame'{Size=UDim2.new(0,45,1,0),BackgroundTransparency=1,LayoutOrder=2,[p]={o:
-New'TextLabel'{Text='MIN',Size=UDim2.new(1,0,0,10),Position=UDim2.new(0,0,0,0),
-BackgroundTransparency=1,TextColor3=m.FgSecondary,TextTransparency=v.
-transparency or 0,TextSize=11,FontFace=Font.new('rbxassetid://12187365364',Enum.
-FontWeight.Medium,Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left
-,TextYAlignment=Enum.TextYAlignment.Center},o:New'TextLabel'{Text=v.minValue,
-Size=UDim2.new(1,0,0,12),Position=UDim2.new(0,0,0,12),BackgroundTransparency=1,
-TextColor3=Color3.fromRGB(255,255,255),TextTransparency=v.transparency or 0,
-TextSize=12,FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Bold,
-Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=
-Enum.TextYAlignment.Center}}},o:New'Frame'{Size=UDim2.new(0,45,1,0),
-BackgroundTransparency=1,LayoutOrder=3,[p]={o:New'TextLabel'{Text='MAX',Size=
-UDim2.new(1,0,0,10),Position=UDim2.new(0,0,0,0),BackgroundTransparency=1,
-TextColor3=m.FgSecondary,TextTransparency=v.transparency or 0,TextSize=11,
-FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Medium,Enum.
-FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.
-TextYAlignment.Center},o:New'TextLabel'{Text=v.maxValue,Size=UDim2.new(1,0,0,12)
-,Position=UDim2.new(0,0,0,12),BackgroundTransparency=1,TextColor3=Color3.
-fromRGB(255,85,85),TextTransparency=v.transparency or 0,TextSize=12,FontFace=
-Font.new('rbxassetid://12187365364',Enum.FontWeight.Bold,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center}}}}}}}end local w,x,y=function(w)local x=s.getServerInfo()return o:New
-'Frame'{Size=UDim2.new(0.5,-6,0,140),BackgroundTransparency=1,LayoutOrder=w.
-order or 1,[p]={r{color=m.BgPrimaryHighlight,transparency=0.3,radius=8,[p]={o:
-New'UIStroke'{Color=m.BgTertiary,Transparency=0.45,Thickness=1},q{padding={left=
-16,right=16,top=12,bottom=12},[p]={o:New'Frame'{Size=UDim2.new(1,0,0,20),
-BackgroundTransparency=1,Position=UDim2.new(0,0,0,0),[p]={o:New'TextLabel'{Text=
-'Network Ping',Size=UDim2.new(1,-24,1,0),BackgroundTransparency=1,TextColor3=m.
-FgSecondary,TextTransparency=0,TextSize=13,FontFace=Font.new(
-'rbxassetid://12187365364',Enum.FontWeight.Medium,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center},l:Track('NetworkPingIcon',o:New'ImageLabel'{Image=l.NetworkPingIcon,
-ImageColor3=Color3.fromRGB(100,150,255),Size=UDim2.new(0,20,0,20),Position=UDim2
-.new(1,-20,0,0),BackgroundTransparency=1,ImageTransparency=0})}},o:New
-'TextLabel'{Text=o:Computed(function(y)return y(x).ping..'ms'end),Size=UDim2.
-new(1,0,0,36),Position=UDim2.new(0,0,0,24),BackgroundTransparency=1,TextColor3=
-Color3.fromRGB(255,255,255),TextTransparency=0,TextSize=24,FontFace=Font.new(
-'rbxassetid://12187365364',Enum.FontWeight.Bold,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center},v{position=UDim2.new(0,0,1,-28),transparency=0,avgValue=o:Computed(
-function(y)return y(x).avgPing..'ms'end),minValue=o:Computed(function(y)return
-y(x).minPing..'ms'end),maxValue=o:Computed(function(y)return y(x).maxPing..'ms'
-end)}}}}}}}end,function(w)local x=s.getServerInfo()return o:New'Frame'{Size=
-UDim2.new(0.5,-6,0,140),BackgroundTransparency=1,LayoutOrder=w.order or 1,[p]={r
-{color=m.BgPrimaryHighlight,transparency=0.3,radius=8,[p]={o:New'UIStroke'{Color
-=m.BgTertiary,Transparency=0.45,Thickness=1},q{padding={left=16,right=16,top=12,
-bottom=12},[p]={o:New'Frame'{Size=UDim2.new(1,0,0,20),BackgroundTransparency=1,
-Position=UDim2.new(0,0,0,0),[p]={o:New'TextLabel'{Text='Frame Rate',Size=UDim2.
-new(1,-24,1,0),BackgroundTransparency=1,TextColor3=m.FgSecondary,
-TextTransparency=0,TextSize=13,FontFace=Font.new('rbxassetid://12187365364',Enum
-.FontWeight.Medium,Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.
-Left,TextYAlignment=Enum.TextYAlignment.Center},l:Track('FrameRateIcon',o:New
-'ImageLabel'{Image=l.FrameRateIcon,ImageColor3=Color3.fromRGB(255,150,100),Size=
-UDim2.new(0,20,0,20),Position=UDim2.new(1,-20,0,0),BackgroundTransparency=1,
-ImageTransparency=0})}},o:New'TextLabel'{Text=o:Computed(function(y)return y(x).
-fps..' FPS'end),Size=UDim2.new(1,0,0,36),Position=UDim2.new(0,0,0,24),
-BackgroundTransparency=1,TextColor3=Color3.fromRGB(255,255,255),TextTransparency
-=0,TextSize=24,FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Bold
-,Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=
-Enum.TextYAlignment.Center},v{position=UDim2.new(0,0,1,-28),transparency=0,
-avgValue=o:Computed(function(y)return y(x).avgFps..' FPS'end),minValue=o:
-Computed(function(y)return y(x).minFps..' FPS'end),maxValue=o:Computed(function(
-y)return y(x).maxFps..' FPS'end)}}}}}}}end,function(w)local x,y=w.progress or 0,
-w.maxValue or 100 return o:New'Frame'{Size=UDim2.new(1,0,0,6),BackgroundColor3=m
-.BgPrimary,BorderSizePixel=0,Position=UDim2.new(0,0,1,-8),[p]={o:New'UICorner'{
-CornerRadius=UDim.new(0,3)},o:New'Frame'{Size=o:Computed(function(z)local A=x if
-type(x)=='table'then A=z(x)end local B=y if type(y)=='table'then B=z(y)end local
-C=math.min(A/B,1)return UDim2.new(C,0,1,0)end),BackgroundColor3=m.AccentPrimary,
-BorderSizePixel=0,[p]={o:New'UICorner'{CornerRadius=UDim.new(0,3)}}}}}end local
-z,A=function(z)return o:New'Frame'{Size=UDim2.new(1,0,0,100),
-BackgroundTransparency=1,LayoutOrder=z.order or 1,[p]={r{color=m.
-BgPrimaryHighlight,transparency=0.3,radius=8,[p]={o:New'UIStroke'{Color=m.
-BgTertiary,Transparency=0.45,Thickness=1},q{padding={left=16,right=16,top=12,
-bottom=12},[p]={o:New'TextLabel'{Text=z.label,Size=UDim2.new(1,0,0,14),Position=
-UDim2.new(0,0,0,0),BackgroundTransparency=1,TextColor3=m.FgSecondary,
-TextTransparency=0,TextSize=13,FontFace=Font.new('rbxassetid://12187365364',Enum
-.FontWeight.Medium,Enum.FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.
-Left,TextYAlignment=Enum.TextYAlignment.Top},o:New'TextLabel'{Text=z.value,Size=
-UDim2.new(1,0,0,30),Position=UDim2.new(0,0,0,18),BackgroundTransparency=1,
-TextColor3=Color3.fromRGB(255,255,255),TextTransparency=0,TextSize=24,FontFace=
-Font.new('rbxassetid://12187365364',Enum.FontWeight.Bold,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center},y{progress=16,maxValue=z.max},o:New'Frame'{Size=UDim2.new(0,32,0,32),
-Position=UDim2.new(1,-32,0,0),BackgroundTransparency=1,[p]={o:New'UIScale'{Scale
-=1},l:Track('ServerCapacityIcon',o:New'ImageLabel'{Image=l.ServerCapacityIcon,
-ImageColor3=Color3.fromRGB(100,150,255),Size=UDim2.new(1,0,1,0),
-BackgroundTransparency=1,ImageTransparency=0})}}}}}}}}end,function(z)local A,B=z
-.iconKey~=nil or z.icon~=nil if A then B=o:New'ImageLabel'{Image=if z.iconKey
-then l[z.iconKey]else z.icon,ImageColor3=z.iconColor or Color3.fromRGB(100,150,
-255),Size=UDim2.new(0,20,0,20),BackgroundTransparency=1,ImageTransparency=0,
-LayoutOrder=1}if z.iconKey then l:Track(z.iconKey,B)end end return o:New'Frame'{
-Size=z.size or UDim2.new(1,0,0,130),BackgroundTransparency=1,LayoutOrder=z.order
-or 1,[p]={r{color=m.BgPrimaryHighlight,transparency=0.3,radius=8,[p]={o:New
-'UIStroke'{Color=m.BgTertiary,Transparency=0.45,Thickness=1},q{padding={left=16,
-right=16,top=16,bottom=16},[p]={o:New'Frame'{Size=UDim2.new(1,0,0,20),Position=
-UDim2.new(0,0,0,0),BackgroundTransparency=1,[p]={o:New'UIListLayout'{Padding=
-UDim.new(0,4),SortOrder=Enum.SortOrder.LayoutOrder,FillDirection=Enum.
-FillDirection.Horizontal,VerticalAlignment=Enum.VerticalAlignment.Center},B,o:
-New'TextLabel'{Text=z.label,Size=UDim2.new(1,A and-26 or 0,1,0),
-BackgroundTransparency=1,TextColor3=m.FgSecondary,TextTransparency=0,TextSize=13
-,FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Medium,Enum.
-FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.
-TextYAlignment.Center,LayoutOrder=2}}},o:New'TextLabel'{Text=z.value,Size=UDim2.
-new(1,0,1,-32),Position=UDim2.new(0,0,0,32),BackgroundTransparency=1,TextColor3=
-m.FgPrimary,TextTransparency=0,TextSize=16,FontFace=Font.new(
-'rbxassetid://12187365364',Enum.FontWeight.Bold,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center,TextWrapped=true}}}}}}}end local B=function()local B=s.getServerInfo()
-return q{padding={top=2,left=2,right=2},[p]={o:New'Frame'{Size=UDim2.new(1,0,1,0
-),BackgroundTransparency=1,[p]={o:New'UIListLayout'{Padding=UDim.new(0,12),
-SortOrder=Enum.SortOrder.LayoutOrder,FillDirection=Enum.FillDirection.Vertical},
-z{label='Players Online',value=o:Computed(function(C)local D=C(B)return D.
-playerCount..' / '..D.maxPlayers end),current=o:Computed(function(C)return C(B).
-playerCount end),max=o:Computed(function(C)return C(B).maxPlayers end),order=1},
-o:New'Frame'{Size=UDim2.new(1,0,0,140),BackgroundTransparency=1,LayoutOrder=2,[p
-]={o:New'UIListLayout'{Padding=UDim.new(0,12),SortOrder=Enum.SortOrder.
-LayoutOrder,FillDirection=Enum.FillDirection.Horizontal},w{order=1},x{order=2}}}
-,o:New'Frame'{Size=UDim2.new(1,0,0,130),BackgroundTransparency=1,LayoutOrder=3,[
-p]={o:New'UIListLayout'{Padding=UDim.new(0,12),SortOrder=Enum.SortOrder.
-LayoutOrder,FillDirection=Enum.FillDirection.Horizontal},A{label='Memory',value=
-o:Computed(function(C)return C(B).memoryUsage..' MB'end),size=UDim2.new(0.33,-8,
-1,-40),iconKey='MemoryIcon',iconColor=Color3.fromRGB(100,200,150),order=1},A{
-label='Region',value=o:Computed(function(C)local D=C(B).region return D==
-'Unknown'and'Unknown'or D end),size=UDim2.new(0.33,-8,1,-40),iconKey=
-'RegionIcon',iconColor=Color3.fromRGB(150,100,255),order=2},A{label='Uptime',
-value=o:Computed(function(C)return u(C(B).uptime)end),size=UDim2.new(0.34,-8,1,-
-40),iconKey='UptimeIcon',iconColor=Color3.fromRGB(255,150,100),order=3}}}}}}}end
-return B end,['components/dashboard/components/TabContainer']=function(i,j)local
-k,l,m,n=j(i.Parent.Parent.Parent.Parent.packages.fusion),j(i.Parent.Parent.
-Parent.Parent.storage.theme),j(i.Parent.Parent.Parent.Parent.packages.states),j(
-i.Parent.Parent.Parent.Parent.utils.animate)local o=m.DashboardScope local p,q,r
-=o.Children,k.peek,j(i.Parent.Fill)local s=function(s)local t,u,v,w,x,y=s.
-isActive,s.onClick,s.text,s.index,s.totalTabs,o:Value(false)return o:New
-'TextButton'{Text='',Size=UDim2.new(1/x,0,1,0),Position=UDim2.new((w-1)/x,0,0,0)
-,BackgroundTransparency=1,AutoButtonColor=false,[k.OnEvent'Activated']=u,[k.
-OnEvent'MouseEnter']=function()y:set(true)end,[k.OnEvent'MouseLeave']=function()
-y:set(false)end,[p]={o:New'TextLabel'{Text=v,Size=UDim2.new(1,0,1,0),Position=
-UDim2.new(0,0,0,0),BackgroundTransparency=1,TextColor3=n(function(z)if z(t)then
-return z(l.FgPrimary)else return z(l.FgSecondary)end end,30,0.8,o),
-TextTransparency=n(function(z)if z(t)then return 0 elseif z(y)then return 0.2
-else return 0.4 end end,25,0.7,o),TextSize=14,FontFace=Font.new(
-'rbxassetid://12187365364',Enum.FontWeight.Medium,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Center,TextYAlignment=Enum.TextYAlignment.
-Center}}}end local t=function(t)local u,v=t.tabs or{},t.theme local w=o:Value(t.
-defaultTab or(u[1]and u[1].id)or'')local x,y=o:Computed(function(x)local y=x(w)
-for z,A in ipairs(u)do if A.id==y then return z end end return 1 end),{}for z,A
-in ipairs(u)do local B=o:Computed(function(B)return B(w)==A.id end)table.insert(
-y,s{text=A.name,index=z,totalTabs=#u,isActive=B,onClick=function()w:set(A.id)end
-,theme=v})end local z={}for A,B in ipairs(u)do local C=o:Computed(function(C)
-return C(w)==B.id end)local D,E=n(function(D)return D(C)and 0 or 1 end,40,0.9,o)
-,B.content if type(B.content)=='function'then local F,G=o:Value(nil),false local
-H=function()if G or not q(C)then return end G=true F:set(B.content{isVisible=C})
-end o:Observer(C):onChange(H)H()E=F end table.insert(z,o:New'CanvasGroup'{Size=
-UDim2.new(1,0,1,0),Position=UDim2.new(0,0,0,0),BackgroundTransparency=1,
-GroupTransparency=D,Visible=o:Computed(function(F)return F(D)<0.99 end),[p]={E}}
-)end return o:New'Frame'{Size=UDim2.new(1,0,1,-40),Position=UDim2.new(0,0,0,36),
-BackgroundTransparency=1,[p]={o:New'Frame'{Size=UDim2.new(1,0,0,36),Position=
-UDim2.new(0,0,0,0),BackgroundTransparency=1,[p]={r{color=l.BgPrimaryHighlight,
-transparency=0.2,radius=6,[p]={o:New'UIStroke'{Color=l.BgTertiary,Transparency=
-0.45,Thickness=1},o:New'Frame'{Size=n(function()return UDim2.new(1/#u,-2,1,-2)
-end,30,0.8,o),Position=n(function(A)local B=A(x)return UDim2.new((B-1)/#u,1,0,1)
-end,30,0.8,o),BackgroundColor3=l.AccentPrimary,BackgroundTransparency=0.1,
-BorderSizePixel=0,ZIndex=2,[p]={o:New'UICorner'{CornerRadius=UDim.new(0,4)}}},o:
-New'Frame'{Size=UDim2.new(1,0,1,0),BackgroundTransparency=1,ZIndex=3,[p]=y}}}}},
-o:New'Frame'{Size=UDim2.new(1,0,1,-36),Position=UDim2.new(0,0,0,42),
-BackgroundTransparency=1,[p]=z}}}end return t end,['components/dashboard/hooks']
-=function(i,j)return{useCurrentPage=j(i.useCurrentPage),useTheme=j(i.useTheme),
-useSpring=j(i.useSpring),useDelayedUpdate=j(i.useDelayedUpdate),useScale=j(i.
-useScale).useScale,usePadding=j(i.useScale).usePadding}end,[
-'components/dashboard/hooks/useCurrentPage']=function(i,j)local k,l=j(i.Parent.
-Parent.Parent.Parent.packages.states),j(i.Parent.Parent.models.dashboardModel)
-local m,n=k.DashboardScope,l.DashboardPage local o,p=m:Value(n.Home),k.
-isDashboardToggled local q,r,s=function()return o end,function(q)return m:
-Computed(function(r)return r(p)and r(o)==q end)end,function(q)o:set(q)end return
-{useCurrentPage=q,useIsPageOpen=r,setCurrentPage=s}end,[
-'components/dashboard/hooks/useDelayedUpdate']=function(i,j)local k,l,m=j(i.
-Parent.Parent.Parent.Parent.packages.fusion),j(i.Parent.Parent.Parent.Parent.
-packages.states),j(i.Parent.Parent.Parent.Parent.utils.pendingTasks)local n,o,p,
-q=l.DashboardScope,k.peek,{},0 local r,s=function(r)if p[r]then m.cancel(p[r])p[
-r]=nil end end,function(r,s)local t=q q=q+1 local u=m.delay(s/1000,function()p[t
-]=nil r()end)p[t]=u return t end local t=function(t,u,v)local w,x,y=n:Value(nil)
-,{},n:Observer(t)y:onChange(function()local z=o(t)for A,B in pairs(x)do r(A)x[A]
-=nil end local A=false if v then A=v(z)end local B=u if type(u)=='function'then
-B=u(z)end if A or not B or B<=0 then w:set(z)else local C C=s(function()w:set(z)
-x[C]=nil end,B)x[C]=true end end)local z,A=o(t),u if type(u)=='function'then A=
-u(z)end if z and A and A>0 then w:set(false)local B B=s(function()w:set(z)x[B]=
-nil end,A)x[B]=true else w:set(z)end return w end return t end,[
-'components/dashboard/hooks/useScale']=function(i,j)local k,l=j(i.Parent.Parent.
-Parent.Parent.packages.states),j(i.Parent.Parent.utils).numberUtil.map local m,n
-,o,p,q=k.DashboardScope,980,1080,14,48 local r,s,t=function(r)if r<o and r>=n
-then return l(r,n,o,p,q)elseif r<n then return p else return q end end,function(
-r)if r<n then return l(r,n,130,1,0)else return 1 end end,m:Value(workspace.
-CurrentCamera.ViewportSize)m:insert(workspace.CurrentCamera:
-GetPropertyChangedSignal'ViewportSize':Connect(function()t:set(workspace.
-CurrentCamera.ViewportSize)end))local u,v=m:Computed(function(u)return s(u(t).Y)
-end),m:Computed(function(u)return r(u(t).Y)end)local w,x=function()return u end,
-function()return v end return{useScale=w,usePadding=x}end,[
-'components/dashboard/hooks/useSpring']=function(i,j)local k,l=j(i.Parent.Parent
-.Parent.Parent.packages.fusion),j(i.Parent.Parent.Parent.Parent.packages.states)
-local m,n,o=l.DashboardScope,k.peek,function(m)if not m then return 25,1 end
-local n,o=m.frequency or 4,m.dampingRatio or 1 local p,q=n*6.28,o return p,q end
-local p=function(p,q)local r,s=o(q)local t=n(l.AnimationsEnabled)if type(p)==
-'table'then if t then return m:Spring(p,r,s)end return p end local u=m:Computed(
-function()return p end)if t then return m:Spring(u,r,s)end return u end return p
-end,['components/dashboard/hooks/useTheme']=function(i,j)local k=j(i.Parent.
-Parent.Parent.Parent.storage.theme)local l=table.freeze{players=table.freeze{
-outlined=false,acrylic=false,background=k.BgPrimaryHighlight,foreground=k.
-FgPrimary,dropshadow=k.BgPrimary,backgroundGradient=nil,dropshadowGradient=nil,
-transparency=0.1,dropshadowTransparency=0.3}}return function(m)if m=='navbar'
-then return k.GetNavbarTheme()elseif m=='apps'then return l elseif m==nil then
-return k end error(('Unknown dashboard theme area %q'):format(tostring(m)),2)end
-end,['components/dashboard/models/dashboardModel']=function(i,j)local k=table.
-freeze{Home='home',Apps='apps',Scripts='scripts',Options='options'}local l,m=
-table.freeze{[k.Home]=0,[k.Apps]=1,[k.Scripts]=2,[k.Options]=3},table.freeze{[k.
-Home]='DashboardHomeIcon',[k.Apps]='DashboardAppsIcon',[k.Scripts]=
-'DashboardScriptsIcon',[k.Options]='DashboardOptionsIcon'}return table.freeze{
-DashboardPage=k,PAGE_TO_INDEX=l,PAGE_TO_ICON=m}end,['components/dashboard/utils'
-]=function(i,j)return{udim2=j(i.udim2),bindingUtil=j(i.bindingUtil),numberUtil=
-j(i.numberUtil),gameInfo=j(i.gameInfo)}end,[
-'components/dashboard/utils/bindingUtil']=function(i,j)local k=j(i.Parent.Parent
-.Parent.Parent.packages.states)local l,m=k.DashboardScope,function(l)return
-type(l)=='table'end local n,o=function(n,o)if m(n)then return l:Computed(
-function(p)return o(p(n))end)else return l:Computed(function()return o(n)end)end
-end,function(n)if m(n)then return n else return l:Computed(function()return n
-end)end end return{mapBinding=n,asBinding=o}end,[
-'components/dashboard/utils/gameInfo']=function(i,j)local k,l=j(i.Parent.Parent.
-Parent.Parent.packages.fusion),j(i.Parent.Parent.Parent.Parent.packages.states)
-local m,n,o=l.DashboardScope,k.peek,j(i.Parent.Parent.Parent.Parent.utils.
-services)local p,q,r,s,t,u,v=o.Players,o.MarketplaceService,o.HttpService,j(i.
-Parent.Parent.Parent.Parent.utils.perf),j(i.Parent.Parent.Parent.Parent.utils.
-pendingTasks),{},60 local w=function()local w=table.create(v)for x=1,v do w[x]=0
-end return w end local x,y=w(),w()local z,A,B,C,D,E=m:Value{playerCount=0,
-maxPlayers=0,region='Unknown',ping=0,uptime=0,fps=0,memoryUsage=0,pingHistory=x,
-fpsHistory=y,pingHistoryIndex=1,fpsHistoryIndex=1,avgPing=0,avgFps=0,minPing=0,
-maxPing=0,minFps=0,maxFps=0},m:Value{gameId=game.GameId,placeId=game.PlaceId,
-jobId=game.JobId,gameName='Loading...',gameDescription='Loading...',creator=
-'Unknown',universeId=0,placeIds={}},tick(),false,false,{}local F,G,H=function(F)
-local G=t.spawn(function()local G=coroutine.running()F()if G~=nil then E[G]=nil
-end end)if G~=nil then E[G]=true end return G end,function(F)if F==nil then
-return end E[F]=nil t.cancel(F)end,function(F)local G,H,I,J=0,0,math.huge,-math.
-huge for K=1,v do local L=F[K]or 0 G=G+L H=H+1 if L<I then I=L end if L>J then J
-=L end end if H==0 then return 0,0,0 end return G/H,I,J end local I,J=function()
-if C then return end local I=p.LocalPlayer if not I then return end F(function()
-s.mark'dashboard:gameInfo:detectRegion's.profile(
-'dashboard:gameInfo:detectRegion',function()local J,K=pcall(function()return r:
-GetAsync'https://httpbin.org/ip'end)if J and not D then local L,M=pcall(function
-()return r:JSONDecode(K)end)if L and M and M.origin and not D then local N=n(z)
-local O=table.clone(N)O.region='IP: '..M.origin z:set(O)C=true end end end)end)
-end,function()local I,J=p.LocalPlayer,n(z)local K,L,M,N,O,P=I and math.floor(I:
-GetNetworkPing()*1000)or 0,math.floor(workspace:GetRealPhysicsFPS()),#p:
-GetPlayers(),p.MaxPlayers,math.floor(tick()-B),math.floor(gcinfo())if J.ping==K
-and J.fps==L and J.playerCount==M and J.maxPlayers==N and J.uptime==O and J.
-memoryUsage==P then return end local Q,R=J.pingHistory or x,J.fpsHistory or y Q[
-J.pingHistoryIndex]=K local S=(J.pingHistoryIndex%v)+1 R[J.fpsHistoryIndex]=L
-local T,U,V,W=(J.fpsHistoryIndex%v)+1,H(Q)local X,Y,Z=H(R)local _=table.clone(J)
-_.playerCount=M _.maxPlayers=N _.region=J.region _.ping=K _.uptime=O _.fps=L _.
-memoryUsage=P _.pingHistory=Q _.fpsHistory=R _.pingHistoryIndex=S _.
-fpsHistoryIndex=T _.avgPing=math.floor(U)_.avgFps=math.floor(X)_.minPing=V _.
-maxPing=W _.minFps=Y _.maxFps=Z z:set(_)end local K,L,M,N,O,P,Q,R=function()
-return s.time('dashboard:gameInfo:update',J)end,function()local K=game.PlaceId
-F(function()s.mark'dashboard:gameInfo:loadProductInfo's.profile(
-'dashboard:gameInfo:loadProductInfo',function()local L,M=pcall(function()return
-q:GetProductInfo(K)end)if L and M and not D then local N=n(A)A:set{gameId=N.
-gameId,placeId=N.placeId,jobId=N.jobId,gameName=M.Name or'Unknown',
-gameDescription=M.Description or'No description available',creator=M.Creator and
-M.Creator.Name or'Unknown',universeId=N.universeId,placeIds=N.placeIds}end end)
-end)F(function()s.mark'dashboard:gameInfo:loadPlaceDetails's.profile(
-'dashboard:gameInfo:loadPlaceDetails',function()local L,M=pcall(function()return
-r:GetAsync(
-[[https://games.roblox.com/v1/games/multiget-place-details?placeIds=]]..K)end)if
-L and not D then local N,O=pcall(function()return r:JSONDecode(M)end)if N and O
-and O[1]and not D then local P,Q=O[1],n(A)A:set{gameId=Q.gameId,placeId=Q.
-placeId,jobId=Q.jobId,gameName=Q.gameName,gameDescription=Q.gameDescription,
-creator=Q.creator,universeId=P.universeId or 0,placeIds=Q.placeIds}end end end)
-end)end,function()local K=n(A)local L=K.universeId if L==0 then return end F(
-function()s.mark'dashboard:gameInfo:loadUniversePlaces's.profile(
-'dashboard:gameInfo:loadUniversePlaces',function()local M,N=pcall(function()
-return r:GetAsync('https://games.roblox.com/v1/games/'..L..
-'/places?sortOrder=Asc&limit=10')end)if M and not D then local O,P=pcall(
-function()return r:JSONDecode(N)end)if O and P and P.data and not D then local Q
-={K.placeId}for R,S in ipairs(P.data)do local T=S.id if T and T~=K.placeId then
-if not table.find(Q,T)then table.insert(Q,T)end end end local R=n(A)local S=
-table.clone(R)S.placeIds=Q A:set(S)end end end)end)end,false,0,false local S,T,U
-=function()if P or R or D then return end R=F(function()s.mark
-'dashboard:gameInfo:initThread's.profile('dashboard:gameInfo:initThread',
-function()L()I()end)task.wait(2)if D then return end M()P=true R=nil end)end,
-function()N=false if Q then G(Q)Q=nil end end,function()if D or Q then return
-end N=true Q=F(function()s.mark'dashboard:gameInfo:updateLoopWake'K()O=tick()
-while N and not D do task.wait(1)if not N or D then break end local S=tick()if S
--O>=1 then s.mark'dashboard:gameInfo:updateLoopWake'K()O=S end end Q=nil end)end
-function u.cleanup()if D then return end D=true T()if R then G(R)R=nil end for V
-in pairs(E)do G(V)end E={}end function u.setActive(V)if D then return end s.
-mark(V and'dashboard:gameInfo:activate'or'dashboard:gameInfo:deactivate')s.
-profile('dashboard:gameInfo:setActive',function()if V then S()U()else T()end end
-)end function u.getServerInfo()return z end function u.getGameInfo()return A end
-return u end,['components/dashboard/utils/numberUtil']=function(i,j)local k=
-function(k,l,m,n,o)return n+((k-l)*(o-n))/(m-l)end return{map=k}end,[
-'components/dashboard/utils/udim2']=function(i,j)local k,l,m=function(k,l)return
-UDim2.new(0,k,0,l)end,function(k,l)return UDim2.new(k,0,l,0)end,function(k,l,m)m
-=m or 1 return Vector2.new(l.X.Offset+(l.X.Scale/m)*k.X,l.Y.Offset+(l.Y.Scale/m)
-*k.Y)end return{px=k,scale=l,applyUDim2=m}end,[
-'components/dashboard/views/Navbar']=function(i,j)local k,l,m,n,o,p,q,r,s=j(i.
-Parent.Parent.Parent.Parent.packages.states),j(i.Parent.Parent.utils),j(i.Parent
-.Parent.hooks),j(i.Parent.Parent.components),j(i.Parent.Parent.models.
-dashboardModel),j(i.NavbarTab),j(i.Parent.Parent.Parent.Parent.utils.
-runtimeAssets),j(i.Parent.Parent.Parent.Parent.assets.icons.
-generatedDashboardImages),j(i.Parent.Parent.Parent.Parent.utils.color3)local t=k
-.DashboardScope local u,v,w,x,y=t.Children,l.udim2,m.useTheme,m.useCurrentPage.
-useCurrentPage,m.useSpring local z,A,B,C,D,E,F,G,H=v.px,v.scale,n.Fill,n.Border,
-n.Glow,n.GlowRadius,n.Canvas,o.DashboardPage,o.PAGE_TO_INDEX local I,J,K,L,M=z(
-400,56),UDim2.new(0.5,0,1,0),UDim2.new(0.5,0,1,124),0.5,function(I)return t:New
-'ImageLabel'{Image=q.resolve(r.NavbarUnderglow),ImageColor3=I.sequenceColor,
-ImageTransparency=I.transparency,Size=z(148,104),Position=t:Computed(function(J)
-local K=J(I.position)return UDim2.new(K,0,0,-18)end),AnchorPoint=Vector2.new(0.5
-,0),BackgroundTransparency=1}end local N=function()local N,O,P=w'navbar',x(),k.
-isDashboardToggled local Q,R=y(t:Computed(function(Q)return H[Q(O)]/4 end),{
-frequency=3.9,dampingRatio=0.76}),y(t:Computed(function(Q)return Q(P)and J or K
-end),{})return t:New'Frame'{Size=I,Position=R,AnchorPoint=Vector2.new(0.5,1),
-BackgroundTransparency=1,Visible=t:Computed(function(S)if S(P)then return true
-end if not S(k.AnimationsEnabled)then return false end return math.abs(S(R).Y.
-Offset-K.Y.Offset)>L end),[u]={D{radius=E.Size146,size=UDim2.new(1,80,0,146),
-position=z(-40,-20),color=N.dropshadow,gradient=N.dropshadowGradient,
-transparency=N.transparency},M{transparency=N.glowTransparency,position=t:
-Computed(function(S)return S(Q)+0.125 end),sequenceColor=t:Computed(function(S)
-return s.getColorInSequence(S(N.accentGradient).color,S(Q)+0.125)end)},B{color=N
-.background,gradient=N.backgroundGradient,radius=8,transparency=N.transparency},
-F{size=z(100,56),position=t:Computed(function(S)local T=S(Q)return A(math.floor(
-T*800)/800,0)end),clipsDescendants=true,[u]={t:New'Frame'{Size=I,Position=t:
-Computed(function(S)local T=S(Q)return A(-4*(math.floor(T*800)/800),0)end),
-BackgroundColor3=Color3.new(1,1,1),BorderSizePixel=0,[u]={t:New'UIGradient'{
-Color=t:Computed(function(S)return S(N.accentGradient).color end),Transparency=t
-:Computed(function(S)return S(N.accentGradient).transparency end),Rotation=t:
-Computed(function(S)return S(N.accentGradient).rotation end)},t:New'UICorner'{
-CornerRadius=UDim.new(0,8)}}}}},t:Computed(function(S,T)if S(N.outlined)then
-return C({color=N.foreground,radius=8,transparency=0.8},T)end return nil end),p{
-page=G.Home},p{page=G.Apps},p{page=G.Scripts},p{page=G.Options}}}end return N
-end,['components/dashboard/views/Navbar/NavbarTab']=function(i,j)local k,l,m,n,o
-,p=j(i.Parent.Parent.Parent.Parent.Parent.packages.fusion),j(i.Parent.Parent.
-Parent.Parent.Parent.utils.images),j(i.Parent.Parent.Parent.utils),j(i.Parent.
-Parent.Parent.hooks),j(i.Parent.Parent.Parent.models.dashboardModel),j(i.Parent.
-Parent.Parent.Parent.Parent.packages.states)local q=p.DashboardScope local r,s,t
-,u,v,w=q.Children,k.OnEvent,m.udim2,n.useTheme,n.useCurrentPage,n.useSpring
-local x,y,z,A=t.px,t.scale,o.PAGE_TO_INDEX,o.PAGE_TO_ICON local B=x(100,56)local
-C=function(C)local D,E,F=C.page,u'navbar',v.useCurrentPage()local G,H=q:
-Computed(function(G)return G(F)==D end),q:Value(false)return q:New'TextButton'{
-Text='',AutoButtonColor=false,Active=q:Computed(function(I)return not I(G)end),
-Size=B,Position=y(z[D]/4,0),BackgroundTransparency=1,[s'Activated']=function()v.
-setCurrentPage(D)end,[s'MouseEnter']=function()H:set(true)end,[s'MouseLeave']=
-function()H:set(false)end,[r]={l:Track(A[D],q:New'ImageLabel'{Image=l[A[D] ],
-ImageColor3=q:Computed(function(I)return I(E.foreground)end),ImageTransparency=
-w(q:Computed(function(I)if I(G)then return 0 elseif I(H)then return 0.5 else
-return 0.75 end end),{}),Size=x(36,36),Position=y(0.5,0.5),AnchorPoint=Vector2.
-new(0.5,0.5),BackgroundTransparency=1})}}end return C end,[
-'components/dashboard/views/Pages']=function(i,j)local k,l,m,n=j(i.Parent.Parent
-.Parent.Parent.packages.fusion),j(i.Parent.Parent.Parent.Parent.packages.states)
-,j(i.Parent.Parent.hooks),j(i.Parent.Parent.models.dashboardModel)local o,p=k.
-peek,n.DashboardPage local q=table.freeze{[p.Home]=i.Home,[p.Apps]=i.Apps}local
-r=function(r)local s=r:innerScope()local t,u=s.Children,m.useCurrentPage.
-useCurrentPage()local v,w=s:Computed(function(v)if not v(l.isDashboardToggled)
-then return nil end return v(u)end),s:Value{}local x=function()local x=o(v)local
-y,z=x and q[x],o(w)if not y or z[x]then return end local A=table.clone(z)A[x]=j(
-y)(s)w:set(A)end s:Observer(v):onChange(x)x()return s:New'Frame'{Name='Pages',
-Size=UDim2.fromScale(1,1),BackgroundTransparency=1,[t]=w}end return r end,[
-'components/dashboard/views/Pages/Apps']=function(i,j)local k,l,m=j(i.Parent.
-Parent.Parent.components),j(i.Parent.Parent.Parent.hooks),j(i.Parent.Parent.
-Parent.models.dashboardModel)local n,o,p,q=k.Canvas,k.Card,l.useTheme,m.
-DashboardPage local r=function(r)local s=r:innerScope()local t,u,v=s.Children,p
-'apps',l.useScale local w=v()return n{position=UDim2.new(0,0,1,0),anchor=Vector2
-.new(0,1),[t]={s:New'UIScale'{Scale=w},o{index=1,page=q.Apps,theme=u.players,
-size=UDim2.fromOffset(326,648),position=UDim2.new(0,0,1,0),[t]={n{padding={left=
-24,right=24,top=24,bottom=24},[t]={s:New'TextLabel'{Text='Players',Size=UDim2.
-new(1,0,0,40),Position=UDim2.fromOffset(0,0),BackgroundTransparency=1,TextColor3
-=Color3.fromRGB(255,255,255),TextSize=18,FontFace=Font.new(
-'rbxassetid://12187365364',Enum.FontWeight.Bold,Enum.FontStyle.Normal),
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center},s:New'TextLabel'{Text='Ethos suite on top boyyyyyy',Size=UDim2.new(1,0,0
-,40),Position=UDim2.fromOffset(0,50),BackgroundTransparency=1,TextColor3=Color3.
-fromRGB(200,200,200),TextSize=14,FontFace=Font.new('rbxassetid://12187365364',
-Enum.FontWeight.Regular,Enum.FontStyle.Normal),TextXAlignment=Enum.
-TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.Top,TextWrapped=true},s:
-New'ScrollingFrame'{Size=UDim2.new(1,0,1,-100),Position=UDim2.fromOffset(0,100),
-BackgroundTransparency=1,BorderSizePixel=0,ScrollBarThickness=4,
-ScrollBarImageColor3=Color3.fromRGB(100,100,100),CanvasSize=UDim2.new(0,0,0,400)
-,[t]={s:New'UIListLayout'{Padding=UDim.new(0,8),SortOrder=Enum.SortOrder.
-LayoutOrder},s:New'TextLabel'{Text='\u{2022} Player 1',Size=UDim2.new(1,0,0,30),
-BackgroundTransparency=1,TextColor3=Color3.fromRGB(180,180,180),TextSize=12,
-FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Regular,Enum.
-FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,LayoutOrder=1},s:New
-'TextLabel'{Text='\u{2022} Player 2',Size=UDim2.new(1,0,0,30),
-BackgroundTransparency=1,TextColor3=Color3.fromRGB(180,180,180),TextSize=12,
-FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Regular,Enum.
-FontStyle.Normal),TextXAlignment=Enum.TextXAlignment.Left,LayoutOrder=2}}}}}}}}}
-end return r end,['components/dashboard/views/Pages/Home']=function(i,j)local k,
-l,m,n,o,p=j(i.Parent.Parent.Parent.components),j(i.Parent.Parent.Parent.hooks),
-j(i.Parent.Parent.Parent.models.dashboardModel),j(i.Parent.Parent.Parent.utils),
-j(i.Parent.Parent.Parent.Parent.Parent.utils.perf),j(i.Parent.Parent.Parent.
-Parent.Parent.packages.fusion)local q,r,s,t,u,v,w=k.Canvas,k.Card,k.TabContainer
-,k.ServerTab,k.GameTab,m.DashboardPage,p.peek local x=function(x)local y=x:
-innerScope()local z,A=y.Children,l.useScale local B,C=A(),l.useCurrentPage.
-useIsPageOpen local D=C(v.Home)local E=function()o.profile(
-'dashboard:home:syncActive',function()local E=w(D)o.mark(E and
-'dashboard:home:activate'or'dashboard:home:deactivate')n.gameInfo.setActive(E)
-end)end E()y:Observer(D):onChange(function()E()end)local F,G,H={textColor=Color3
-.fromRGB(255,255,255),textSize=18,font=Font.new('rbxassetid://12187365364',Enum.
-FontWeight.Bold,Enum.FontStyle.Normal)},{textColor=Color3.fromRGB(180,180,180),
-textSize=12,font=Font.new('rbxassetid://12187365364',Enum.FontWeight.Regular,
-Enum.FontStyle.Normal)},{getAnimatedProps=function()return{position=UDim2.new(0,
-0,0,0),transparency=0}end}local I,J,K,L,M,N,O,P=H,H,H,H,H,H,function(I,J,K)K=K
-or F return y:New'TextLabel'{Text=I,Size=UDim2.new(1,0,0,30),Position=UDim2.
-fromOffset(0,0),BackgroundTransparency=1,TextColor3=K.textColor,TextTransparency
-=0,TextSize=K.textSize,FontFace=K.font,TextXAlignment=Enum.TextXAlignment.Left,
-TextYAlignment=Enum.TextYAlignment.Center}end,function(I,J,K)K=K or 40 return y:
-New'TextLabel'{Text=I,Size=UDim2.new(1,0,0,60),Position=UDim2.fromOffset(0,K),
-BackgroundTransparency=1,TextColor3=G.textColor,TextTransparency=0,TextSize=G.
-textSize,FontFace=G.font,TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=
-Enum.TextYAlignment.Top,TextWrapped=true}end return q{position=UDim2.new(0,0,1,0
-),anchor=Vector2.new(0,1),[z]={y:New'UIScale'{Scale=B},r{index=1,page=v.Home,
-size=UDim2.fromOffset(420,480),position=UDim2.new(0,0,1,0),[z]={q{padding={left=
-24,right=24,top=20,bottom=20},[z]={O('Client Information',I),s{tabs={{id=
-'server',name='Server',content=function()return t()end},{id='game',name='Game',
-content=function()return u()end}},defaultTab='server'}}}}},r{index=2,page=v.Home
-,size=UDim2.fromOffset(320,400),position=UDim2.new(0,440,1,0),[z]={q{padding={
-left=20,right=20,top=20,bottom=20},[z]={O('Connected Clients',J),P(
-[[List of clients connected to the server with session info and control options]]
-,K)}}}},r{index=4,page=v.Home,size=UDim2.fromOffset(420,350),position=UDim2.new(
-0,0,1,-500),[z]={q{padding={left=24,right=24,top=20,bottom=20},[z]={O(
-'Script Executor',L)}}}},r{index=5,page=v.Home,size=UDim2.fromOffset(320,400),
-position=UDim2.new(0,440,1,-420),[z]={q{padding={left=20,right=20,top=20,bottom=
-20},[z]={O('Server Browser',M)}}}},r{index=3,page=v.Home,size=UDim2.fromOffset(
-320,330),position=UDim2.new(0,780,1,0),[z]={q{padding={left=20,right=20,top=20,
-bottom=20},[z]={O('Friend Tracker',N)}}}}}}end return x end,[
-'components/keybindViewer']=function(i,j)local k=i.Parent.Parent.packages local
-l,m,n,o,p,q=j(k.fusion),j(k.states),j(i.Parent.Parent.utils.animate),j(i.Parent.
-Parent.utils.displayScale),j(i.Parent.Parent.Internal),j(i.Parent.Parent.storage
-.theme)local r,s,t=p.Scope,l.Children,0.999 local u=function(u)local v=(u or r):
-innerScope()local w=v:Computed(function(w)b(c(g),d(h),e(false))local x,y=w(m.
-Keybinds),{}for z,A in pairs(x)do if A.key and A.key~='None'and A.key~='. . .'
-then table.insert(y,{id=z,key=A.key,feature=A.feature or'Unknown'})end end table
-.sort(y,function(z,A)return z.feature<A.feature end)return y end)local x,y=v:
-Computed(function(x)b(c(g),d(h),e(false))return#x(w)>0 end),function(x)local y=v
-:Computed(function(y)b(c(g),d(h),e(false))local z=y(m.ActiveKeybinds)return z[x.
-id]==true end)local z=v:Computed(function(z)b(c(g),d(h),e(false))return z(y)and
-z(q.AccentPrimary)or z(q.FgPrimary)end)return v:New'Frame'{Size=UDim2.new(1,0,0,
-16),BackgroundTransparency=1,[s]={v:New'TextLabel'{Size=UDim2.new(1,-30,1,0),
-Position=UDim2.new(0,0,0,0),BackgroundTransparency=1,Text=x.feature,TextColor3=z
-,TextSize=11,Font=Enum.Font.GothamMedium,TextXAlignment=Enum.TextXAlignment.Left
-,TextTruncate=Enum.TextTruncate.AtEnd},v:New'TextLabel'{Size=UDim2.new(0,28,1,0)
-,Position=UDim2.new(1,0,0,0),AnchorPoint=Vector2.new(1,0),BackgroundTransparency
-=1,Text=v:Computed(function()return'['..x.key..']'end),TextColor3=z,TextSize=11,
-Font=Enum.Font.GothamMedium,TextXAlignment=Enum.TextXAlignment.Right}}}end local
-z=v:Computed(function(z)b(c(g),d(h),e(false))return z(x)and z(m.
-KeybindViewerVisible)end)local A,B=n(function(A)b(c(g),d(h),e(false))return A(z)
-and 0 or 1 end,25,1,v),n(function(A)b(c(g),d(h),e(false))return A(z)and UDim2.
-new(1,-16,0.5,0)or UDim2.new(1,200,0.5,0)end,15,0.8,v)local D=v:New'CanvasGroup'
-{Name='KeybindViewer',Size=UDim2.new(0,180,0,0),AutomaticSize=Enum.AutomaticSize
-.Y,Position=B,AnchorPoint=Vector2.new(1,0.5),BackgroundColor3=q.BgPrimary,
+top}end)}}}}}}return D end end,['components/keybindViewer']=function(i,j)local k
+=i.Parent.Parent.packages local l,m,n,o,p,q=j(k.fusion),j(k.states),j(i.Parent.
+Parent.utils.animate),j(i.Parent.Parent.utils.displayScale),j(i.Parent.Parent.
+Internal),j(i.Parent.Parent.storage.theme)local r,s,t=p.Scope,l.Children,0.999
+local u=function(u)local v=(u or r):innerScope()local w=v:Computed(function(w)b(
+c(g),d(h),e(false))local x,y=w(m.Keybinds),{}for z,A in pairs(x)do if A.key and
+A.key~='None'and A.key~='. . .'then table.insert(y,{id=z,key=A.key,feature=A.
+feature or'Unknown'})end end table.sort(y,function(z,A)return z.feature<A.
+feature end)return y end)local x,y=v:Computed(function(x)b(c(g),d(h),e(false))
+return#x(w)>0 end),function(x)local y=v:Computed(function(y)b(c(g),d(h),e(false)
+)local z=y(m.ActiveKeybinds)return z[x.id]==true end)local z=v:Computed(function
+(z)b(c(g),d(h),e(false))return z(y)and z(q.AccentPrimary)or z(q.FgPrimary)end)
+return v:New'Frame'{Size=UDim2.new(1,0,0,16),BackgroundTransparency=1,[s]={v:New
+'TextLabel'{Size=UDim2.new(1,-30,1,0),Position=UDim2.new(0,0,0,0),
+BackgroundTransparency=1,Text=x.feature,TextColor3=z,TextSize=11,Font=Enum.Font.
+GothamMedium,TextXAlignment=Enum.TextXAlignment.Left,TextTruncate=Enum.
+TextTruncate.AtEnd},v:New'TextLabel'{Size=UDim2.new(0,28,1,0),Position=UDim2.
+new(1,0,0,0),AnchorPoint=Vector2.new(1,0),BackgroundTransparency=1,Text=v:
+Computed(function()return'['..x.key..']'end),TextColor3=z,TextSize=11,Font=Enum.
+Font.GothamMedium,TextXAlignment=Enum.TextXAlignment.Right}}}end local z=v:
+Computed(function(z)b(c(g),d(h),e(false))return z(x)and z(m.KeybindViewerVisible
+)end)local A,B=n(function(A)b(c(g),d(h),e(false))return A(z)and 0 or 1 end,25,1,
+v),n(function(A)b(c(g),d(h),e(false))return A(z)and UDim2.new(1,-16,0.5,0)or
+UDim2.new(1,200,0.5,0)end,15,0.8,v)local D=v:New'CanvasGroup'{Name=
+'KeybindViewer',Size=UDim2.new(0,180,0,0),AutomaticSize=Enum.AutomaticSize.Y,
+Position=B,AnchorPoint=Vector2.new(1,0.5),BackgroundColor3=q.BgPrimary,
 GroupTransparency=A,Visible=v:Computed(function(C)b(c(g),d(h),e(false))if C(z)
 then return true end if not C(m.AnimationsEnabled)then return false end return
 C(A)<t end),[s]={o.create(v),v:New'UICorner'{CornerRadius=UDim.new(0,4)},v:New
@@ -3897,412 +3129,24 @@ categoryTitle or'',tabId=aR.id,tabTitle=aR.title}ah(aF.Tabs,aQ.Root)if not as(ap
 .HasSelected)and not aQ:IsLocked()then ap.HasSelected:set(true)aQ.Selected:set(
 true)end return aQ end function aF.SetIcon(aO,aP)aO.Icon:set(am.validate(aP))
 return aO end aF.ExpandedHeight:set(as(aH).AbsoluteContentSize.Y)return aF end
-end,['components/window/clientControl']=function(aa,ab)local ad,af,ah=game:
-GetService'RunService',ab(aa.model),ab(aa.view)return function(aj,ak)local al=aj
-.Scope:innerScope()local am=af.new(al,ak,{copyText=getfenv().setclipboard,
-saveManager=ak.library and ak.library.SaveManager,confirm=function(am,an,ao)
-local ap=aj:Dialog{Title=am,Description=an,Variant='warning',ConfirmOnEnter=
-false}ap:AddButton{Title='Cancel',Style='default'}ap:AddButton{Title='Confirm',
-Style='primary',Callback=ao}end})local an=ah(al,am)an.Buttons.Back.Callback=
-function()aj.ActionButtons.ClientControl.IsToggled:set(false)end local ao=0 al:
-insert(ad.Heartbeat:Connect(function(ap)ao+=ap if ao>=1 then ao=0 am.Now:set(
-DateTime.now().UnixTimestampMillis)end end))return an end end,[
-'components/window/clientControl/controls']=function(aa,ab)local ad=aa.Parent.
-Parent.Parent.Parent local af,ah,aj,ak,al=ab(ad.packages.fusion),ab(ad.storage.
-theme),ab(ad.components.ui.shared.fonts),ab(aa.Parent.widgets),ab(aa.Parent.
-model)local am=af.Children return function(an,ao,ap)local aq,ar,as,at={},
-function(aq)return an:Computed(aq)end,function(aq,ar,as)return ak.label(an,aq,{
-LayoutOrder=ar,TextWrapped=true,TextTruncate=Enum.TextTruncate.None,TextSize=12,
-Size=UDim2.new(1,0,0,as or 34)})end,function(aq,ar,as,at,av)return an:New
-'TextBox'{Name=aq,Text=ar,PlaceholderText=as,ClearTextOnFocus=false,MultiLine=av
-==true,BackgroundColor3=ah.BgPrimary,BorderSizePixel=0,TextColor3=ah.FgPrimary,
-PlaceholderColor3=ah.FgTertiary,FontFace=if av then aj.Mono else aj.Body,
-TextSize=13,TextWrapped=av==true,RichText=false,TextXAlignment=Enum.
-TextXAlignment.Left,TextYAlignment=if av then Enum.TextYAlignment.Top else Enum.
-TextYAlignment.Center,Size=UDim2.new(1,0,0,if av then 150 else 31),[af.OnChange
-'Text']=function(ax)ar:set(ax:sub(1,at))end,[am]={ak.padding(an,8),an:New
-'UICorner'{CornerRadius=UDim.new(0,4)}}}end local av,ax,az=function(av,ax,az,aB,
-aD,aF)local aH=ar(function(aH)aH(ao.Selected)local aJ,aL,aN=aH(ao.State),ao:
-targets(az)if aF then local aO=aH(ap)aL,aN=if aO then{aO.id}else{},if aO and not
-al.supports(aO,az)then 1 else 0 end return aJ.status~='connected'or ao:isBusy()
-or#aL==0 or aN>0 or(aD and aD(aH))==true end)local aJ,aL=ak.button(an,ax,aB,{
-Name=av,Locked=aH,LockReason=
-[[Select supported connected clients. Join, follow and sync exclude this controller.]]
-,Size=UDim2.new(0.5,-4,0,30)})aq[av]=aL return aJ end,function(av,ax,az)return
-ak.stack(an,av,{},{LayoutOrder=ax,AutomaticSize=Enum.AutomaticSize.None,Size=
-UDim2.new(1,0,0,30),[am]={ak.list(an,8,true),az}})end,at('ConfigName',ao.
-ConfigName,'Configuration name',100)az.LayoutOrder=3 local aB=at('ScriptSource',
-ao.Code,'-- Paste Luau to run on the checked clients',64000,true)aB.LayoutOrder=
-3 aB.AutomaticSize=Enum.AutomaticSize.Y aB.Size=UDim2.new(1,-10,0,150)local aD,
-aF=an:New'ScrollingFrame'{Name='ScriptEditor',LayoutOrder=3,
-BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.new(1,0,0,150),CanvasSize=
-UDim2.new(),AutomaticCanvasSize=Enum.AutomaticSize.Y,ScrollBarThickness=3,
-ScrollingDirection=Enum.ScrollingDirection.Y,ClipsDescendants=true,[am]={aB}},
-at('FollowDistance',ao.FollowDistance,'Distance in studs (3\u{2013}30)',5)aF.
-LayoutOrder=4 local aH,aJ=ak.stack(an,'SessionControls',{ax('JoinActions',1,{av(
-'JoinMyServer','Join my server','session.join',function()ao:joinMyServer()end),
-av('Rejoin','Rejoin game','session.rejoin',function()ao:perform('session.rejoin'
-,{})end)}),ax('FollowActions',2,{av('FollowMe','Follow my character',
-'movement.follow',function()ao:followMe()end,function(aH)local aJ=tonumber(aH(ao
-.FollowDistance))return not aJ or aJ<3 or aJ>30 end),av('StopFollowing',
-'Stop following','movement.stop',function()ao:perform('movement.stop',{})end)}),
-as('Follow distance (studs)',3,18),aF,as(
-[[Join and follow target the other checked clients. Following uses walking/pathfinding in the same server.]]
-,5,42)}),an:New'ScrollingFrame'{Name='SavedConfigNames',BackgroundTransparency=1
-,BorderSizePixel=0,Size=UDim2.new(1,0,0,29),LayoutOrder=2,ScrollingDirection=
-Enum.ScrollingDirection.X,CanvasSize=UDim2.new(),AutomaticCanvasSize=Enum.
-AutomaticSize.X,ScrollBarThickness=2,[am]={ak.list(an,6,true),an:ForPairs(ao.
-ConfigNames,function(aH,aJ,aL,aN)local aO=ak.button(aJ,aN,function()ao.
-ConfigName:set(aN)end,{Name='ConfigChoice',Size=UDim2.fromOffset(math.clamp(#aN*
-7+22,70,180),25)})aO.LayoutOrder=aL return aL,aO end)}}local aL,aN=ak.panel(an,{
-Name='ConfigurationsPanel',LayoutOrder=4,[am]={ak.padding(an,12),ak.stack(an,
-'ConfigurationControls',{ak.label(an,'Configurations',{LayoutOrder=0,FontFace=aj
-.Title,TextSize=16,TextColor3=ah.FgPrimary}),ax('ConfigDiscovery',1,{av(
-'ListConfigs',"Get inspected client's configs",'configs.list',function()ao:
-listConfigs()end,nil,true),av('LoadConfig','Load named config','configs.load',
-function()ao:perform('configs.load',{name=af.peek(ao.ConfigName)})end,function(
-aL)return aL(ao.ConfigName)==''end)}),aJ,az,ax('ConfigDistribution',4,{av(
-'SyncConfig','Sync my current settings','configs.sync',function()ao:
-syncSettings()end,function(aL)return not ao.manager or aL(ao.ConfigName)==''end)
-,av('SetAutoload','Set account autoload','configs.autoload',function()ao:
-perform('configs.autoload',{name=af.peek(ao.ConfigName)})end,function(aL)return
-aL(ao.ConfigName)==''end)}),ax('ConfigPreferences',5,{av('ClearAutoload',
-'Clear account autoload','configs.autoload',function()ao:perform(
-'configs.autoload',{name=''})end),av('AutosaveOn','Enable autosave',
-'configs.autosave',function()ao:perform('configs.autosave',{enabled=true})end)})
-,ax('ConfigAutosave',6,{av('AutosaveOff','Disable autosave','configs.autosave',
-function()ao:perform('configs.autosave',{enabled=false})end)}),as(
-[[Load/autoload use files on each target. Sync copies this client's current settings into the named file and loads it in the same experience. Autosave updates each target's loaded file.]]
-,7,44)})}}),ak.panel(an,{Name='ScriptsPanel',LayoutOrder=5,[am]={ak.padding(an,
-12),ak.stack(an,'ScriptControls',{ak.label(an,'Execute script',{LayoutOrder=1,
-FontFace=aj.Title,TextSize=16,TextColor3=ah.FgPrimary}),as(
-[[Run trusted Luau on the checked clients. Source is delivered to them; operation history stores only a fingerprint.]]
-,2,34),aD,ax('ScriptActions',4,{av('RunScript','Review and execute',
-'scripts.execute',function()ao:perform('scripts.execute',{code=af.peek(ao.Code)}
-)end,function(aL)return aL(ao.Code):match'^%s*$'~=nil end),av('StopScript',
-'Stop script task','scripts.stop',function()ao:perform('scripts.stop',{})end)}),
-as(
-[[Stop cancels the tracked main task. Connections or child tasks created by the script may continue. Completion and errors appear in the inspected client's status.]]
-,5,42)})}})return{Sessions=aH,Configs=aL,Scripts=aN,Buttons=aq,Editor=aB}end end
-,['components/window/clientControl/model']=function(aa,ab)local ad=aa.Parent.
-Parent.Parent.Parent local af=ab(ad.packages.fusion)local ah,aj=af.peek,{}aj.
-__index=aj aj.actionTitles={['session.join']='Join server',['session.rejoin']=
-'Rejoin game',['movement.follow']='Follow player',['movement.stop']=
-'Stop following',['scripts.execute']='Start script',['scripts.stop']=
-'Stop script task',['configs.list']='List configurations',['configs.load']=
-'Load configuration',['configs.sync']='Sync settings',['configs.autoload']=
-'Set account autoload',['configs.autosave']='Autosave'}function aj.name(ak)local
-al=ak.metadata or{}return al.username or al.displayName or'Client'end function
-aj.duration(ak)ak=math.max(0,math.floor(ak))if ak<60 then return tostring(ak)..
-'s'end if ak<3600 then return tostring(math.floor(ak/60))..'m'end return string.
-format('%dh %02dm',math.floor(ak/3600),math.floor(ak%3600/60))end function aj.
-freshness(ak,al)if not ak.statusUpdatedAt then return'Waiting for status'end
-local am=math.max(0,(al-ak.statusUpdatedAt)/1000)return if am>15 then
-'Stale \u{b7} '..aj.duration(am)..' ago'else'Live \u{b7} '..aj.duration(am)..
-' ago'end function aj.supports(ak,al)for am,an in ipairs(ak.capabilities or{})do
-if an.name==al then return true end end return false end function aj.actionTitle
-(ak)local al,am=ak.input or{},aj.actionTitles[ak.action]or ak.action if ak.
-action=='configs.autosave'then return am..(if al.enabled then' on'else' off')end
-if al.name then return am..(if al.name==''then' \u{b7} Clear'else' \u{b7} '..al.
-name)end return am end function aj.new(ak,al,am)local an=setmetatable({control=
-al,State=ak:Value(al:getState()),Query=ak:Value'',Filter=ak:Value'all',Selected=
-ak:Value{},Now=ak:Value(DateTime.now().UnixTimestampMillis),Notice=ak:Value'',
-copyText=am.copyText,confirm=am.confirm,manager=am.saveManager,Code=ak:Value'',
-ConfigName=ak:Value'Shared settings',FollowDistance=ak:Value'6'},aj)ak:insert(al
-:onChanged(function(ao)local ap,aq={},ah(an.Selected)for ar,as in ipairs(ao.
-clients)do if aq[as.id]then ap[as.id]=true end end an.Selected:set(ap)an.State:
-set(ao)end))an.VisibleClients=ak:Computed(function(ao)local ap,aq,ar,as,at=ao(an
-.State),string.lower(ao(an.Query)),ao(an.Filter),ao(an.Now),{}for av,ax in
-ipairs(ap.clients)do local az=ax.metadata or{}local aB,aD=string.lower(table.
-concat({aj.name(ax),az.displayName or'',az.gameName or'',az.executor or'',
-tostring(az.placeId or''),az.jobId or'',ax.id},' ')),not ax.statusUpdatedAt or
-as-ax.statusUpdatedAt>15000 if(aq==''or aB:find(aq,1,true))and(ar~='others'or ax
-.id~=ap.clientId)and(ar~='attention'or aD)then table.insert(at,ax)end end table.
-sort(at,function(av,ax)local az,aB=string.lower(aj.name(av)),string.lower(aj.
-name(ax))return if az==aB then av.id<ax.id else az<aB end)return at end)an.
-ConfigNames=ak:Computed(function(ao)local ap=ao(an.State)for aq,ar in ipairs(ap.
-history)do if ar.clientId==ap.selectedId and ar.request.action=='configs.list'
-and ar.status=='succeeded'then return ar.result and ar.result.names or{}end end
-return{}end)return an end function aj.isBusy(ak)local al=ah(ak.State).batch
-return al~=nil and al.status=='pending'end function aj.focus(ak,al)if ak:isBusy(
-)then return end if ak.control:selectClient(al)then ak.Selected:set{[al]=true}ak
-.Notice:set''end end function aj.toggle(ak,al)if ak:isBusy()then return end
-local am=table.clone(ah(ak.Selected))am[al]=if am[al]then nil else true ak.
-Selected:set(am)ak.control:selectClient(al)end function aj.selectVisible(ak)if
-ak:isBusy()then return end local al={}for am,an in ipairs(ah(ak.VisibleClients))
-do al[an.id]=true end local am=ah(ak.VisibleClients)if#am>0 and not al[ah(ak.
-State).selectedId]then ak.control:selectClient(am[1].id)end ak.Selected:set(al)
-end function aj.clearSelection(ak)if not ak:isBusy()then ak.Selected:set{}end
-end function aj.targets(ak,al)local am,an,ao={},0,ah(ak.Selected)for ap,aq in
-ipairs(ah(ak.State).clients)do if ao[aq.id]then if aq.id==ah(ak.State).clientId
-and(al=='session.join'or al=='movement.follow'or al=='configs.sync')then
-continue end table.insert(am,aq.id)if al and not aj.supports(aq,al)then an+=1
-end end end return am,an end function aj.perform(ak,al,am)local an,ao=ak:
-targets(al)if#an==0 or ao>0 or ak:isBusy()then return false end ak.Notice:set''
-local ap=table.clone(am)local aq,ar=function()if not ak.control:perform(an,al,ap
-)then ak.Notice:set
-[[The selected connections changed. Review the targets and try again.]]end end,
-al=='session.join'or al=='session.rejoin'or al=='scripts.execute'or al==
-'configs.sync'or al=='configs.load'if ar then if not ak.confirm then ak.Notice:
-set'Action review is unavailable.'return false end local as={}for at,av in
-ipairs(ah(ak.State).clients)do if table.find(an,av.id)then table.insert(as,aj.
-name(av))end end local at=tostring(#an)..' clients: '..table.concat(as,', ')if
-al=='scripts.execute'then at..='\nRuns '..#am.code..
-[[ bytes of Luau with these clients' executor access. Only run code you trust.]]
-end if al=='session.join'or al=='session.rejoin'then at..=
-[[
-
-Clients reappear after Ethos starts in the destination server.]]end if al==
-'configs.sync'then at..='\nSaves and loads '..am.name..
-', replacing an existing file with that name.'end ak.confirm(aj.actionTitle{
-action=al,input=am},at,aq)else aq()end return true end function aj.origin(ak)
-local al=ah(ak.State)for am,an in ipairs(al.clients)do if an.id==al.clientId
-then return an.metadata end end return nil end function aj.joinMyServer(ak)local
-al=ak:origin()if not al or not al.placeId or not al.jobId or al.jobId==''then ak
-.Notice:set'This client has no joinable server.'return false end return ak:
-perform('session.join',{placeId=al.placeId,jobId=al.jobId})end function aj.
-followMe(ak)local al,am=ak:origin(),tonumber(ah(ak.FollowDistance))if not al or
-not al.userId or not am or am<3 or am>30 then ak.Notice:set
-'Enter a follow distance from 3 to 30 studs.'return false end return ak:perform(
-'movement.follow',{userId=al.userId,distance=am})end function aj.listConfigs(ak)
-local al=ah(ak.State)if not al.selectedId or ak:isBusy()then return false end
-return ak.control:perform({al.selectedId},'configs.list',{})end function aj.
-syncSettings(ak)if not ak.manager then ak.Notice:set
-'Settings are unavailable on this client.'return false end local al=ak:origin()
-if not al or not al.gameId then return false end local am,an=ak.manager:Export()
-if not am then ak.Notice:set(tostring(an))return false end return ak:perform(
-'configs.sync',{name=ah(ak.ConfigName),configJson=an,gameId=al.gameId})end
-function aj.copyDetails(ak)if type(ak.copyText)~='function'then return false end
-local al=ah(ak.State)for am,an in ipairs(al.clients)do if an.id==al.selectedId
-then local ao=an.metadata or{}local ap=table.concat({aj.name(an),'Game: '..(ao.
-gameName or'Roblox'),'Place: '..tostring(ao.placeId or'Unknown'),'Server: '..(ao
-.jobId or'Unknown'),'Client: '..an.id,'Executor: '..(ao.executor or'Unknown')},
-'\n')local aq=pcall(ak.copyText,ap)ak.Notice:set(if aq then
-'Session details copied.'else'Could not copy session details.')return aq end end
-return false end return aj end,['components/window/clientControl/view']=function
-(aa,ab)local ad=aa.Parent.Parent.Parent.Parent local af,ah,aj,ak,al,am,an=ab(ad.
-packages.fusion),ab(ad.storage.theme),ab(ad.components.ui.shared.fonts),ab(ad.
-utils.displayScale),ab(aa.Parent.model),ab(aa.Parent.widgets),ab(aa.Parent.
-controls)local ao,ap,aq=af.Children,function(ao,ap)for aq,ar in ipairs(ao.
-clients)do if ar.id==ap then return ar end end return nil end,function(ao,ap)
-return if type(ao)=='number'then tostring(math.floor(ao+0.5))..ap else'\u{2014}'
-end return function(ar,as)local at,av,ax=ar:Value(false),{},function(at)return
-ar:Computed(at)end local az,aB,aD,aF,aH=ax(function(az)local aB=az(as.State).
-batch return aB~=nil and aB.status=='pending'end),ax(function(az)local aB=0 for
-aD in pairs(az(as.Selected))do aB+=1 end return aB end),ax(function(az)local aB=
-az(as.State)return ap(aB,aB.selectedId)end),ax(function(az)local aB={}for aD,aF
-in ipairs(az(as.VisibleClients))do table.insert(aB,aF.id)end return aB end),
-function(az,aB)return am.label(ar,az,aB)end local aJ,aL,aN=function(aJ,aL)local
-aN={FontFace=aj.Title,TextColor3=ah.FgPrimary,TextSize=15}for aO,aP in pairs(aL
-or{})do aN[aO]=aP end return aH(aJ,aN)end,function(aJ,aL,aN,aO,aP)local aQ,aR=am
-.button(ar,aL,aN,{Name=aJ,Locked=aO,Size=aP,LockReason=
-'Wait for the current action to finish.'})av[aJ]=aR return aQ end,{}for aO,aP in
-ipairs{{'Connected',ax(function(aO)return tostring(#aO(as.State).clients)end)},{
-'Selected',aB},{'Needs update',ax(function(aO)local aP,aQ=aO(as.Now),0 for aR,aS
-in ipairs(aO(as.State).clients)do if not aS.statusUpdatedAt or aP-aS.
-statusUpdatedAt>15000 then aQ+=1 end end return tostring(aQ)end)}}do table.
-insert(aN,am.panel(ar,{Size=UDim2.new(0.3333333333333333,-6,0,57),AutomaticSize=
-Enum.AutomaticSize.None,LayoutOrder=aO,[ao]={am.padding(ar,9),aJ(aP[2],{TextSize
-=20,Size=UDim2.new(1,0,0,23)}),aH(aP[1],{Position=UDim2.fromOffset(0,24),
-TextSize=11,Size=UDim2.new(1,0,0,16)})}}))end local aO={}for aP,aQ in ipairs{{
-'all','All clients'},{'others','Other clients'},{'attention','Needs update'}}do
-local aR=am.button(ar,aQ[2],function()as.Filter:set(aQ[1])end,{Name='Filter_'..
-aQ[1],Size=UDim2.new(0.3333333333333333,-5,0,27),BackgroundColor3=ax(function(aR
-)return if aR(as.Filter)==aQ[1]then aR(ah.BgTertiary)else aR(ah.BgPrimary)end),
-TextColor3=ax(function(aR)return if aR(as.Filter)==aQ[1]then aR(ah.FgPrimary)
-else aR(ah.FgTertiary)end)})aR.LayoutOrder=aP table.insert(aO,aR)end local aP,aQ
-=ar:New'TextBox'{Name='SearchClients',BackgroundColor3=ah.BgPrimary,
-BorderSizePixel=0,Size=UDim2.new(1,0,0,32),Text=as.Query,PlaceholderText=
-'Search name, game, executor or server\u{2026}',ClearTextOnFocus=false,
-TextColor3=ah.FgPrimary,PlaceholderColor3=ah.FgTertiary,FontFace=aj.Body,
-TextSize=12,TextXAlignment=Enum.TextXAlignment.Left,RichText=false,[af.OnChange
-'Text']=function(aP)as.Query:set(aP:sub(1,200))end,[ao]={am.padding(ar,8),ar:New
-'UICorner'{CornerRadius=UDim.new(0,4)}}},ar:New'ScrollingFrame'{Name=
-'ClientRoster',BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.new(1,0,0,
-281),ScrollBarThickness=2,ScrollBarImageColor3=ah.FgTertiary,ScrollingDirection=
-Enum.ScrollingDirection.Y,CanvasSize=UDim2.new(),AutomaticCanvasSize=Enum.
-AutomaticSize.Y,[ao]={am.list(ar,6),aH(ax(function(aP)local aQ=aP(as.State)
-return if aQ.status~='connected'then aQ.error or
-'Connecting with your script key\u{2026}'elseif#aQ.clients==0 then
-[[No running clients. Start Ethos on an account using this key.]]else
-'No clients match this search or filter.'end),{Name='EmptyRoster',TextWrapped=
-true,TextTruncate=Enum.TextTruncate.None,Size=UDim2.new(1,-8,0,62),Visible=ax(
-function(aP)return#aP(aF)==0 end)}),ar:ForPairs(aF,function(aP,aQ,aR,aS)local aT
-,aU=aQ:Computed(function(aT)return ap(aT(as.State),aS)or{id=aS}end),aQ:Computed(
-function(aT)return aT(as.Selected)[aS]==true end)local aV=aQ:New'TextButton'{
-Name='SelectClient',Text=aQ:Computed(function(aV)return if aV(aU)then'\u{2713}'
-else''end),FontFace=aj.Body,TextSize=14,TextColor3=ah.FgPrimary,AutoButtonColor=
-false,BackgroundColor3=aQ:Computed(function(aV)return if aV(aU)then aV(ah.
-AccentPrimary)else aV(ah.BgTertiary)end),BorderSizePixel=0,Size=UDim2.
-fromOffset(20,20),Position=UDim2.fromOffset(10,12),ZIndex=3,Interactable=aQ:
-Computed(function(aV)return not aV(az)end),[af.OnEvent'Activated']=function()as:
-toggle(aS)end,[ao]={aQ:New'UICorner'{CornerRadius=UDim.new(0,4)}}}return aR,aQ:
-New'TextButton'{Name='Client_'..aS,Text='',LayoutOrder=aR,AutoButtonColor=false,
-BorderSizePixel=0,BackgroundColor3=aQ:Computed(function(aW)return if aW(as.State
-).selectedId==aS then aW(ah.BgTertiary)else aW(ah.BgPrimary)end),Size=UDim2.new(
-1,-5,0,76),Interactable=aQ:Computed(function(aW)return not aW(az)end),[af.
-OnEvent'Activated']=function()as:focus(aS)end,[ao]={aQ:New'UICorner'{
-CornerRadius=UDim.new(0,5)},aV,am.label(aQ,aQ:Computed(function(aW)return al.
-name(aW(aT))end),{Name='ClientName',FontFace=aj.Title,TextColor3=ah.FgPrimary,
-Position=UDim2.fromOffset(39,7),Size=UDim2.new(1,-46,0,21)}),am.label(aQ,aQ:
-Computed(function(aW)local aX=aW(aT)return(aX.metadata and aX.metadata.gameName
-or'Roblox')..(if aS==aW(as.State).clientId then' \u{b7} This client'else'')end),
-{Position=UDim2.fromOffset(39,29),Size=UDim2.new(1,-46,0,18),TextSize=11}),am.
-label(aQ,aQ:Computed(function(aW)local aX=aW(aT)return aq(aX.status and aX.
-status.fps,' FPS')..' \u{b7} '..al.freshness(aX,aW(as.Now))end),{Position=UDim2.
-fromOffset(39,50),Size=UDim2.new(1,-46,0,17),TextSize=10,TextColor3=ah.
-FgTertiary})}}end)}}local aR=am.panel(ar,{Name='RosterPanel',LayoutOrder=1,Size=
-ax(function(aR)return UDim2.new(if aR(at)then 1 else 0.46,if aR(at)then 0 else-5
-,0,0)end),[ao]={am.padding(ar,10),am.stack(ar,'RosterContent',{aJ('Clients',{
-LayoutOrder=1}),ar:Hydrate(aP){LayoutOrder=2},am.stack(ar,'Filters',aO,{
-LayoutOrder=3,Size=UDim2.new(1,0,0,27),AutomaticSize=Enum.AutomaticSize.None,[ao
-]={am.list(ar,6,true),aO}}),am.stack(ar,'Selection',{aL('SelectShown',
-'Select shown',function()as:selectVisible()end,az,UDim2.new(0.5,-3,0,27)),aL(
-'ClearSelection','Clear selection',function()as:clearSelection()end,az,UDim2.
-new(0.5,-3,0,27))},{LayoutOrder=4,Size=UDim2.new(1,0,0,27),AutomaticSize=Enum.
-AutomaticSize.None,[ao]=nil}),ar:Hydrate(aQ){LayoutOrder=5},aH(ax(function(aR)
-return string.format('%d shown \u{b7} %d selected',#aR(aF),aR(aB))end),{
-LayoutOrder=6,TextSize=11})})}})local aS=aR:FindFirstChild('Selection',true)if
-aS then aS.UIListLayout.FillDirection=Enum.FillDirection.Horizontal end local aT
-={}for aU,aV in ipairs{{'FPS','fps',''},{'Ping','pingMs',' ms'},{'Memory',
-'memoryMb',' MB'}}do table.insert(aT,am.stack(ar,'Metric_'..aV[2],{},{
-LayoutOrder=aU,Size=UDim2.new(0.3333333333333333,-5,0,44),AutomaticSize=Enum.
-AutomaticSize.None,[ao]={am.list(ar,0),aJ(ax(function(aW)local aX=aW(aD)return
-aq(aX and aX.status and aX.status[aV[2] ],aV[3])end),{LayoutOrder=1,TextSize=18}
-),aH(aV[1],{LayoutOrder=2,TextSize=11})}}))end local aU=an(ar,as,aD)for aV,aW in
-pairs(aU.Buttons)do av[aV]=aW end local aV=am.panel(ar,{Name='InspectorPanel',
-LayoutOrder=2,Size=ax(function(aV)return UDim2.new(if aV(at)then 1 else 0.54,if
-aV(at)then 0 else-5,0,0)end),[ao]={am.padding(ar,12),am.stack(ar,
-'InspectorContent',{aJ(ax(function(aV)local aW=aV(aD)return if aW then al.name(
-aW)else'Inspect a client'end),{Name='FocusedClient',LayoutOrder=1,TextSize=17}),
-aH(ax(function(aV)local aW=aV(aD)return if aW then al.freshness(aW,aV(as.Now))
-else'Click a client to view its session.'end),{Name='StatusFreshness',
-LayoutOrder=2,TextSize=11}),am.stack(ar,'Metrics',aT,{LayoutOrder=3,Size=UDim2.
-new(1,0,0,44),AutomaticSize=Enum.AutomaticSize.None,[ao]={am.list(ar,6,true),aT}
-}),aH(ax(function(aV)local aW=aV(aD)if not aW then return
-'Game, server and runtime details appear here.'end local aX,aY=aW.metadata or{},
-aW.status or{}return(aX.gameName or'Roblox')..' \u{b7} '..(aX.executor or
-'Unknown executor')..'\nPlace '..tostring(aX.placeId or'\u{2014}')..
-' \u{b7} Up '..al.duration(aY.uptimeSeconds or 0)..'\nServer '..(aX.jobId or
-'Unknown')end),{Name='SessionDetails',LayoutOrder=4,TextWrapped=true,
-TextTruncate=Enum.TextTruncate.None,TextSize=12,Size=UDim2.new(1,0,0,57)}),aH(
-ax(function(aV)local aW=aV(aD)local aX=aW and aW.status if not aX then return
-'Session status has not been reported yet.'end local aY,aZ,a_,a0=aX.follow or{},
-aX.script or{},aX.config or{},aX.session or{}return'Follow: '..(if aY.name then
-aY.name..' \u{b7} 'else'')..(aY.state or'stopped')..(if aY.error then' \u{b7} '
-..aY.error else'')..'\nScript: '..(aZ.state or'idle')..(if aZ.error then
-' \u{b7} '..aZ.error else'')..'\nConfig: '..(if a_.current and a_.current~=''
-then a_.current else'none')..(if a_.autoSave then' \u{b7} Autosave on'else
-' \u{b7} Autosave off')..'\nTeleport: '..(a0.state or'idle')..(if a0.error then
-' \u{b7} '..a0.error else'')end),{Name='RuntimeState',LayoutOrder=5,TextWrapped=
-true,TextTruncate=Enum.TextTruncate.None,TextSize=11,Size=UDim2.new(1,0,0,70)}),
-aL('CopyDetails','Copy session details',function()as:copyDetails()end,ax(
-function(aV)return aV(aD)==nil or type(as.copyText)~='function'end),UDim2.new(1,
-0,0,27)),aJ(ax(function(aV)local aW,aX={},0 for aY,aZ in ipairs(aV(as.
-VisibleClients))do aW[aZ.id]=true end for aY in pairs(aV(as.Selected))do if not
-aW[aY]then aX+=1 end end return'Manage '..tostring(aV(aB))..' selected'..(if aX>
-0 then' \u{b7} '..aX..' hidden by filters'else'')end),{LayoutOrder=7,TextSize=13
-}),ar:Hydrate(aU.Sessions){LayoutOrder=8},aH(ax(function(aV)local aW=aV(as.State
-).batch if not aW then return
-[[Actions apply to checked clients. Teleports/scripts report acceptance; inspect runtime status for outcomes.]]
-end local aX,aY,aZ,a_=0,0,0,0 for a0,a1 in ipairs(aW.entries)do if a1.status==
-'succeeded'then aX+=1 elseif a1.status=='failed'then aY+=1 elseif a1.status==
-'unknown'then aZ+=1 else a_+=1 end end return string.format(
-'%d acknowledged \u{b7} %d failed \u{b7} %d unknown \u{b7} %d pending',aX,aY,aZ,
-a_)end),{Name='BatchSummary',LayoutOrder=12,TextWrapped=true,TextTruncate=Enum.
-TextTruncate.None,TextSize=11,Size=UDim2.new(1,0,0,31)})})}})av.CopyDetails.Root
-.LayoutOrder=6 local aW=ar:New'ScrollingFrame'{Name='ActivityList',
-BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.new(1,0,0,142),
-ScrollBarThickness=2,ScrollBarImageColor3=ah.FgTertiary,ScrollingDirection=Enum.
-ScrollingDirection.Y,CanvasSize=UDim2.new(),AutomaticCanvasSize=Enum.
-AutomaticSize.Y,[ao]={am.list(ar,5),aH(
-'Actions and individual client results will appear here.',{Name='EmptyActivity',
-Visible=ax(function(aW)return#aW(as.State).history==0 end),TextSize=12}),ar:
-ForPairs(ax(function(aW)return aW(as.State).history end),function(aW,aX,aY,aZ)
-local a_=aZ.status local a0,a1,a2=if a_=='succeeded'then ah.Success elseif a_==
-'unknown'then ah.AccentCaution else ah.AccentDestructive,if aZ.error then al.
-actionTitle(aZ.request)..' \u{b7} '..aZ.error.message else al.actionTitle(aZ.
-request),DateTime.fromUnixTimestampMillis(aZ.completedAt or aZ.createdAt):
-FormatLocalTime('HH:mm:ss','en-us')return aY,aX:New'Frame'{Name='ActivityEntry',
-LayoutOrder=aY,BackgroundColor3=ah.BgPrimary,BorderSizePixel=0,Size=UDim2.new(1,
--5,0,49),[ao]={am.label(aX,aZ.targetName..' \u{b7} '..a2,{FontFace=aj.Title,
-TextColor3=ah.FgPrimary,Position=UDim2.fromOffset(8,4),Size=UDim2.new(1,-140,0,
-20)}),am.label(aX,if a_=='succeeded'then'ACKNOWLEDGED'else string.upper(a_),{
-TextSize=10,TextColor3=a0,TextXAlignment=Enum.TextXAlignment.Right,Position=
-UDim2.new(1,-128,0,5),Size=UDim2.fromOffset(118,18)}),am.label(aX,a1,{Position=
-UDim2.fromOffset(8,26),Size=UDim2.new(1,-16,0,16),TextSize=11})}}end)}}local aX=
-am.stack(ar,'ClientManagement',{am.stack(ar,'Header',{aJ('Client Control',{
-TextSize=22,LayoutOrder=1,Size=UDim2.new(1,0,0,29)}),aH(ax(function(aX)local aY=
-aX(as.State)return if aY.status=='connected'then
-'Connected \u{b7} Manage every Ethos client running with your key.'else aY.error
-or'Connecting with your script key\u{2026}'end),{Name='ConnectionStatus',
-LayoutOrder=2,TextWrapped=true,TextTruncate=Enum.TextTruncate.None,TextSize=12,
-Size=UDim2.new(1,0,0,33)}),am.stack(ar,'Toolbar',{aL('Back','Back to game',
-function()end,false,UDim2.new(0.3333333333333333,-5,0,29)),aL('ThisClient',
-'This client',function()local aX=af.peek(as.State).clientId if aX then as:focus(
-aX)end end,az,UDim2.new(0.3333333333333333,-5,0,29)),aL('Reconnect','Reconnect',
-function()as.control:reconnect()end,az,UDim2.new(0.3333333333333333,-5,0,29))},{
-LayoutOrder=3,Size=UDim2.new(1,0,0,29),AutomaticSize=Enum.AutomaticSize.None})},
-{LayoutOrder=1}),am.stack(ar,'Overview',aN,{LayoutOrder=2,Size=UDim2.new(1,0,0,
-57),AutomaticSize=Enum.AutomaticSize.None,[ao]={am.list(ar,8,true),aN}}),am.
-stack(ar,'ManagementBody',{aR,aV},{LayoutOrder=3}),aU.Configs,aU.Scripts,am.
-panel(ar,{Name='ActivityPanel',LayoutOrder=6,[ao]={am.padding(ar,10),am.stack(ar
-,'ActivityContent',{aJ('Recent activity',{LayoutOrder=1}),ar:Hydrate(aW){
-LayoutOrder=2},aL('ClearHistory','Clear local activity',function()as.control:
-clearHistory()end,az,UDim2.new(1,0,0,27))})}}),aH(as.Notice,{Name=
-'ManagementNotice',LayoutOrder=7,TextSize=12})},{Size=UDim2.new(1,-20,0,0),
-LayoutOrder=-10})for aY,aZ in ipairs{'Toolbar','Selection'}do local a_=aX:
-FindFirstChild(aZ,true)if a_ then a_.UIListLayout.FillDirection=Enum.
-FillDirection.Horizontal end end local aY=aX.ManagementBody av.ClearHistory.Root
-.LayoutOrder=3 local aZ=function()local aZ=aX.AbsoluteSize.X/ak.get(aX)<540 at:
-set(aZ)aY.UIListLayout.FillDirection=if aZ then Enum.FillDirection.Vertical else
-Enum.FillDirection.Horizontal end ar:insert(aX:GetPropertyChangedSignal
-'AbsoluteSize':Connect(aZ))aZ()return{Root=aX,Buttons=av,Search=aP,Model=as,
-Narrow=at}end end,['components/window/clientControl/widgets']=function(aa,ab)
-local ad=aa.Parent.Parent.Parent.Parent local af,ah,aj,ak,al=ab(ad.packages.
-fusion),ab(ad.storage.theme),ab(ad.components.ui.shared.fonts),ab(ad.components.
-button),ab(ad.components.ui.container)local am={C=af.Children}function am.label(
-an,ao,ap)local aq={BackgroundTransparency=1,BorderSizePixel=0,Text=ao,TextColor3
-=ah.FgSecondary,TextSize=13,FontFace=aj.Body,TextXAlignment=Enum.TextXAlignment.
-Left,TextYAlignment=Enum.TextYAlignment.Center,RichText=false,TextTruncate=Enum.
-TextTruncate.AtEnd,Size=UDim2.new(1,0,0,22)}for ar,as in pairs(ap or{})do aq[ar]
-=as end return an:New'TextLabel'(aq)end function am.list(an,ao,ap)return an:New
-'UIListLayout'{SortOrder=Enum.SortOrder.LayoutOrder,Padding=UDim.new(0,ao or 0),
-FillDirection=if ap then Enum.FillDirection.Horizontal else Enum.FillDirection.
-Vertical}end function am.padding(an,ao)return an:New'UIPadding'{PaddingTop=UDim.
-new(0,ao),PaddingBottom=UDim.new(0,ao),PaddingLeft=UDim.new(0,ao),PaddingRight=
-UDim.new(0,ao)}end function am.panel(an,ao)local ap={Color=ah.BgPrimaryHighlight
-,StrokeColor=ah.BgTertiary,CornerRadius=6,Size=UDim2.new(1,0,0,0),AutomaticSize=
-Enum.AutomaticSize.Y}for aq,ar in pairs(ao or{})do ap[aq]=ar end return al(an,ap
-)end function am.button(an,ao,ap,aq)aq=aq or{}local ar,as=ak.new{Scope=an,Title=
-ao,Callback=ap,Size=aq.Size or UDim2.new(0.5,-4,0,30),Type=aq.Type,Locked=af.
-peek(aq.Locked)==true,LockReason=af.peek(aq.LockReason),TextSize=12,Tooltip=aq.
-Tooltip,BackgroundColor3=aq.BackgroundColor3,TextColor3=aq.TextColor3},an:
-Computed(function(ar)return{locked=ar(aq.Locked)==true,reason=ar(aq.LockReason)}
-end)local at=function()local at=af.peek(as)ar:SetLocked(at.locked,at.reason)end
-an:Observer(as):onChange(at)at()local av=ar:Render(an)an:Hydrate(av){Name=aq.
-Name or'ManagementButton',LayoutOrder=aq.Order or 0}return av,ar end function am
-.stack(an,ao,ap,aq)local ar={Name=ao,BackgroundTransparency=1,BorderSizePixel=0,
-Size=UDim2.new(1,0,0,0),AutomaticSize=Enum.AutomaticSize.Y,[am.C]={am.list(an,8)
-,ap}}for as,at in pairs(aq or{})do ar[as]=at end return an:New'Frame'(ar)end
-return am end,['components/window/dialog']=function(aa,ab)local ad,af=ab(aa.
-Parent.Parent.Parent.Internal),aa.Parent.Parent.Parent.utils local ah,aj,ak,al,
-am,an=ab(af.animate),ab(af.color3),ab(af.insertitem),ab(af.removeitem),ab(af.
-safecallback),ab(af.services)local ao,ap,aq,ar,as=an.UserInputService,an.
-Workspace.CurrentCamera,ab(af.pendingTasks),ab(af.displayScale),aa.Parent.Parent
-.Parent.packages local at,av=ab(as.fusion),ab(as.states)local ax,az,aB,aD,aF,aH,
-aJ,aL=at.Children,at.OnEvent,ad.Scope,at.peek,ab(aa.Parent.Parent.Parent.storage
-.theme),ab(aa.Parent.Parent.Parent.utils.images),{Window=nil,Scope=nil},{}
-function aJ.init(aN,aO,aP)aJ.Window=aO aJ.Scope=aP end local aN=function(aN,aO,
-aP,aQ)local aR=string.lower(aN or'default')if aR=='primary'then local aS=aO(aF.
-AccentPrimary)local aT=aj.darkenRGB(aS,15)return aO(aF.FgPrimary),(aO(aP)and not
-aO(aQ))and aT or aS elseif aR=='danger'then local aS=aO(aF.AccentDestructive)
-local aT=aj.darkenRGB(aS,12)return aO(aF.FgPrimary),(aO(aP)and not aO(aQ))and aT
-or aS elseif aR=='warning'then local aS=aO(aF.AccentCaution)local aT=aj.
-darkenRGB(aS,12)return aO(aF.BgPrimary),(aO(aP)and not aO(aQ))and aT or aS else
-local aS=aO(aF.BgPrimary)local aT=aj.darkenRGB(aS,5)return aO(aF.FgTertiary),(
-aO(aP)and not aO(aQ))and aT or aS end end function aJ.Create(aO,aP)b(c(g),d(h),
-e(false))assert(aJ.Window~=nil,
+end,['components/window/dialog']=function(aa,ab)local ad,af=ab(aa.Parent.Parent.
+Parent.Internal),aa.Parent.Parent.Parent.utils local ah,aj,ak,al,am,an=ab(af.
+animate),ab(af.color3),ab(af.insertitem),ab(af.removeitem),ab(af.safecallback),
+ab(af.services)local ao,ap,aq,ar,as=an.UserInputService,an.Workspace.
+CurrentCamera,ab(af.pendingTasks),ab(af.displayScale),aa.Parent.Parent.Parent.
+packages local at,av=ab(as.fusion),ab(as.states)local ax,az,aB,aD,aF,aH,aJ,aL=at
+.Children,at.OnEvent,ad.Scope,at.peek,ab(aa.Parent.Parent.Parent.storage.theme),
+ab(aa.Parent.Parent.Parent.utils.images),{Window=nil,Scope=nil},{}function aJ.
+init(aN,aO,aP)aJ.Window=aO aJ.Scope=aP end local aN=function(aN,aO,aP,aQ)local
+aR=string.lower(aN or'default')if aR=='primary'then local aS=aO(aF.AccentPrimary
+)local aT=aj.darkenRGB(aS,15)return aO(aF.FgPrimary),(aO(aP)and not aO(aQ))and
+aT or aS elseif aR=='danger'then local aS=aO(aF.AccentDestructive)local aT=aj.
+darkenRGB(aS,12)return aO(aF.FgPrimary),(aO(aP)and not aO(aQ))and aT or aS
+elseif aR=='warning'then local aS=aO(aF.AccentCaution)local aT=aj.darkenRGB(aS,
+12)return aO(aF.BgPrimary),(aO(aP)and not aO(aQ))and aT or aS else local aS=aO(
+aF.BgPrimary)local aT=aj.darkenRGB(aS,5)return aO(aF.FgTertiary),(aO(aP)and not
+aO(aQ))and aT or aS end end function aJ.Create(aO,aP)b(c(g),d(h),e(false))
+assert(aJ.Window~=nil,
 'Dialog module must be initialized before creating a dialog')local aQ,aR,aS,aT,
 aU,aV,aW=(aJ.Scope or aB):innerScope(),math.max(320,tonumber(aP and aP.Width)or
 500),(aP and aP.Dismissable~=nil)and aP.Dismissable or true,(aP and aP.
@@ -4423,1213 +3267,50 @@ DefaultAction()end end end)aQ:insert(aY.Connection)aQ:insert(aY.
 KeyboardConnection)if aP and typeof(aP.Buttons)=='table'then for a2,a3 in
 ipairs(aP.Buttons)do aY:AddButton(a3)end end aY.Opened:set(true)aL[aY]=true
 return aY end function aJ.cleanup(aO)for aP in pairs(aL)do aP:Destroy()end aL={}
-aJ.Window=nil aJ.Scope=nil end return aJ end,[
-'components/window/pages/communityPage']=function(aa,ab)local ad=aa.Parent.
-Parent.Parent.Parent local af,ah,aj,ak,al,am,an,ao,ap,aq,ar=ab(ad.packages.
-fusion),ab(ad.packages.states),ab(ad.utils.pendingTasks),ab(ad.components.button
-),ab(aa.model),ab(aa.navigation),ab(aa.views),ab(aa.compose),ab(aa.widgets),ab(
-aa.moderation),ab(aa.administration)local as,at=ap.Children,ap.Theme return
-function(av,ax,az)local aB,aD=af.peek(ah.Library),av:Computed(function(aB)return
-aB(ax.CommunityOpen)and aB(ax.IsOpen)end)local aF=al.new(av,aB.Server.community,
-aD,function()ax:CloseCompactTablist()end)ax.Community=aF aF.PopupParent=aB.GUI
-aF.CreateDialog=function(aH)return ax:Dialog(aH)end aq.mount(av,aF)local aH=av:
-Computed(function(aH)local aJ=aH(aF.Data)return aH(aF.LocalError)or aH(aF.
-Moderation.Error)or(aJ.error and aJ.error.message)or''end)local aJ=av:Computed(
-function(aJ)return if aJ(aH)~=''then aJ(aH)else aJ(aF.Moderation.Status)or aF.
-Moderation:SyncMessage(aJ)or''end)local aL,aN=av:Computed(function(aL)return aL(
-aJ)~=''end),av:Computed(function(aL)return if aL(ax.CommunityOpen)then 1 else 0
-end)local aO=av:Tween(aN,TweenInfo.new(0.16,Enum.EasingStyle.Quad,Enum.
-EasingDirection.Out))local aP,aQ,aR,aS=av:Computed(function(aP)return if aP(ah.
-AnimationsEnabled)then math.clamp(aP(aO),0,1)else aP(aN)end),av:Value(0),av:
-Computed(function(aP)return if aP(az)then 40 else 0 end),ak.new{Scope=av,Title=
-'Browse',Icon='ChevronDownIcon',IconSize=14,Type='secondary',Size=UDim2.
-fromOffset(104,28),Callback=function()ax:ToggleTablist()end}:Render(av)aS.Name=
-'CompactCommunityBrowse'aS.AnchorPoint=Vector2.new()aS.Position=UDim2.
-fromOffset(10,6)local aT=aS:FindFirstChild('TextButton',true)assert(aT and aT:
-IsA'TextButton','Button render must include a TextButton surface')aT.Name=
-'BrowseCommunity'local aU,aV=av:New'CanvasGroup'{Name='CommunityContent',Visible
-=av:Computed(function(aU)return aU(ax.CommunityOpen)or aU(aP)>0.001 end),
-Interactable=ax.CommunityOpen,GroupTransparency=av:Computed(function(aU)return 1
--aU(aP)end),BackgroundTransparency=1,Size=UDim2.fromScale(1,1),[af.OnChange
-'AbsoluteSize']=function(aU)aQ:set(aU.Y/af.peek(ah.EffectiveDPIScale))end,[as]={
-av:New'Frame'{Name='CommunityCompactNavigation',Visible=az,
-BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.new(1,0,0,40),[as]={aS}},
-ap.scroll(av,{Name='CommunityViewport',Position=av:Computed(function(aU)return
-UDim2.fromOffset(0,aU(aR))end),Size=av:Computed(function(aU)return UDim2.new(1,0
-,1,-aU(aR)-(if aU(aL)then 48 else 0))end),[as]={av:New'Frame'{Name=
-'CommunityView',BackgroundTransparency=1,Size=av:Computed(function(aU)return
-UDim2.new(1,0,0,math.max(400,aU(aQ)-aU(aR)-(if aU(aL)then 48 else 0)))end),[as]=
-{av:Computed(function(aU,aV)local aW=aU(aF.Route)aU(aF.Channel)aU(aF.ThreadId)
-local aX if aW=='overview'then aU(az)aX=an.overview(aV,aF,az)elseif aW=='chat'
-then aX=an.chat(aV,aF)elseif aW=='thread'then aX=an.thread(aV,aF)elseif aW==
-'administration'then aX=ar.render(aV,aF)else aX=an.forum(aV,aF)end local aY=aV:
-Value(1)local aZ,a_=aV:Tween(aY,TweenInfo.new(0.16,Enum.EasingStyle.Quad,Enum.
-EasingDirection.Out)),aj.defer(function()aY:set(0)end)aV:insert(function()aj.
-cancel(a_)end)return aV:New'CanvasGroup'{Name='CommunityPageTransition',
-BackgroundTransparency=1,Size=UDim2.fromScale(1,1),GroupTransparency=aV:
-Computed(function(a0)return if a0(ah.AnimationsEnabled)then math.clamp(a0(aZ),0,
-1)else 0 end),[as]={aX}}end)}}}}),av:New'Frame'{Name='CommunityError',Visible=aL
-,BackgroundColor3=at.BgSecondary,BorderSizePixel=0,Position=UDim2.new(0,0,1,-48)
-,Size=UDim2.new(1,0,0,48),[as]={ap.line(av),ap.label(av,aJ,{Name=
-'CommunityErrorText',Position=UDim2.fromOffset(14,5),Size=UDim2.new(1,-104,1,-10
-),TextSize=11,TextWrapped=true,TextColor3=av:Computed(function(aU)return if aU(
-aH)~=''then aU(at.AccentDestructive)else aU(at.FgSecondary)end)}),ap.button(av,
-av:Computed(function(aU)return if aU(aH)~=''or aF.Moderation:SyncMessage(aU)then
-'Refresh'else'Dismiss'end),function()if af.peek(aH)~=''or aF.Moderation:
-SyncMessage(af.peek)then aF:Refresh()else aF.Moderation.Status:set(nil)end end,{
-Name='RetryCommunity',Position=UDim2.new(1,-80,0,9),Size=UDim2.fromOffset(66,30)
-})}}}},av:Computed(function(aU)return aU(aF.Route)..':'..aU(aF.Channel)..':'..
-tostring(aU(aF.ThreadId))end)av:Observer(aV):onChange(function()aU.
-CommunityViewport.CanvasPosition=Vector2.new()end)ax.CommunityOverlay:set(ao(av,
-aF,ax.CommunityOpen))av:insert(function()ax.Community=nil ax.CommunityOverlay:
-set(nil)end)return{Navigation=am(av,aF,ax.CommunityOpen,function()ax:
-SetCommunityOpen(false)end),Content=aU}end end,[
-'components/window/pages/communityPage/administration']=function(aa,ab)local ad=
-aa.Parent.Parent.Parent.Parent.Parent local af,ah,aj=ab(ad.packages.fusion),ab(
-aa.Parent.widgets),ab(aa.Parent.moderation)local ak,al,am,an=ah.Children,ah.
-Theme,{},function(ak,al,am,an)return ah.label(ak,al,{Name=an,LayoutOrder=am,Size
-=UDim2.new(1,0,0,0),AutomaticSize=Enum.AutomaticSize.Y,TextWrapped=true,TextSize
-=12})end local ao,ap,aq=function(ao,ap)local aq=ap.Moderation local ar=function(
-ar)local as=af.peek(aq.Member)if as then aq:Choose('member',as,ar)end end return
-{an(ao,
-[[Posting restrictions apply to the selected channel. You can also open user actions beside a message.]]
-,1),aj.field(ao,aq.MemberId,'Community member ID',
-'Choose a user from a message or enter their member_ ID',100,2),ah.button(ao,
-'Find user',function()aq:LoadMember()end,{Name='FindCommunityMember',LayoutOrder
-=3,Size=UDim2.fromOffset(120,32),Interactable=ao:Computed(function(as)return aq:
-CanSelectMember(as)end)}),an(ao,ao:Computed(function(as)return aq:MemberText(as)
-end),4,'CommunityMemberStatus'),ah.button(ao,'Restrict posting',function()ar
-'restrict'end,{Name='RestrictCommunityMember',LayoutOrder=5,Type='danger',Size=
-UDim2.fromOffset(160,34),Interactable=ao:Computed(function(as)return aq:CanAct(
-'member',as(aq.Member),'restrict',as)end)}),ah.button(ao,'Restore posting',
-function()ar'unrestrict'end,{Name='RestoreCommunityMember',LayoutOrder=6,Size=
-UDim2.fromOffset(160,34),Interactable=ao:Computed(function(as)return aq:CanAct(
-'member',as(aq.Member),'unrestrict',as)end)})}end,function(ao,ap)local aq=ap.
-Moderation return{an(ao,
-[[Locking a channel stops new posts. Existing content remains readable.]],1),ao:
-ForPairs(ao:Computed(function(ar)return aq:Channels(ar)end),function(ar,as,at,av
-)return at,ah.panel(as,{Name='AdminChannel_'..av.id,LayoutOrder=at+1,Size=UDim2.
-new(1,-2,0,72),[ak]={ah.heading(as,av.name,{Position=UDim2.fromOffset(12,9),Size
-=UDim2.new(1,-115,0,22),TextSize=13,TextTruncate=Enum.TextTruncate.AtEnd}),ah.
-label(as,if av.locked then'Locked \u{b7} new posts are paused'else
-'Open for posting',{Position=UDim2.fromOffset(12,34),Size=UDim2.new(1,-115,0,30)
-,TextSize=11,TextWrapped=true}),aj.actions(as,ap,'channel',av,{Position=UDim2.
-new(1,-90,0,20),Size=UDim2.fromOffset(78,30)})}})end)}end,function(ao,ap)local
-aq=ap.Moderation return{ah.button(ao,'Refresh history',function()aq:LoadAudit(
-false)end,{Name='RefreshModerationAudit',LayoutOrder=1,Size=UDim2.fromOffset(146
-,32),Interactable=ao:Computed(function(ar)return not ar(aq.Loading)and not ar(aq
-.Pending)end)}),an(ao,ao:Computed(function(ar)if ar(aq.Loading)then return
-'Loading moderation history\u{2026}'elseif#ar(aq.Audit)==0 then return
-'No moderation history to show.'end return''end),2,'ModerationAuditStatus'),ao:
-ForPairs(aq.Audit,function(ar,as,at,av)return at,ah.panel(as,{Name=
-'ModerationAudit_'..tostring(av.id),LayoutOrder=at+2,Size=UDim2.new(1,-2,0,0),
-AutomaticSize=Enum.AutomaticSize.Y,[ak]={ah.padding(as,12),ah.list(as,5),an(as,
-aq:AuditText(av),1)}})end),ah.button(ao,'Load more',function()aq:LoadAudit(true)
-end,{Name='MoreModerationAudit',LayoutOrder=1000,Size=UDim2.new(1,-2,0,32),
-Visible=ao:Computed(function(ar)return ar(aq.AuditCursor)~=nil end),Interactable
-=ao:Computed(function(ar)return not ar(aq.Loading)and not ar(aq.Pending)end)})}
-end function am.render(ar,as)local at=as.Moderation return ah.scroll(ar,{Name=
-'CommunityAdministration',[ak]={ah.padding(ar,18),ah.list(ar,12),ah.heading(ar,
-'Administration',{LayoutOrder=1,TextSize=19,Size=UDim2.new(1,0,0,28)}),an(ar,ar:
-Computed(function(av)return'Channel: '..at:ScopeLabel(av)end),2,
-'AdministrationScope'),an(ar,ar:Computed(function(av)return at:AuthorityText(av)
-end),3,'CommunityRoleAuthority'),an(ar,
-[[Community permissions come from your Discord server roles. Manage those roles in Discord.]]
-,4),ar:New'Frame'{Name='AdministrationTabs',LayoutOrder=5,BackgroundTransparency
-=1,Size=UDim2.new(1,0,0,34),[ak]={ah.list(ar,6,true),ar:ForPairs(ar:Computed(
-function(av)return at:Tabs(av)end),function(av,ax,az,aB)return az,ah.button(ax,
-aB.label,function()at:SetTab(aB.id)end,{Name='AdministrationTab_'..aB.id,
-LayoutOrder=az,Size=UDim2.fromOffset(90,32),TextColor3=ax:Computed(function(aD)
-return if aD(at.Tab)==aB.id then aD(al.AccentPrimary)else aD(al.FgSecondary)end)
-})end)}},ar:Computed(function(av,ax)local az,aB=av(at.Tab),false for aD,aF in
-ipairs(at:Tabs(av))do aB=aB or aF.id==az end if not aB then return an(ax,
-'Administration is unavailable for this channel.',6)end return ax:New'Frame'{
-Name='AdministrationBody',LayoutOrder=6,BackgroundTransparency=1,Size=UDim2.new(
-1,0,0,0),AutomaticSize=Enum.AutomaticSize.Y,[ak]={ah.list(ax,10),if az=='users'
-then ao(ax,as)elseif az=='channels'then ap(ax,as)else aq(ax,as)}}end)}})end
-return am end,['components/window/pages/communityPage/announcements']=function(
-aa,ab)local ad=aa.Parent.Parent.Parent.Parent.Parent local af,ah=ab(ad.packages.
-fusion),{Scope='announcements'}function ah.canPost(aj)if type(aj)~='table'or
-type(aj.channels)~='table'then return false end for ak,al in ipairs(aj.channels)
-do if type(al)=='table'and al.id==ah.Scope then return al.kind=='announcements'
-and al.canPost==true end end return false end function ah.send(aj,ak,al)local am
-=af.peek(aj.Data)if al~='message'or af.peek(aj.Channel)~=ah.Scope or af.peek(aj.
-Route)~='chat'or am.scope~=ah.Scope or am.active~=true or not ah.canPost(am)then
-aj.LocalError:set'You do not have permission to post here.'return false end if
-af.peek(aj.Pending)or am.sending then return false end aj:Send(ak,'message')
-return true end function ah.render(aj,ak)local al,am=ab(aa.Parent.widgets),ab(aa
-.Parent.feed)local an,ao,ap,aq=al.Children,al.Theme,aj:Computed(function(an)
-return an(ak.Channel)==ah.Scope and ah.canPost(an(ak.Data))end),aj:Computed(
-function(an)return#(an(ak.Data).messages or{})>0 end)local ar,as=aj:Computed(
-function(ar)return if ar(ap)then 144 else 54 end),table.clone(ak)function as.
-Send(at,av,ax)ah.send(ak,av,ax)end return aj:New'Frame'{Name=
-'CommunityAnnouncements',BackgroundTransparency=1,Size=UDim2.fromScale(1,1),[an]
-={al.heading(aj,'Announcements',{Name='AnnouncementsTitle',Position=UDim2.
-fromOffset(18,14),Size=UDim2.new(1,-120,0,24),TextSize=20,TextTruncate=Enum.
-TextTruncate.AtEnd}),al.label(aj,'News and updates from Ethos.',{Name=
-'AnnouncementsDescription',Position=UDim2.fromOffset(18,42),Size=UDim2.new(1,-36
-,0,20),TextSize=12,TextColor3=ao.FgTertiary,TextTruncate=Enum.TextTruncate.AtEnd
-}),al.button(aj,'Refresh',function()ak:Refresh()end,{Name='RefreshAnnouncements'
-,Position=UDim2.new(1,-94,0,14),Size=UDim2.fromOffset(76,28),Interactable=aj:
-Computed(function(at)return not at(ak.Data).loading and not at(ak.Opening)end)})
-,al.line(aj,{Position=UDim2.fromOffset(0,74)}),am.timeline(aj,ak,'messages',{
-Name='AnnouncementTimeline',Visible=aq,Position=UDim2.fromOffset(0,75),Size=aj:
-Computed(function(at)return UDim2.new(1,0,1,-75-at(ar))end)}),al.label(aj,aj:
-Computed(function(at)local av=at(ak.Data)return if av.loading or at(ak.Opening)
-then'Loading announcements\u{2026}'elseif av.error or at(ak.LocalError)then
-'Announcements could not be loaded. Try Refresh.'else
-'No announcements yet. Check back for updates.'end),{Name='EmptyAnnouncements',
-Position=UDim2.fromOffset(18,88),Size=UDim2.new(1,-36,0,70),TextWrapped=true,
-TextXAlignment=Enum.TextXAlignment.Center,TextColor3=ao.FgTertiary,Visible=aj:
-Computed(function(at)return not at(aq)end)}),aj:Computed(function(at,av)if at(ap
-)then return am.composer(av,as,'message','Write an announcement\u{2026}')end
-return av:New'Frame'{Name='AnnouncementsReadOnly',AnchorPoint=Vector2.new(0,1),
-Position=UDim2.fromScale(0,1),Size=UDim2.new(1,0,0,54),BackgroundTransparency=1,
-[an]={al.line(av),al.label(av,'Announcements are read-only for your account.',{
-Name='AnnouncementsReadOnlyText',Position=UDim2.fromOffset(18,8),Size=UDim2.new(
-1,-36,1,-16),TextSize=12,TextWrapped=true,TextColor3=ao.FgTertiary})}}end)}}end
-return table.freeze(ah)end,['components/window/pages/communityPage/compose']=
-function(aa,ab)local ad=aa.Parent.Parent.Parent.Parent.Parent local af,ah,aj,ak,
-al=ab(ad.packages.fusion),ab(ad.packages.states),ab(aa.Parent.widgets),ab(aa.
-Parent.model),ab(aa.Parent.formatting)local am,an=aj.Children,aj.Theme return
-function(ao,ap,aq)local ar,as,at,av=ao:Value(false),ao:Value(false),ao:Value(
-false),ao:Computed(function(ar)return ar(aq)and ar(ap.ComposeOpen)end)local ax=
-ao:Computed(function(ax)return if ax(av)then 1 else 0 end)local az=ao:Tween(ax,
-TweenInfo.new(0.2,Enum.EasingStyle.Quad,Enum.EasingDirection.Out))local aB,aD,aF
-,aH=ao:Computed(function(aB)return if aB(ah.AnimationsEnabled)then math.clamp(
-aB(az),0,1)else aB(ax)end),ao:Computed(function(aB)return not aB(ap.Pending)and
-ap:CanPost('thread',aB)and aB(ap.Data).active and not aB(ap.Data).sending and ak
-.hasText(aB(ap.ThreadTitle))and ak.hasText(aB(ap.ThreadBody))and table.find(aB(
-ap.Data).categories,aB(ap.ThreadCategory))~=nil end),function()if not af.peek(ap
-.Pending)then ar:set(false)ap.ComposeOpen:set(false)end end,aj.input(ao,ap.
-ThreadBody,'What would you like to share?',5000,{Name='ThreadBodyInput',Size=
-UDim2.new(1,-21,0,110),AutomaticSize=Enum.AutomaticSize.Y,TextSize=14,Visible=ao
-:Computed(function(aB)return not aB(at)end)})local aJ,aL=ao:New'Frame'{Name=
-'CreateThreadOverlay',Size=UDim2.fromScale(1,1),BackgroundTransparency=1,
-BorderSizePixel=0,ZIndex=80,Visible=ao:Computed(function(aJ)return aJ(av)or aJ(
-aB)>0.001 end),[am]={ao:New'TextButton'{Name='ThreadScrim',Size=UDim2.fromScale(
-1,1),Text='',AutoButtonColor=false,BackgroundColor3=Color3.new(0,0,0),
-BorderSizePixel=0,ZIndex=80,BackgroundTransparency=ao:Computed(function(aJ)
-return 1-0.68*aJ(aB)end),[af.OnEvent'Activated']=aF},ao:New'Frame'{Name=
-'ThreadDialogPresence',AnchorPoint=Vector2.new(0.5,0.5),Position=UDim2.
-fromScale(0.5,0.5),Size=UDim2.new(1,-36,1,-28),BackgroundTransparency=1,
-BorderSizePixel=0,ZIndex=81,Interactable=av,[am]={ao:New'UISizeConstraint'{
-MaxSize=Vector2.new(550,556)},ao:New'UIScale'{Scale=ao:Computed(function(aJ)
-return 0.98+0.02*aJ(aB)end)},ao:New'CanvasGroup'{Name='CreateThreadDialog',
-Position=UDim2.fromOffset(1,1),Size=UDim2.new(1,-2,1,-2),BackgroundColor3=an.
-BgPrimary,BorderSizePixel=0,GroupTransparency=ao:Computed(function(aJ)return 1-
-aJ(aB)end),Active=true,Interactable=av,ZIndex=82,[am]={ao:New'UICorner'{
-CornerRadius=UDim.new(0,8)},ao:New'UIStroke'{ApplyStrokeMode=Enum.
-ApplyStrokeMode.Border,Color=an.BgTertiary,Thickness=1,Transparency=ao:Computed(
-function(aJ)return 1-aJ(aB)end)},ao:New'Frame'{Name='DialogHeader',Size=UDim2.
-new(1,0,0,52),BackgroundColor3=an.BgPrimaryHighlight,BorderSizePixel=0,[am]={aj.
-heading(ao,'Create Thread',{Position=UDim2.fromOffset(20,11),Size=UDim2.new(1,-
-72,0,30),TextSize=18}),aj.action(ao,'CloseIcon',aF,{Name='CloseCreateThread',
-Position=UDim2.new(1,-44,0,12),Size=UDim2.fromOffset(28,28),ImageSize=UDim2.
-fromOffset(16,16)}),aj.line(ao,{Position=UDim2.new(0,0,1,-1)})}},aj.scroll(ao,{
-Name='ThreadForm',Position=UDim2.fromOffset(0,52),Size=UDim2.new(1,-1,1,-104),
-VerticalScrollBarInset=Enum.ScrollBarInset.None,VerticalScrollBarPosition=Enum.
-VerticalScrollBarPosition.Right,[am]={ao:New'UIPadding'{PaddingLeft=UDim.new(0,
-20),PaddingRight=UDim.new(0,19),PaddingTop=UDim.new(0,14),PaddingBottom=UDim.
-new(0,14)},aj.list(ao,8),aj.heading(ao,'Title',{LayoutOrder=1,TextSize=13,Size=
-UDim2.new(1,0,0,20)}),aj.panel(ao,{Name='ThreadTitleSurface',LayoutOrder=2,Size=
-UDim2.new(1,0,0,36),BorderSizePixel=0,[am]={aj.input(ao,ap.ThreadTitle,
-'Give your thread a clear title',160,{Name='ThreadTitleInput',Position=UDim2.
-fromOffset(11,0),Size=UDim2.new(1,-22,1,0),MultiLine=false,TextWrapped=false,
-TextYAlignment=Enum.TextYAlignment.Center,TextSize=14})}}),aj.heading(ao,
-'Category',{LayoutOrder=3,TextSize=13,Size=UDim2.new(1,0,0,20)}),ao:New
-'TextButton'{Name='ThreadCategory',LayoutOrder=4,Size=UDim2.new(1,0,0,36),Text=
-'',AutoButtonColor=false,BackgroundColor3=an.BgPrimaryHighlight,BorderSizePixel=
-0,ClipsDescendants=true,[af.OnEvent'Activated']=function()ar:set(not af.peek(ar)
-)end,[af.OnEvent'MouseEnter']=function()as:set(true)end,[af.OnEvent'MouseLeave']
-=function()as:set(false)end,[am]={ao:New'UICorner'{CornerRadius=UDim.new(0,4)},
-ao:New'UIStroke'{ApplyStrokeMode=Enum.ApplyStrokeMode.Border,Color=an.BgTertiary
-,Thickness=1},aj.label(ao,ao:Computed(function(aJ)local aL=aJ(ap.ThreadCategory)
-return if aL then aj.category(aL)else'Choose a category'end),{Name=
-'ThreadCategoryValue',Position=UDim2.fromOffset(11,0),Size=UDim2.new(1,-42,1,0),
-TextSize=14,TextTruncate=Enum.TextTruncate.AtEnd,TextColor3=ao:Computed(function
-(aJ)return aJ(if aJ(ap.ThreadCategory)then an.FgSecondary else an.FgTertiary)end
-)}),aj.icon(ao,'ChevronDownIcon',{AnchorPoint=Vector2.new(1,0.5),Position=UDim2.
-new(1,-11,0.5,0),Size=UDim2.fromOffset(16,16),ImageColor3=aj.animate(function(aJ
-)return aJ(if aJ(ar)then an.AccentPrimary elseif aJ(as)then an.FgPrimary else an
-.FgTertiary)end,25,1,ao),Rotation=ao:Tween(ao:Computed(function(aJ)return if aJ(
-ar)then 180 else 0 end),TweenInfo.new(0.18))})}},aj.panel(ao,{Name=
-'CategoryOptions',LayoutOrder=5,Visible=ar,Size=UDim2.new(1,0,0,0),
-BorderSizePixel=0,AutomaticSize=Enum.AutomaticSize.Y,[am]={aj.padding(ao,5),aj.
-list(ao,3),ao:ForPairs(ao:Computed(function(aJ)return aJ(ap.Data).categories end
-),function(aJ,aL,aN,aO)return aN,aj.button(aL,aj.category(aO),function()ap.
-ThreadCategory:set(aO)ar:set(false)end,{LayoutOrder=aN,Size=UDim2.new(1,0,0,30),
-TextSize=13,TextXAlignment=Enum.TextXAlignment.Left,StrokeTransparency=1,[am]={
-aL:New'UIPadding'{PaddingLeft=UDim.new(0,6),PaddingRight=UDim.new(0,6)}}})end)}}
-),aj.heading(ao,'Body',{LayoutOrder=6,TextSize=13,Size=UDim2.new(1,0,0,20)}),aj.
-panel(ao,{Name='ThreadBodySurface',LayoutOrder=7,Size=UDim2.new(1,0,0,190),
-BorderSizePixel=0,[am]={al.toolbar(ao,aH,ap.ThreadBody,5000,{Position=UDim2.
-fromOffset(8,5)}),aj.button(ao,ao:Computed(function(aJ)return if aJ(at)then
-'Edit'else'Preview'end),function()at:set(not af.peek(at))end,{Name='PreviewBody'
-,Position=UDim2.new(1,-76,0,5),Size=UDim2.fromOffset(68,25),TextSize=12}),aj.
-line(ao,{Position=UDim2.fromOffset(0,35)}),aj.scroll(ao,{Name='BodyEditorScroll'
-,Position=UDim2.fromOffset(0,36),Size=UDim2.new(1,-1,1,-60),
-VerticalScrollBarInset=Enum.ScrollBarInset.None,[am]={ao:New'UIPadding'{
-PaddingLeft=UDim.new(0,11),PaddingRight=UDim.new(0,10),PaddingTop=UDim.new(0,8),
-PaddingBottom=UDim.new(0,6)},aH,ao:Computed(function(aJ,aL)if aJ(at)then return
-al.body(aL,aJ(ap.ThreadBody))end return nil end)}}),aj.label(ao,ao:Computed(
-function(aJ)return tostring(utf8.len(aJ(ap.ThreadBody))or 0)..'/5000'end),{Name=
-'BodyCharacterCount',Position=UDim2.new(0,10,1,-24),Size=UDim2.new(1,-20,0,18),
-TextXAlignment=Enum.TextXAlignment.Right,TextSize=11,TextColor3=an.FgTertiary})}
-}),aj.label(ao,
-[[Markdown supported. Images use Roblox asset IDs; links can be selected and copied.]]
-,{LayoutOrder=8,TextSize=11,TextColor3=an.FgTertiary,TextWrapped=true,Size=UDim2
-.new(1,-2,0,0),AutomaticSize=Enum.AutomaticSize.Y}),aj.label(ao,ao:Computed(
-function(aJ)return aJ(ap.LocalError)or''end),{Name='CreateThreadError',
-LayoutOrder=9,TextSize=12,TextColor3=an.AccentDestructive,TextWrapped=true,Size=
-UDim2.new(1,-2,0,0),AutomaticSize=Enum.AutomaticSize.Y,Visible=ao:Computed(
-function(aJ)return aJ(ap.LocalError)~=nil end)})}}),ao:New'Frame'{Name=
-'DialogFooter',Position=UDim2.new(0,0,1,-52),Size=UDim2.new(1,0,0,52),
-BackgroundColor3=an.BgSecondary,BorderSizePixel=0,[am]={aj.line(ao),aj.button(ao
-,'Cancel',aF,{Name='CancelThread',Position=UDim2.fromOffset(20,12),Size=UDim2.
-fromOffset(82,28),Interactable=ao:Computed(function(aJ)return not aJ(ap.Pending)
-end)}),aj.button(ao,ao:Computed(function(aJ)return if aJ(ap.Pending)then
-'Posting\u{2026}'else'Post Thread'end),function()if af.peek(aD)then ap:Send(ap.
-ThreadBody,'thread')end end,{Name='PostThread',Type='primary',Position=UDim2.
-new(1,-132,0,12),Size=UDim2.fromOffset(112,28),Interactable=aD})}}}}}}}},
-function(aJ)if aJ:IsA'GuiObject'and aJ.Name~='ThreadScrim'and aJ.Name~=
-'ThreadDialogPresence'then aJ.ZIndex=math.max(aJ.ZIndex,82)end end for aN,aO in
-ipairs(aJ:GetDescendants())do aL(aO)end ao:insert(aJ.DescendantAdded:Connect(aL)
-)return aJ end end,['components/window/pages/communityPage/feed']=function(aa,ab
-)local ad=aa.Parent.Parent.Parent.Parent.Parent local af,ah,aj,ak,al,am=ab(ad.
-packages.fusion),ab(aa.Parent.widgets),ab(aa.Parent.model),ab(aa.Parent.
-formatting),ab(ad.components.ui.sendButton),ab(aa.Parent.moderation)local an,ao,
-ap=ah.Children,ah.Theme,{}function ap.message(aq,ar,as,at,av)local ax,az,aB,aD,
-aF=if ar.removed==true then'This content was removed by a moderator.'else ar.
-body,if at then 28 else 34,if at then 0 else math.clamp(tonumber(ar.depth)or 0,0
-,3)*18,type(ar.author)=='table'and ar.author.role or nil,{owner='Owner',admin=
-'Admin',moderator='Moderator',member='Member'}local aH=not at and aF[aD]or nil
-local aJ={ah.list(aq,5),aq:New'Frame'{Name='MessageHeader',
-BackgroundTransparency=1,Size=UDim2.new(1,0,0,22),LayoutOrder=1,[an]={ah.
-heading(aq,ah.author(ar),{Name='MessageAuthor',Size=UDim2.new(1,if aH then-148
-else-66,1,0),TextSize=if at then 13 else 14,TextTruncate=Enum.TextTruncate.AtEnd
-}),aH and ah.label(aq,aH,{Name='AuthorRole',Position=UDim2.new(1,-145,0,2),Size=
-UDim2.fromOffset(77,18),TextSize=10,TextColor3=ao.AccentPrimary,BackgroundColor3
-=ao.BgSecondary,BackgroundTransparency=0,TextXAlignment=Enum.TextXAlignment.
-Center,[an]={aq:New'UICorner'{CornerRadius=UDim.new(0,4)},aq:New'UIStroke'{Color
-=ao.BgTertiary,ApplyStrokeMode=Enum.ApplyStrokeMode.Border}}})or nil,ah.label(aq
-,ah.time(ar.createdAt),{Name='MessageTime',Position=UDim2.new(1,-62,0,0),Size=
-UDim2.fromOffset(62,22),TextSize=11,TextColor3=ao.FgTertiary,TextXAlignment=Enum
-.TextXAlignment.Right})}}}if not at and ar.parentReplyId then local aL=ar.
-parentReply local aN=if type(aL)=='table'then'Replying to '..ah.author(aL)..'\n'
-..ak.plain(aL.body)else'Replying to an earlier reply'table.insert(aJ,aq:New
-'Frame'{Name='ReplyQuote',BackgroundColor3=ao.BgSecondary,BorderSizePixel=0,Size
-=UDim2.new(1,0,0,0),AutomaticSize=Enum.AutomaticSize.Y,LayoutOrder=2,[an]={ah.
-padding(aq,8),ah.line(aq,{Name='QuoteRule',Position=UDim2.fromOffset(-8,-8),Size
-=UDim2.fromOffset(2,24),BackgroundColor3=ao.AccentPrimary}),ah.label(aq,aN,{Size
-=UDim2.new(1,0,0,0),AutomaticSize=Enum.AutomaticSize.Y,TextWrapped=true,
-TextYAlignment=Enum.TextYAlignment.Top,TextSize=12})}})end table.insert(aJ,if at
-then ah.label(aq,ak.plain(ax),{Name='MessageBody',LayoutOrder=3,Size=UDim2.new(1
-,0,0,21),TextSize=13,TextWrapped=false,TextTruncate=Enum.TextTruncate.AtEnd})
-else ak.body(aq,ax,{LayoutOrder=3}))if not at and av then local aL={ah.list(aq,6
-,true)}table.insert(aL,am.actions(aq,av,'entry',ar,{LayoutOrder=3}))if type(ar.
-author)=='table'then table.insert(aL,am.actions(aq,av,'member',ar.author,{
-LayoutOrder=4}))end if ar.kind=='thread'or ar.kind=='reply'then table.insert(aL,
-ah.button(aq,'Reply',function()av:SetReplyTarget(ar)end,{Name='ReplyToMessage',
-LayoutOrder=2,Size=UDim2.fromOffset(72,25),TextSize=12,TextColor3=ao.FgTertiary,
-Icon='ReplyIcon',IconSize=13,Interactable=aq:Computed(function(aN)return av:
-CanPost('reply',aN)end)}))end if type(ar.likeCount)=='number'and type(ar.
-likedByMe)=='boolean'then local aN=if ar.likedByMe then ao.AccentPrimary else ao
-.FgTertiary table.insert(aL,ah.button(aq,tostring(ar.likeCount),function()av:
-ToggleLike(ar)end,{Name='LikeMessage',LayoutOrder=1,Size=UDim2.fromOffset(60,25)
-,TextSize=12,TextColor3=aN,Icon='ThumbsUpIcon',IconSize=13,Interactable=aq:
-Computed(function(aO)return aO(av.Data).active and ar.removed~=true and not(av.
-ReactionPending and aO(av.ReactionPending)[ar.id])end)}))end table.insert(aJ,aq:
-New'Frame'{Name='MessageActions',BackgroundTransparency=1,LayoutOrder=4,Size=
-UDim2.new(1,0,0,25),[an]=aL})end return aq:New'Frame'{Name='Message_'..tostring(
-ar.id),BackgroundTransparency=1,Size=UDim2.new(1,0,0,if at then 48 else 58),
-AutomaticSize=Enum.AutomaticSize.Y,LayoutOrder=as,[an]={aB>0 and ah.line(aq,{
-Name='NestedReplyGuide',Position=UDim2.fromOffset(aB-12,0),Size=UDim2.new(0,1,1,
-0)})or nil,aq:New'Frame'{Name='AvatarSlot',BackgroundTransparency=1,Position=
-UDim2.fromOffset(aB,1),Size=UDim2.fromOffset(az,az),[an]={ah.avatar(aq,ar,az)}},
-aq:New'Frame'{Name='MessageContent',BackgroundTransparency=1,Position=UDim2.
-fromOffset(aB+az+10,0),Size=UDim2.new(1,-aB-az-10,0,0),AutomaticSize=Enum.
-AutomaticSize.Y,[an]=aJ}}}end function ap.composer(aq,ar,as,at)local av=as..':'
-..af.peek(ar.Channel)..':'..tostring(af.peek(ar.ThreadId)or'')local ax,az=ar:
-Draft(av),if as=='reply'then 10000 else 2000 local aB,aD,aF,aH=aq:Computed(
-function(aB)return not aB(ar.Pending)and ar:CanPost(as,aB)and not aB(ar.Data).
-sending and aB(ar.Data).active and aj.hasText(aB(ax))end),aq:Computed(function(
-aB)return as=='reply'and ar.ReplyTarget and aB(ar.ReplyTarget)or nil end),aq:
-Computed(function(aB)return ar:PostingReason(as,aB)end),ah.input(aq,ax,at,az,{
-Name='MessageInput',Size=UDim2.new(1,-5,0,38),AutomaticSize=Enum.AutomaticSize.Y
-,TextSize=14})local aJ=al{scope=aq,action=aq:Computed(function(aJ)return if aJ(
-aB)then'send'else'disabled'end),onSend=function()if af.peek(aB)then ar:Send(ax,
-as)end end}aJ.Name='SendMessage'aJ.AnchorPoint=Vector2.new(1,1)aJ.Position=UDim2
-.new(1,-10,1,-9)aJ.Size=UDim2.fromOffset(26,26)return aq:New'Frame'{Name=
-'Composer',AnchorPoint=Vector2.new(0,1),Position=UDim2.fromScale(0,1),Size=UDim2
-.new(1,0,0,144),BackgroundColor3=ao.BgPrimary,BorderSizePixel=0,[an]={ah.line(aq
-),ah.label(aq,aF,{Name='CommunityPostingRestriction',Position=UDim2.fromOffset(
-15,7),Size=UDim2.new(1,-30,0,26),TextSize=11,TextWrapped=true,Visible=aq:
-Computed(function(aL)return aL(aF)~=''end)}),aq:New'Frame'{Name='ReplyTarget',
-BackgroundTransparency=1,Position=UDim2.fromOffset(15,7),Size=UDim2.new(1,-30,0,
-22),Visible=aq:Computed(function(aL)return aL(aD)~=nil and aL(aF)==''end),[an]={
-ah.label(aq,aq:Computed(function(aL)local aN=aL(aD)return if aN then
-'Replying to '..ah.author(aN)else''end),{Size=UDim2.new(1,-30,1,0),TextSize=12,
-TextColor3=ao.AccentPrimary,TextTruncate=Enum.TextTruncate.AtEnd}),ah.action(aq,
-'CloseIcon',function()ar:SetReplyTarget(nil)end,{Name='CancelReplyTarget',
-Position=UDim2.new(1,-22,0,0),Size=UDim2.fromOffset(22,22),ImageSize=UDim2.
-fromOffset(14,14)})}},ah.panel(aq,{Name='ComposerSurface',Color=ao.
-BgPrimaryHighlight,Position=aq:Computed(function(aL)return UDim2.fromOffset(14,
-if aL(aD)or aL(aF)~=''then 36 else 12)end),Size=aq:Computed(function(aL)return
-UDim2.new(1,-28,1,if aL(aD)or aL(aF)~=''then-47 else-23)end),[an]={ah.scroll(aq,
-{Name='MessageEditorScroll',Position=UDim2.fromOffset(12,9),Size=UDim2.new(1,-24
-,1,-43),[an]={aH}}),ak.toolbar(aq,aH,ax,az,{Position=UDim2.new(0,8,1,-34)}),ah.
-label(aq,aq:Computed(function(aL)return if aL(ar.Pending)then'Sending\u{2026}'
-else tostring(utf8.len(aL(ax))or 0)..'/'..az end),{Name='ComposerCount',Position
-=UDim2.new(1,-121,1,-32),Size=UDim2.fromOffset(78,24),TextSize=10,TextColor3=ao.
-FgTertiary,TextXAlignment=Enum.TextXAlignment.Right}),aJ}})}}end function ap.
-timeline(aq,ar,as,at)local av,ax,az=true,0 local aB={Name='Timeline',[af.
-OnChange'CanvasPosition']=function(aB)if az then av=az.AbsoluteCanvasSize.Y-az.
-AbsoluteWindowSize.Y-aB.Y<48 end end,[af.OnChange'AbsoluteCanvasSize']=function(
-aB)if az and av then az.CanvasPosition=Vector2.new(0,math.max(0,aB.Y-az.
-AbsoluteWindowSize.Y))end if az and ax>0 then az.CanvasPosition+=Vector2.new(0,
-math.max(0,aB.Y-ax))ax=0 end end,[an]={ah.padding(aq,14),ah.list(aq,14),ah.
-button(aq,'Back to latest messages',function()av=true ax=0 ar:Refresh()end,{Name
-='LatestMessages',LayoutOrder=-2,Size=UDim2.new(1,0,0,28),Visible=aq:Computed(
-function(aB)return aB(ar.Data).browsingHistory==true end),Interactable=aq:
-Computed(function(aB)return not aB(ar.Data).loading end)}),ah.button(aq,
-'Load earlier',function()av=false ax=az.AbsoluteCanvasSize.Y ar:LoadMore()end,{
-Name='LoadEarlier',LayoutOrder=-1,Size=UDim2.new(1,0,0,28),Visible=aq:Computed(
-function(aB)return aB(ar.Data).nextCursor~=nil end),Interactable=aq:Computed(
-function(aB)return not aB(ar.Data).loading end)}),ah.label(aq,aq:Computed(
-function(aB)local aD=aB(ar.Data)return if aD.loading or aB(ar.Opening)then
-'Loading messages\u{2026}'elseif aD.error or aB(ar.LocalError)then
-'Messages could not be loaded.'else'No messages yet. Start the conversation.'end
-),{Name='EmptyTimeline',LayoutOrder=0,Size=UDim2.new(1,0,0,60),TextWrapped=true,
-TextXAlignment=Enum.TextXAlignment.Center,TextColor3=ao.FgTertiary,Visible=aq:
-Computed(function(aB)return#(aB(ar.Data)[as]or{})==0 end)}),aq:ForPairs(aq:
-Computed(function(aB)return aB(ar.Data)[as]or{}end),function(aB,aD,aF,aH)return
-aF,ap.message(aD,aH,aF,false,ar)end)}}for aD,aF in pairs(at or{})do aB[aD]=aF
-end az=ah.scroll(aq,aB)return az end return ap end,[
-'components/window/pages/communityPage/formatting']=function(aa,ab)local ad=aa.
-Parent.Parent.Parent.Parent.Parent local af,ah,aj,ak=ab(ad.packages.fusion),ab(
-ad.utils.markdownRichText),ab(aa.Parent.widgets),ab(aa.Parent.model)local al,am,
-an=aj.Children,aj.Theme,{}function an.rich(ao)return ah.toRichText(type(ao)==
-'string'and ao or'')end function an.plain(ao)local ap=type(ao)=='string'and ao
-or''ap=ap:gsub('!%[([^%]]*)%]%([^%)]+%)','%1')ap=ap:gsub(
-'%[([^%]]+)%]%([^%)]+%)','%1')ap=ap:gsub('%*%*(.-)%*%*','%1'):gsub('%*(.-)%*',
-'%1')ap=ap:gsub('`(.-)`','%1'):gsub('[\r\n]+',' ')return aj.preview(ap)end
-function an.asset(ao)if type(ao)~='string'then return nil end local ap=ao:match
-'^rbxassetid://([1-9]%d*)$'return if ap and#ap<=20 then'rbxassetid://'..ap else
-nil end function an.link(ao)if type(ao)~='string'or#ao>2048 or ao:find
-'[%s%c<>"\']'then return nil end return if ao:match
-'^https?://[%w][%w%.%-]*[%w]/?'or ao:match'^https?://[%w]/?'then ao else nil end
-local ao=function(ao,ap)local aq=an.rich(ap)return ao:Computed(function(ar)local
-as,at,av='#'..ar(am.AccentPrimary):ToHex(),'#'..ar(am.FgSecondary):ToHex(),'#'..
-ar(am.FgTertiary):ToHex()return aq:gsub('<font color="#8AB4FF">','<font color="'
-..as..'">'):gsub('<font color="#F0C674">','<font color="'..as..'">'):gsub(
-'<font color="#8F8F8F">','<font color="'..av..'">'):gsub(
-'<font color="#B0B0B0">','<font color="'..at..'">'):gsub(
-'<font color="#5F5F5F">','<font color="'..av..'">')end)end function an.body(ap,
-aq,ar)aq=type(aq)=='string'and aq or''local as,at={aj.list(ap,7)},0 local av,ax=
-function(av)if av==''then return end at+=1 table.insert(as,aj.label(ap,ao(ap,av)
-,{Name='FormattedText',LayoutOrder=at,RichText=true,Size=UDim2.new(1,0,0,0),
-AutomaticSize=Enum.AutomaticSize.Y,TextWrapped=true,TextYAlignment=Enum.
-TextYAlignment.Top,TextSize=14}))end,{}for az,aB in ipairs(ah.toBlocks(aq))do if
-aB.kind=='code'then av('```'..aB.language..'\n'..aB.text..'\n```')else local aD=
-{}for aF in(aB.text..'\n'):gmatch'(.-)\n'do local aH,aJ=aF:match
-'^%s*!%[([^%]]*)%]%(([^%)]+)%)%s*$'local aL=an.asset(aJ)if aL then av(table.
-concat(aD,'\n'))table.clear(aD)at+=1 table.insert(as,ap:New'ImageLabel'{Name=
-'AttachedImage',Image=aL,ScaleType=Enum.ScaleType.Fit,BackgroundColor3=am.
-BgSecondary,BorderSizePixel=0,Size=UDim2.new(1,0,0,160),LayoutOrder=at,[al]={ap:
-New'UICorner'{CornerRadius=UDim.new(0,5)}}})av(aH)else table.insert(aD,aF)end
-end av(table.concat(aD,'\n'))for aF,aH in aB.text:gmatch
-'%[([^%]]+)%]%(([^%)]+)%)'do local aJ=an.link(aH)if aJ and not ax[aJ]then ax[aJ]
-=true at+=1 local aL aL=ap:New'TextBox'{Name='SelectableLink',Text=aJ,RichText=
-false,TextEditable=false,ClearTextOnFocus=false,FontFace=Font.new
-'rbxassetid://12187365364',TextSize=12,TextColor3=am.AccentPrimary,
-BackgroundColor3=am.BgSecondary,BorderSizePixel=0,TextWrapped=true,
-TextXAlignment=Enum.TextXAlignment.Left,Size=UDim2.new(1,0,0,24),AutomaticSize=
-Enum.AutomaticSize.Y,LayoutOrder=at,[af.OnEvent'Focused']=function()aL.
-CursorPosition=#aL.Text+1 aL.SelectionStart=1 end,[al]={aj.padding(ap,5),ap:New
-'UICorner'{CornerRadius=UDim.new(0,4)}}}table.insert(as,aL)end end end end local
-az={Name='MessageBody',BackgroundTransparency=1,Size=UDim2.new(1,0,0,0),
-AutomaticSize=Enum.AutomaticSize.Y,[al]=as}for aB,aD in pairs(ar or{})do az[aB]=
-aD end return ap:New'Frame'(az)end function an.insert(ap,aq,ar,as,at)aq=math.
-clamp(aq or#ap+1,1,#ap+1)ar=math.clamp(ar or aq,aq,#ap+1)local av,ax,az,aB=ap:
-sub(aq,ar-1),'**','**','bold text'if as=='italic'then ax,az,aB='*','*',
-'italic text'elseif as=='code'then ax,az,aB='`','`','code'elseif as=='link'then
-ax,az,aB='[','](https://example.com)','link text'elseif as=='image'then ax,az,aB
-='\n![','](rbxassetid://123456789)\n','image description'end local aD=if av==''
-then aB else av local aF=ax..aD..az local aH=ap:sub(1,aq-1)..aF..ap:sub(ar)if(
-utf8.len(aH)or math.huge)>at then return ap,aq,ar end local aJ,aL=aq+#ax,aq+#ax+
-#aD if as=='link'or as=='image'then aJ=aq+#ax+#aD+2 aL=aJ+#(if as=='link'then
-'https://example.com'else'rbxassetid://123456789')end return aH,aJ,aL end
-function an.toolbar(ap,aq,ar,as,at)local av,ax=#af.peek(ar)+1,-1 ap:insert(aq:
-GetPropertyChangedSignal'CursorPosition':Connect(function()if aq.CursorPosition>
-0 then av=aq.CursorPosition ax=aq.SelectionStart end end))ap:insert(aq:
-GetPropertyChangedSignal'SelectionStart':Connect(function()if aq.CursorPosition>
-0 then ax=aq.SelectionStart end end))local az,aB=function(az)local aB,aD=av,av
-if ax>0 then aB,aD=math.min(av,ax),math.max(av,ax)end local aF,aH,aJ=an.insert(
-af.peek(ar),aB,aD,az,as)ar:set(ak.boundText(aF,as))aq:CaptureFocus()aq.
-CursorPosition=aJ aq.SelectionStart=aH end,game:GetService'UserInputService'ap:
-insert(aq.InputBegan:Connect(function(aD)if not aq:IsFocused()or not(aB:
-IsKeyDown(Enum.KeyCode.LeftControl)or aB:IsKeyDown(Enum.KeyCode.RightControl)or
-aB:IsKeyDown(Enum.KeyCode.LeftMeta)or aB:IsKeyDown(Enum.KeyCode.RightMeta))then
-return end local aF={[Enum.KeyCode.B]='bold',[Enum.KeyCode.I]='italic',[Enum.
-KeyCode.K]='link'}if aF[aD.KeyCode]then az(aF[aD.KeyCode])end end))local aD={aj.
-list(ap,4,true)}for aF,aH in ipairs{{'bold','BoldIcon'},{'italic','ItalicIcon'},
-{'link','LinkIcon'},{'code','CodeIcon'},{'image','ImageIcon'}}do table.insert(aD
-,aj.action(ap,aH[2],function()az(aH[1])end,{Name='Format_'..aH[1],Size=UDim2.
-fromOffset(25,25),LayoutOrder=aF}))end local aF={Name='FormattingTools',
-BackgroundTransparency=1,Size=UDim2.fromOffset(145,25),[al]=aD}for aH,aJ in
-pairs(at or{})do aF[aH]=aJ end return ap:New'Frame'(aF)end return an end,[
-'components/window/pages/communityPage/model']=function(aa,ab)local ad=aa.Parent
-.Parent.Parent.Parent.Parent local af,ah,aj,ak,al=ab(ad.packages.fusion),ab(ad.
-utils.pendingTasks),ab(aa.Parent.announcements),ab(aa.Parent.moderationModel),{}
-function al.boundText(am,an)local ao=utf8.len(am)if not ao then return''end if
-ao>an then return string.sub(am,1,utf8.offset(am,an+1)-1)end return am end
-function al.hasText(am)return type(am)=='string'and string.find(am,'%S')~=nil
-end function al.channel(am,an)for ao,ap in ipairs(am.channels or{})do if ap.id==
-an then return ap end for aq,ar in ipairs(ap.rooms or{})do if ar.id==an then
-return ar end end end return nil end function al.canPost(am,an,ao)local ap=al.
-channel(am,an)if not ap or ap.canPost~=true or ap.locked==true then return false
-end if an==aj.Scope then return ao=='message'and aj.canPost(am)end return ao==
-'message'or ao=='thread'or ao=='reply'end function al.threadReplies(am,an,ao)
-local ap,aq,ar,as,at={},{},{},{},{}for av,ax in ipairs(an or{})do ap[ax.id]=ax
-end for av,ax in ipairs(am or{})do ap[ax.id]=ax aq[ax.id]=ax end for av,ax in
-pairs(aq)do local az=ax.parentReplyId if az and az~=ax.id and aq[az]then ar[az]=
-ar[az]or{}table.insert(ar[az],ax)else table.insert(as,ax)end end local av,ax=
-function(av)table.sort(av,function(ax,az)local aB,aD=tonumber(ax.sequence)or 0,
-tonumber(az.sequence)or 0 if aB==aD then return tostring(ax.id)<tostring(az.id)
-end return if ao=='oldest'then aB<aD else aB>aD end)end,{}local function az(aB)
-if ax[aB.id]then return end ax[aB.id]=true local aD=table.clone(aB)aD.
-parentReply=ap[aB.parentReplyId]aD.depth=aB.replyDepth or(if aD.parentReply then
-1 else 0)table.insert(at,aD)local aF=ar[aB.id]or{}av(aF)for aH,aJ in ipairs(aF)
-do az(aJ)end end av(as)for aB,aD in ipairs(as)do az(aD)end return at end
-function al.new(am,an,ao,ap)local aq,ar,as,at,av,ax,az={Data=am:Value(an:
-getState()),Route=am:Value'overview',Channel=am:Value'global',ThreadId=am:Value(
-nil),Category=am:Value(nil),Search=am:Value'',Sort=am:Value'latest',ReplySort=am
-:Value'newest',ReplyTarget=am:Value(nil),ReactionPending=am:Value{},LocalError=
-am:Value(nil),Pending=am:Value(false),Opening=am:Value(false),Drafts={},
-ThreadTitle=am:Value'',ThreadBody=am:Value'',ThreadCategory=am:Value(nil),
-ComposeOpen=am:Value(false),Access=am:Value(nil),CapabilitiesReady=am:Value(
-false),AccessLoading=am:Value(false),AuthorityError=am:Value(nil),Refreshing=am:
-Value(false)},af.peek,0,{},true local aB,aD,aF=function()as+=1 aq.
-CapabilitiesReady:set(false)aq.Access:set(nil)aq.AccessLoading:set(false)aq.
-AuthorityError:set(nil)aq.Refreshing:set(false)if aq.Moderation then aq.
-Moderation:Reset()end if ax then ax()ax=nil end an:close()for aB in pairs(at)do
-ah.cancel(aB)end table.clear(at)aq.Pending:set(false)aq.Opening:set(false)aq.
-ReactionPending:set{}end,function(aB,aD)local aF=as local aH=ah.spawn(function()
-local aH=function()return av and aF==as and ar(ao)end if aH()then local aJ=
-pcall(aB,aH)if not aJ and aH()then aq.Pending:set(false)aq.Opening:set(false)aq.
-Refreshing:set(false)aq.AccessLoading:set(false)aq.CapabilitiesReady:set(false)
-aq.LocalError:set'Community is temporarily unavailable. Please try again.'if aD
-then aD()end end end at[coroutine.running()]=nil end)if aH and coroutine.status(
-aH)~='dead'then at[aH]=true end end,function()ax=an:subscribe(function(aB)if av
-and ar(ao)then aq.Data:set(aB)if not ar(aq.AccessLoading)then local aD=aB.
-capabilities local aF=not ar(aq.AuthorityError)and aB.active and aB.scope==ar(aq
-.Channel)and type(aD)=='table'and aD.scope==aB.scope aq.Access:set(if aF then aD
-else nil)aq.CapabilitiesReady:set(aF==true)end end end)end function aq.Run(aH,aJ
-,aL)aD(aJ,aL)end function aq.RefreshPermissions(aH,aJ,aL)aH.AccessLoading:set(
-true)aH.CapabilitiesReady:set(false)aH.Access:set(nil)local aN=ar(aH.Channel)if
-not aL then local aO,aP=an:loadChannels()if not aJ()then return false,aP end if
-not aO then aH.AccessLoading:set(false)aH.AuthorityError:set(aP.message)return
-false,aP end end local aO,aP=an:loadCapabilities(aN)if not aJ()then return false
-,aP end if aO then aH.Access:set(aP)aH.CapabilitiesReady:set(true)aH.
-AuthorityError:set(nil)else aH.AuthorityError:set(aP.message)end aH.
-AccessLoading:set(false)return aO,aP end function aq.CanPost(aH,aJ,aL)aL=aL or
-ar local aN,aO,aP=aL(aH.Data),aL(aH.Channel),aL(aH.Access)return aL(ao)and not
-aL(aH.AccessLoading)and aL(aH.CapabilitiesReady)and type(aP)=='table'and aP.
-canPost==true and aN.active==true and aN.scope==aO and(aJ~='reply'or(aN.thread~=
-nil and aN.thread.removed~=true))and al.canPost(aN,aO,aJ)end function aq.
-PostingReason(aH,aJ,aL)aL=aL or ar if not aL(aH.CapabilitiesReady)then return
-'Posting is unavailable until permissions are refreshed.'end local aN=al.
-channel(aL(aH.Data),aL(aH.Channel))if aN and aN.locked then return
-'This channel is locked. New posts are paused.'end local aO=aL(aH.Access)if aO
-and aO.restricted then return
-'Your posting access is restricted in this channel.'end return if aH:CanPost(aJ,
-aL)then''else'You do not have permission to post here.'end aq.Moderation=ak.new(
-am,aq,an)local aH=function()aq.Opening:set(true)local aH=ar(aq.Route)local aJ,aL
-=if aH=='forum'then'threads'elseif aH=='administration'then'chat'else aH,{
-threadId=az,category=ar(aq.Category),search=ar(aq.Search),sort=ar(aq.Sort),
-replySort=ar(aq.ReplySort)}aD(function(aN)local aO,aP=an:loadChannels()if not
-aN()then return end if not aO then aq.LocalError:set(aP.message)end local aQ,aR=
-an:open(ar(aq.Channel),aJ,aL)if not aN()then return end local aS,aT=aq:
-RefreshPermissions(aN,aO)if aN()and not aS then aq.LocalError:set(aT.message)end
-if aN()then aq.Opening:set(false)end if aN()and not aQ and aR.code~='cancelled'
-then aq.LocalError:set(aR.message)end if aN()and aH=='administration'then aq.
-Moderation:Open()end end)end function aq.Navigate(aJ,aL,aN,aO,aP)aB()aJ.
-LocalError:set(nil)aJ.ComposeOpen:set(false)aJ.ReplyTarget:set(nil)aJ.Channel:
-set(aN or'global')aJ.Category:set(aO)az=aP aJ.ThreadId:set(aP)aJ.Route:set(aL)if
-ar(ao)then aF()aH()end if ap then ap()end end function aq.SetSort(aJ,aL)if aL~=
-'latest'and aL~='top'and aL~='unanswered'then return end aJ.Sort:set(aL)aJ:
-Navigate('forum',ar(aJ.Channel),ar(aJ.Category))end function aq.SetReplySort(aJ,
-aL)if aL~='oldest'and aL~='newest'then return end aJ.ReplySort:set(aL)aJ:
-Navigate('thread',ar(aJ.Channel),ar(aJ.Category),az)end function aq.
-SetReplyTarget(aJ,aL)if aL and(aL.removed==true or not aJ:CanPost'reply')then
-return end if aL and aL.id==az then aL=nil end if aL~=nil and(ar(aJ.Route)~=
-'thread'or aL.threadId~=az)then return end aJ.ReplyTarget:set(aL)end function aq
-.ToggleLike(aJ,aL)local aN=ar(aJ.ReactionPending)if aN[aL.id]then return end
-local aO=table.clone(aN)aO[aL.id]=true aJ.ReactionPending:set(aO)aD(function(aP)
-local aQ,aR=an:setLike(aL.id,aL.likedByMe~=true)if not aP()then return end local
-aS=table.clone(ar(aJ.ReactionPending))aS[aL.id]=nil aJ.ReactionPending:set(aS)if
-not aQ then aJ.LocalError:set(aR.message)end end)end function aq.Draft(aJ,aL)if
-not aJ.Drafts[aL]then aJ.Drafts[aL]=am:Value''end return aJ.Drafts[aL]end
-function aq.ShowComposer(aJ)if not aJ:CanPost'thread'then aJ.LocalError:set(aJ:
-PostingReason'thread')return end if not ar(aJ.ThreadCategory)then aJ.
-ThreadCategory:set(ar(aJ.Category)or ar(aJ.Data).categories[1])end aJ.LocalError
-:set(nil)aJ.ComposeOpen:set(true)end function aq.Refresh(aJ)if ar(aJ.Refreshing)
-or ar(aJ.Pending)or ar(aJ.Moderation.Pending)then return end aJ.LocalError:set(
-nil)aJ.Moderation.Error:set(nil)if not an:getState().active then aH()return end
-aJ.Refreshing:set(true)aD(function(aL)local aN,aO=aJ:RefreshPermissions(aL)if
-not aL()then return end local aP,aQ=an:refresh()if aL()then aJ.Refreshing:set(
-false)if not aP or not aN then aJ.LocalError:set(if not aP then aQ.message else
-aO.message)end if ar(aJ.Route)=='administration'then aJ.Moderation:Open()end end
-end)end function aq.LoadMore(aJ)aD(function(aL)local aN,aO=an:loadMore()if aL()
-and not aN then aJ.LocalError:set(aO.message)end end)end function aq.Send(aJ,aL,
-aN)if ar(aJ.Pending)or not al.hasText(ar(aL))then return end if not aJ:CanPost(
-aN)then aJ.LocalError:set(aJ:PostingReason(aN))return end local aO,aP,aQ,aR=ar(
-aL),ar(aJ.ThreadTitle),ar(aJ.ThreadCategory),ar(aJ.ReplyTarget)aJ.Pending:set(
-true)aJ.LocalError:set(nil)aD(function(aS)local aT,aU=aJ:RefreshPermissions(aS)
-if not aS()then return end if not aT or not aJ:CanPost(aN)then aJ.Pending:set(
-false)aJ.LocalError:set(if not aT then aU.message else aJ:PostingReason(aN))
-return end local aV,aW=false if aN=='thread'then aV,aW=an:createThread(aP,aO,aQ)
-elseif aN=='reply'then aV,aW=an:reply(aO,nil,aR and aR.id)else aV,aW=an:
-sendMessage(aO)end if not aS()then return end aJ.Pending:set(false)if aV then if
-ar(aL)==aO then aL:set''end if aN=='thread'then if ar(aJ.ThreadTitle)==aP then
-aJ.ThreadTitle:set''end aJ:Navigate('thread',aW.scope,ar(aJ.Category),aW.id)else
-if aN=='reply'and ar(aJ.ReplyTarget)==aR then aJ.ReplyTarget:set(nil)end an:
-refresh()end else aJ.LocalError:set(aW.message)aJ:RefreshPermissions(aS)end end)
-end local aJ=function()aB()if ar(ao)then aF()aH()end end am:Observer(ao):
-onChange(aJ)am:insert(function()av=false aB()end)aJ()return aq end return al end
-,['components/window/pages/communityPage/moderation']=function(aa,ab)local ad=aa
-.Parent.Parent.Parent.Parent.Parent local af,ah,aj=ab(ad.packages.fusion),ab(ad.
-components.ui.contextMenu),ab(aa.Parent.widgets)local ak,al,am=aj.Children,aj.
-Theme,{}function am.field(an,ao,ap,aq,ar,as,at)return an:New'Frame'{Name=
-'ModerationField_'..ap,BackgroundTransparency=1,Size=UDim2.new(1,0,0,if at then
-108 else 66),LayoutOrder=as,[ak]={aj.heading(an,ap,{TextSize=12,Size=UDim2.new(1
-,0,0,22)}),aj.panel(an,{Position=UDim2.fromOffset(0,26),Size=UDim2.new(1,-2,1,-
-26),[ak]={aj.input(an,ao,aq,ar,{Name='ModerationInput_'..ap,Position=UDim2.
-fromOffset(10,8),Size=UDim2.new(1,-20,1,-16),MultiLine=at==true,TextWrapped=at==
-true,TextSize=13})}})}}end function am.actions(an,ao,ap,aq,ar)local as,at,av=(ao
-.Moderation)local ax=function(ax)return as:ActionItems(ap,aq,ax)end local az,aB=
-function()local az=ax(af.peek)if#az==0 then return end if not at then at=ah.
-Create{scope=an,PopupParent=ao.PopupParent,Items=az,Callback=function(aB)as:
-Choose(ap,aq,aB)end}else at:SetItems(az)end at:Open(av)end,{Name=
-'CommunityActions_'..ap..'_'..tostring(aq.id),Size=UDim2.fromOffset(72,25),
-TextSize=12,Visible=an:Computed(function(az)return#ax(az)>0 end),Interactable=an
-:Computed(function(az)return not az(as.Pending)and not az(as.Loading)end)}for aD
-,aF in pairs(ar or{})do aB[aD]=aF end av=aj.button(an,if ap=='member'then'User'
-else'Actions',az,aB)local aD=an:Computed(function(aD)local aF={}for aH,aJ in
-ipairs(ax(aD))do table.insert(aF,aJ.Id..':'..aJ.Label..':'..tostring(aJ.Disabled
-))end return table.concat(aF,'\n')end)an:Observer(aD):onChange(function()if at
-then at:SetItems(ax(af.peek))end end)an:Observer(ao.Route):onChange(function()if
-at then at:Close()end end)an:insert(function()if at then at:Destroy()end end)
-return av end function am.mount(an,ao)local ap,aq,ar,as=ao.Moderation,false
-local at=function()aq=true if ar then ar:Destroy()ar=nil end if as then as:
-doCleanup()as=nil end aq=false end local av=function()at()local av=af.peek(ap.
-Selection)if not av then return end as=an:innerScope()local ax=as ar=ao.
-CreateDialog{Title=av.label,Description=av.description,Width=440,Variant=if av.
-destructive then'danger'else'info'}ar.Root.Name='CommunityModerationDialog'local
-az={aj.list(ax,10),am.field(ax,ap.Reason,'Reason',
-'Explain why this action is needed',500,2,true),aj.label(ax,ax:Computed(function
-(az)return az(ap.Error)or''end),{Name='ModerationActionError',LayoutOrder=4,Size
-=UDim2.new(1,0,0,0),AutomaticSize=Enum.AutomaticSize.Y,TextWrapped=true,TextSize
-=12,TextColor3=al.AccentDestructive}),ax:New'Frame'{Name=
-'ModerationConfirmButtons',LayoutOrder=5,BackgroundTransparency=1,Size=UDim2.
-new(1,0,0,36),[ak]={aj.button(ax,ax:Computed(function(az)return if az(ap.Pending
-)then'Close'else'Cancel'end),function()ap:Dismiss()end,{Name=
-'CancelModerationAction',Size=UDim2.fromOffset(90,34)}),aj.button(ax,ax:
-Computed(function(az)return if az(ap.Pending)then'Saving\u{2026}'else'Confirm'
-end),function()ap:Confirm()end,{Name='ConfirmModerationAction',Position=UDim2.
-new(1,-110,0,0),Size=UDim2.fromOffset(110,34),Type=if av.destructive then
-'danger'else'primary',Interactable=ax:Computed(function(az)return ap:CanConfirm(
-az)end)})}}}if av.id=='rename'then table.insert(az,am.field(ax,ap.ChannelName,
-'Channel name','Enter a channel name',60,1,false))end local aB=ax:New'Frame'{
-Name='ModerationActionForm',BackgroundTransparency=1,Size=UDim2.new(1,0,0,0),
-AutomaticSize=Enum.AutomaticSize.Y,[ak]=az}ar:SetContent(aB)local aD=ar ax:
-Observer(aD.Opened):onChange(function()if not aq and not af.peek(aD.Opened)then
-ap:Dismiss()end end)ax:insert(aD.Root.Destroying:Connect(function()if not aq
-then ap:Dismiss()end end))end an:Observer(ap.Selection):onChange(av)an:insert(at
-)av()end return am end,['components/window/pages/communityPage/moderationModel']
-=function(aa,ab)local ad=aa.Parent.Parent.Parent.Parent.Parent local af,ah,aj,ak
-,al,am,an=ab(ad.packages.fusion),{},{['community.announcements.post']=
-'Announcements',['community.members.restrict']='User moderation',[
-'community.content.moderate']='Content moderation',['community.channels.manage']
-='Channel management',['community.audit.read']='Moderation history'},{entry=
-'community.content.moderate',member='community.members.restrict',channel=
-'community.channels.manage',audit='community.audit.read'},{entry={{id='remove',
-label='Remove content',destructive=true,description=
-[[Hide this content from the community. Authorized moderators can restore it later.]]
-},{id='restore',label='Restore content',description=
-'Make this content visible to the community again.'}},member={{id='restrict',
-label='Restrict posting',destructive=true,description=
-'Stop this user from posting in the selected channel.'},{id='unrestrict',label=
-'Restore posting',description=
-[[Remove this user's posting restriction in the selected channel. Other restrictions still apply.]]
-}},channel={{id='rename',label='Rename channel',description=
-[[Change this channel's displayed name. Its content and access stay in the same channel.]]
-},{id='lock',label='Lock channel',destructive=true,description=
-[[Pause new posts in this channel. Existing content remains readable.]]},{id=
-'unlock',label='Unlock channel',description=
-'Allow eligible users to post in this channel again.'}}},function(af)return
-type(af)=='string'and af:find'%S'~=nil end,function(af,ah)for aj,ak in ipairs(af
-.channels or{})do if ak.id==ah then return ak end for al,am in ipairs(ak.rooms
-or{})do if am.id==ah then return am end end end return nil end function ah.
-hasCapability(ao,ap)return type(ao)=='table'and type(ao.capabilities)=='table'
-and table.find(ao.capabilities,ap)~=nil end function ah.allowed(ao,ap)return
-type(ao)=='table'and type(ao.eligibility)=='table'and ao.eligibility[ap]==true
-end function ah.new(ao,ap,aq)local ar,as,at=af.peek,{Selection=ao:Value(nil),
-Reason=ao:Value'',ChannelName=ao:Value'',Pending=ao:Value(false),Loading=ao:
-Value(false),Error=ao:Value(nil),Status=ao:Value(nil),Tab=ao:Value'users',
-MemberId=ao:Value'',Member=ao:Value(nil),Audit=ao:Value{},AuditCursor=ao:Value(
-nil)}local av=function(av)as.Error:set(av)ap.LocalError:set(av)end local ax=
-function()as.Status:set(nil)as.Pending:set(false)as.Loading:set(false)av
-[[The action could not be completed. Refresh Community and try again.]]end
-function as.Reset(az)if ar(az.Pending)then az.Status:set(nil)end az.Selection:
-set(nil)az.Pending:set(false)az.Loading:set(false)az.Member:set(nil)az.Audit:set
-{}az.AuditCursor:set(nil)az.Error:set(nil)end function as.HasCapability(az,aB,aD
-,aF)aD=aD or ar if not aD(ap.CapabilitiesReady)then return false end local aH=
-aD(ap.Channel)aF=aF or aH local aJ=if aF==aH then aD(ap.Access)else an(aD(ap.
-Data),aF)return type(aJ)=='table'and aJ.scope==aF and aJ.restricted==false and
-ah.hasCapability(aJ,aB)end function as.ScopeLabel(az,aB)aB=aB or ar local aD=aB(
-ap.Channel)local aF=an(aB(ap.Data),aD)return if aF then aF.name..' ('..aD..')'
-else aD end function as.SyncMessage(az,aB)aB=aB or ar if aB(ap.AuthorityError)
-then return
-[[Community permissions are unavailable. Refresh to verify your Discord roles.]]
-end return nil end function as.AuthorityText(az,aB)aB=aB or ar if not aB(ap.
-CapabilitiesReady)then return
-[[Community permissions have not been verified. Refresh to try again.]]end local
-aD=az:SyncMessage(aB)if aD then return aD end local aF=aB(ap.Access)local aH,aJ=
-if type(aF)=='table'and type(aF.capabilities)=='table'then aF.capabilities else{
-},{}for aL,aN in ipairs(aH)do if aj[aN]then table.insert(aJ,aj[aN])end end
-return'Role: '..tostring(aF and aF.role or'member')..'\nAccess: '..(if#aJ>0 then
-table.concat(aJ,', ')else'No administration permissions')end function as.Tabs(az
-,aB)aB=aB or ar local aD={}if az:HasCapability(ak.member,aB)then table.insert(aD
-,{id='users',label='Users'})end if#az:Channels(aB)>0 then table.insert(aD,{id=
-'channels',label='Channels'})end if az:HasCapability(ak.audit,aB)then table.
-insert(aD,{id='audit',label='History'})end return aD end function as.Channels(az
-,aB)aB=aB or ar local aD,aF={},{}local aH=function(aH)if not aF[aH.id]and az:
-HasCapability(ak.channel,aB,aH.id)then aF[aH.id]=true table.insert(aD,aH)end end
-for aJ,aL in ipairs(aB(ap.Data).channels or{})do aH(aL)for aN,aO in ipairs(aL.
-rooms or{})do aH(aO)end end return aD end function as.CurrentTarget(az,aB,aD,aF)
-aF=aF or ar if type(aD)~='table'then return nil end local aH=aF(ap.Data)if aB==
-'channel'then return an(aH,aD.id)elseif aB=='member'then local aJ=aF(az.Member)
-return if aJ and aJ.id==aD.id and aJ.id==aF(az.MemberId)and aJ.scope==aF(ap.
-Channel)then aJ else nil end if aH.thread and aH.thread.id==aD.id then return aH
-.thread end for aJ,aL in ipairs{'messages','threads','replies'}do for aN,aO in
-ipairs(aH[aL]or{})do if aO.id==aD.id then return aO end end end return nil end
-function as.Allowed(az,aB,aD,aF,aH)aH=aH or ar local aJ=az:CurrentTarget(aB,aD,
-aH)if not aJ then return false end local aL=aH(ap.Channel)local aN=if aB==
-'channel'then aJ.id else aL if aB=='entry'and aJ.scope~=aL then return false end
-if not az:HasCapability(ak[aB],aH,aN)then return false end if aB=='channel'then
-return type(aJ.locked)=='boolean'and(aF=='rename'or(aF=='lock'and not aJ.locked)
-or(aF=='unlock'and aJ.locked))end return ah.allowed(aJ,aF)end function as.CanAct
-(az,aB,aD,aF,aH)aH=aH or ar return not aH(az.Pending)and not aH(az.Loading)and
-not aH(ap.Pending)and aH(ap.Data).active==true and az:Allowed(aB,aD,aF,aH)end
-function as.CanSelectMember(az,aB)aB=aB or ar local aD=aB(az.MemberId)return az:
-HasCapability(ak.member,aB)and not aB(az.Pending)and not aB(az.Loading)and type(
-aD)=='string'and#aD==31 and aD:match'^member_%x+$'~=nil end function as.
-ActionItems(az,aB,aD,aF)aF=aF or ar if aB=='member'then if type(aD)~='table'or
-not am(aD.id)or not az:HasCapability(ak.member,aF)then return{}end return{{Id=
-'inspect',Label='Manage user',Disabled=aF(az.Pending)or aF(az.Loading)}}end
-local aH=az:CurrentTarget(aB,aD,aF)local aJ=if aB=='channel'and aH then aH.id
-else aF(ap.Channel)if not aH or not az:HasCapability(ak[aB],aF,aJ)then return{}
-end local aL={}for aN,aO in ipairs(al[aB]or{})do table.insert(aL,{Id=aO.id,Label
-=aO.label..(if az:Allowed(aB,aH,aO.id,aF)then''else' \u{b7} unavailable'),
-Destructive=aO.destructive==true,Disabled=not az:CanAct(aB,aH,aO.id,aF)})end
-return aL end function as.Dismiss(az)az.Selection:set(nil)end function as.Choose
-(az,aB,aD,aF)if aB=='member'and aF=='inspect'then if not az:HasCapability(ak.
-member)or ar(az.Pending)then return end az.MemberId:set(aD.id)az.Tab:set'users'
-ap:Navigate('administration',ar(ap.Channel))return end if not az:CanAct(aB,aD,aF
-)then av
-[[This action is not available for this target. Refresh to check permissions.]]
-return end for aH,aJ in ipairs(al[aB]or{})do if aJ.id==aF then local aL=table.
-clone(aJ)aL.kind,aL.target=aB,az:CurrentTarget(aB,aD)aL.scope=if aB=='channel'
-then aD.id else ar(ap.Channel)aL.description..='\n\nTarget: '..tostring(aD.
-displayName or aD.name or aD.id)..'\nChannel: '..aL.scope az.Reason:set''az.
-ChannelName:set(if aF=='rename'then aL.target.name else'')az.Error:set(nil)ap.
-LocalError:set(nil)az.Status:set(nil)az.Selection:set(aL)return end end end
-function as.CanConfirm(az,aB)aB=aB or ar local aD,aF,aH=aB(az.Selection),aB(az.
-Reason),aB(az.ChannelName)return aD~=nil and(aD.id~='rename'or(am(aH)and(utf8.
-len(aH)or math.huge)<=60))and am(aF)and(utf8.len(aF)or math.huge)<=500 and az:
-CanAct(aD.kind,aD.target,aD.id,aB)end function as.Confirm(az)if not az:
-CanConfirm()then return end local aB,aD=ar(az.Selection),ar(az.Reason):match
-'^%s*(.-)%s*$'local aF=if aB.id=='rename'then ar(az.ChannelName):match
-'^%s*(.-)%s*$'else''local aH=table.concat({aB.kind,aB.target.id,aB.scope,aB.id,
-aD,aF},'\0')if not at or at.key~=aH then at={key=aH,id=aq:newRequestId()}end
-local aJ={scope=aB.scope,reason=aD,clientRequestId=at.id}az.Pending:set(true)az.
-Status:set'Saving change\u{2026}'az.Error:set(nil)ap.LocalError:set(nil)ap:Run(
-function(aL)local aN,aO=ap:RefreshPermissions(aL)if not aL()then return end if
-not aN or not az:Allowed(aB.kind,aB.target,aB.id)then az.Pending:set(false)az.
-Status:set(nil)av(if not aN then aO.message else
-'Your permission changed. This action was not sent.')return end local aP,aQ=
-false if aB.kind=='entry'then aP,aQ=aq:moderateEntry(aB.target.id,aB.id,aJ)
-elseif aB.kind=='member'then aP,aQ=aq:moderateMember(aB.target.id,aB.id,aJ)else
-if aB.id=='rename'then aJ.name=aF else aJ.locked=aB.id=='lock'end aP,aQ=aq:
-updateChannel(aB.target.id,aJ)end if not aL()then return end if not aP then az.
-Pending:set(false)az.Status:set(nil)av(aQ.message)ap:RefreshPermissions(aL)
-return end at=nil az.Selection:set(nil)az.Status:set(aB.label..' saved.')local
-aR,aS=ap:RefreshPermissions(aL)if not aL()then return end local aT,aU=aq:
-refresh()if not aL()then return end if not aR or not aT then local aV=if not aR
-then aS else aU av('The change was saved, but Community could not refresh. '..aV
-.message)end az.Pending:set(false)if aR and aT and ar(ap.Route)==
-'administration'then az:Open()end end,ax)end function as.LoadMember(az)if not az
-:CanSelectMember()then return end local aB=ar(az.MemberId)az.Member:set(nil)az.
-Loading:set(true)az.Error:set(nil)ap.LocalError:set(nil)ap:Run(function(aD)local
-aF=ar(ap.Channel)local aH,aJ=aq:getMember(aB,aF)if not aD()then return end az.
-Loading:set(false)if ar(az.MemberId)~=aB then return end if aH and aJ.id==aB and
-aJ.scope==aF then az.Member:set(aJ)else av(if aH then
-'The server returned an invalid user response.'else aJ.message)end end,ax)end
-function as.MemberText(az,aB)aB=aB or ar if aB(az.Loading)then return
-"Checking this user's moderation status\u{2026}"end local aD=aB(az.Member)if not
-aD or aD.id~=aB(az.MemberId)then return
-'Find a user to check which actions are available.'end return tostring(aD.
-displayName or aD.id)..(if aD.restricted then' \u{b7} posting restricted'else
-' \u{b7} no posting restriction')..(if am(aD.reason)then'\nReason: '..aD.reason
-else'')end function as.AuditText(az,aB)return tostring(aB.action or
-'Moderation action')..'\nTarget: '..tostring(aB.targetId or'')..'\nReason: '..
-tostring(aB.reason or'')..'\nBy: '..tostring(aB.actorId or'')end function as.
-LoadAudit(az,aB)if ar(az.Loading)or ar(az.Pending)or not az:HasCapability(ak.
-audit)then return end local aD=if aB then ar(az.AuditCursor)else nil if aB and
-aD==nil then return end az.Loading:set(true)az.Error:set(nil)ap.LocalError:set(
-nil)ap:Run(function(aF)local aH,aJ=aq:loadAudit(ar(ap.Channel),aD)if not aF()
-then return end az.Loading:set(false)if not aH or type(aJ.entries)~='table'then
-av(if aH then'The server returned invalid moderation history.'else aJ.message)
-return end local aL,aN=if aB then table.clone(ar(az.Audit))else{},{}for aO,aP in
-ipairs(aL)do aN[aP.id]=true end for aO,aP in ipairs(aJ.entries)do if not aN[aP.
-id]then aN[aP.id]=true table.insert(aL,aP)end end az.Audit:set(aL)az.AuditCursor
-:set(if aJ.nextCursor~=aD then aJ.nextCursor else nil)end,ax)end function as.
-SetTab(az,aB)for aD,aF in ipairs(az:Tabs())do if aF.id==aB then az.Tab:set(aB)if
-aB=='audit'then az:LoadAudit(false)end return end end end function as.Open(az)
-local aB,aD,aF=az:Tabs(),ar(az.Tab),false for aH,aJ in ipairs(aB)do aF=aF or aJ.
-id==aD end if not aF and aB[1]then aD=aB[1].id az.Tab:set(aD)end if aD=='audit'
-then az:LoadAudit(false)elseif aD=='users'and az:CanSelectMember()then az:
-LoadMember()end end ao:Observer(as.MemberId):onChange(function()as.Member:set(
-nil)end)return as end return ah end,[
-'components/window/pages/communityPage/navigation']=function(aa,ab)local ad=aa.
-Parent.Parent.Parent.Parent.Parent local af,ah,aj,ak=ab(ad.packages.fusion),ab(
-ad.components.button),ab(ad.components.ui.shared.fonts),ab(aa.Parent.widgets)
-local al,am,an=ak.Children,ak.Theme,{general='ChatIcon',guides='AgentGuidesIcon'
-,questions='CommunityQuestionIcon',suggestions='CommunitySuggestionIcon'}return
-function(ao,ap,aq)local ar,as,at=function(ar,as)return ak.label(ao,ar,{Name=
-'CommunityNavSection_'..ar,FontFace=aj.Title,TextSize=11,TextColor3=am.
-FgTertiary,LayoutOrder=as,Size=UDim2.new(1,0,0,30),[al]={ao:New'UIPadding'{
-PaddingLeft=UDim.new(0,10)}}})end,function(ar,as,at,av,ax,az)return ar:New
-'Frame'{Name='CommunityNav_'..as,LayoutOrder=ax,BackgroundTransparency=1,
-BorderSizePixel=0,Size=UDim2.new(1,0,0,32),[al]={ar:Computed(function(aB,aD)
-local aF=ah.new{Scope=aD,Title=as,Icon=at,IconSize=16,Type=if aB(av)then
-'secondary'else'default',HoverType='secondary',Padding=UDim.new(0,10),Size=UDim2
-.fromScale(1,1),Callback=az}local aH=aF:Render(aD)local aJ=aH:FindFirstChild(
-'TextButton',true)assert(aJ and aJ:IsA'TextButton',
-'Button render must include a TextButton surface')local aL=aJ.ContentContainer
-aL.ContentLayout.HorizontalAlignment=Enum.HorizontalAlignment.Left aL.ButtonText
-.AutomaticSize=Enum.AutomaticSize.None aL.ButtonText.Size=UDim2.new(1,-21,1,0)aL
-.ButtonText.TextXAlignment=Enum.TextXAlignment.Left aL.ButtonText.TextTruncate=
-Enum.TextTruncate.AtEnd return aH end),ar:New'Frame'{Name='ActiveIndicator',
-BackgroundTransparency=ak.animate(function(aB)return if aB(av)then 0 else 1 end,
-25,1,ar),BackgroundColor3=am.AccentPrimary,BorderSizePixel=0,Position=UDim2.
-fromOffset(0,9),Size=UDim2.fromOffset(2,14),ZIndex=4,[al]={ar:New'UICorner'{
-CornerRadius=UDim.new(0,2)}}}}}end,function(ar,as)return ao:Computed(function(at
-)local av=at(ap.Route)return(av==ar or(ar=='forum'and av=='thread'))and at(ap.
-Category)==as end)end return ak.scroll(ao,{Name='CommunityNavigation',Visible=aq
-,Size=UDim2.new(1,0,1,-40),ZIndex=5,[al]={ak.padding(ao,10),ak.list(ao,4),as(ao,
-'Overview','CommunityHomeIcon',at'overview',1,function()ap:Navigate'overview'end
-),ar('Chat',3),as(ao,'Announcements','CommunityHomeIcon',ao:Computed(function(av
-)return av(ap.Route)=='chat'and av(ap.Channel)=='announcements'end),2,function()
-ap:Navigate('chat','announcements')end),as(ao,'Global','CommunityHashIcon',ao:
-Computed(function(av)return av(ap.Route)=='chat'and av(ap.Channel)=='global'end)
-,4,function()ap:Navigate('chat','global')end),ar('Game Chats',5),ao:ForPairs(ao:
-Computed(function(av)return av(ap.Data).channels end),function(av,ax,az,aB)if aB
-.kind~='game'then return az,nil end local aD=ax:Computed(function(aD)local aF=
-aD(ap.Channel)return aD(ap.Route)=='chat'and(aF==aB.id or aF:sub(1,#aB.id+1)==aB
-.id..':')end)return az,as(ax,aB.name,'CommunityGameIcon',aD,6+az,function()ap:
-Navigate('chat',aB.id)end)end),ar('Forum',100),ao:Computed(function(av,ax)if#ap.
-Moderation:Tabs(av)==0 then return nil end return as(ax,'Administration',
-'SettingsIcon',ax:Computed(function(az)return az(ap.Route)=='administration'end)
-,500,function()ap:Navigate('administration',af.peek(ap.Channel))end)end),as(ao,
-'All Threads','CommunityForumIcon',at'forum',101,function()ap:Navigate('forum',
-'global')end),ao:ForPairs(ao:Computed(function(av)return av(ap.Data).categories
-end),function(av,ax,az,aB)return az,as(ax,ak.category(aB),an[aB]or
-'CommunityForumIcon',at('forum',aB),102+az,function()ap:Navigate('forum',
-'global',aB)end)end)}})end end,['components/window/pages/communityPage/views']=
-function(aa,ab)local ad=aa.Parent.Parent.Parent.Parent.Parent local af,ah,aj,ak,
-al,am,an=ab(ad.packages.fusion),ab(aa.Parent.widgets),ab(aa.Parent.feed),ab(aa.
-Parent.formatting),ab(aa.Parent.model),ab(aa.Parent.announcements),ab(aa.Parent.
-moderation)local ao,ap,aq=ah.Children,ah.Theme,{}local ar,as,at,av,ax=function(
-ar,as,at,av,ax)local az=if ax then 74 else 18 return ar:New'Frame'{Name=
-'PageHeading',BackgroundTransparency=1,Size=UDim2.new(1,0,0,74),[ao]={ax,ah.
-heading(ar,as,{Name='PageTitle',TextSize=18,Position=UDim2.fromOffset(az,10),
-Size=UDim2.new(1,-az-(if av then 140 else 18),0,24),TextTruncate=Enum.
-TextTruncate.AtEnd}),ah.label(ar,at,{Position=UDim2.fromOffset(az,35),Size=UDim2
-.new(1,-az-18,0,18),TextSize=12,TextColor3=ap.FgTertiary,TextTruncate=Enum.
-TextTruncate.AtEnd}),av}}end,function(ar,as,at)local av=as and as.universeId if
-type(av)~='number'or av<=0 or av%1~=0 then return nil end local ax={Name=
-'GameThumbnail',BackgroundColor3=ap.BgTertiary,BorderSizePixel=0,Image=
-'rbxthumb://type=GameIcon&id='..tostring(av)..'&w=150&h=150',Size=UDim2.
-fromOffset(44,44),Position=UDim2.fromOffset(18,14),[ao]={ar:New'UICorner'{
-CornerRadius=UDim.new(0,6)}}}for az,aB in pairs(at or{})do ax[az]=aB end return
-ar:New'ImageLabel'(ax)end,function(ar,as,at,av,ax)return ah.label(ar,ar:
-Computed(function(az)local aB=az(as.Data)return if aB.loading or az(as.Opening)
-then'Loading\u{2026}'elseif aB.error or az(as.LocalError)then
-'Content could not be loaded.'else av end),{Name='EmptyState',LayoutOrder=ax or
-0,Size=UDim2.new(1,0,0,72),TextWrapped=true,TextColor3=ap.FgTertiary,TextSize=13
-,TextXAlignment=Enum.TextXAlignment.Center,Visible=ar:Computed(function(az)
-return#az(at)==0 end)})end,function(ar,as)return ar:Computed(function(at)local
-av={}for ax,az in ipairs(at(as))do if av[az.id]==nil then av[az.id]={item=az,
-order=ax}end end return av end)end,function(ar,as,at,av)av=av or{}av.TextColor3=
-ap.AccentPrimary av.BackgroundTransparency=1 av.StrokeTransparency=1 av.TextSize
-=12 return ah.button(ar,as,at,av)end local az=function(az,aB,aD,aF,aH,aJ,aL,aN,
-aO)return ah.panel(az,{Name=aB,LayoutOrder=aH,Size=aJ,AutomaticSize=Enum.
-AutomaticSize.Y,CornerRadius=4,[ao]={ah.list(az,0),az:New'Frame'{Name=
-'CardHeader',LayoutOrder=0,Size=UDim2.new(1,0,0,40),BackgroundTransparency=1,
-BorderSizePixel=0,[ao]={ah.icon(az,aF,{Position=UDim2.fromOffset(12,10),Size=
-UDim2.fromOffset(20,20),ImageColor3=ap.FgSecondary}),ah.heading(az,aD,{Position=
-UDim2.fromOffset(44,0),Size=UDim2.new(1,if aN then-146 else-58,1,0),TextSize=16,
-TextColor3=ap.FgTertiary,TextTruncate=Enum.TextTruncate.AtEnd}),if aN then ax(az
-,aN,aO,{AnchorPoint=Vector2.new(1,0.5),Position=UDim2.new(1,-10,0.5,0),Size=
-UDim2.fromOffset(94,30)})else nil,ah.line(az,{Position=UDim2.new(0,0,1,-1)})}},
-az:New'Frame'{Name='CardBody',LayoutOrder=1,BackgroundTransparency=1,Size=UDim2.
-new(1,0,0,0),AutomaticSize=Enum.AutomaticSize.Y,[ao]={ah.padding(az,12),ah.list(
-az,10),aL}}}})end function aq.threadRow(aB,aD,aF,aH,aJ)local aL,aN=if aJ then 0
-else 12,if aJ then 30 else 34 local aO,aP=aL+aN+12,if aJ then 0 else 96 return
-ah.button(aB,'',function()aD:Navigate('thread',aF.scope,af.peek(aD.Category),aF.
-id)end,{Name='Thread_'..tostring(aF.id),LayoutOrder=aH,BackgroundTransparency=1,
-StrokeTransparency=1,Size=UDim2.new(1,0,0,if aJ then 82 else 98),AutomaticSize=
-Enum.AutomaticSize.Y,[ao]={aB:New'Frame'{Name='AvatarColumn',
-BackgroundTransparency=1,Position=UDim2.fromOffset(aL,12),Size=UDim2.fromOffset(
-aN,aN),[ao]={ah.avatar(aB,aF,aN)}},aB:New'Frame'{Name='ThreadTextBands',
-BackgroundTransparency=1,Position=UDim2.fromOffset(aO,10),Size=UDim2.new(1,-aO-
-aP-aL,0,0),AutomaticSize=Enum.AutomaticSize.Y,[ao]={ah.list(aB,4),ah.heading(aB,
-ah.preview(aF.title),{Name='ThreadTitleBand',LayoutOrder=0,TextSize=14,Size=
-UDim2.new(1,0,0,20),AutomaticSize=Enum.AutomaticSize.Y,TextWrapped=true,
-TextYAlignment=Enum.TextYAlignment.Top}),ah.label(aB,if aJ then ah.author(aF)
-else ah.preview(ak.plain(aF.body)),{Name='ThreadExcerptBand',LayoutOrder=1,Size=
-UDim2.new(1,0,0,20),TextSize=13,TextTruncate=Enum.TextTruncate.AtEnd,TextWrapped
-=false,TextColor3=ap.FgSecondary}),ah.label(aB,if aJ then ah.category(aF.
-category)..' \u{b7} '..tostring(aF.replyCount or 0)..(if aF.replyCount==1 then
-' reply'else' replies')else ah.author(aF)..' \u{b7} '..ah.category(aF.category),
-{Name='ThreadMetaBand',LayoutOrder=2,Size=UDim2.new(1,0,0,18),TextSize=11,
-TextTruncate=Enum.TextTruncate.AtEnd,TextWrapped=false,TextColor3=ap.FgTertiary}
-),aB:New'Frame'{Name='RowBottomSpace',BackgroundTransparency=1,LayoutOrder=3,
-Size=UDim2.new(1,0,0,8)}}},if not aJ then aB:New'Frame'{Name='ThreadStats',
-BackgroundTransparency=1,Position=UDim2.new(1,-aP-aL,0,12),Size=UDim2.
-fromOffset(aP,66),[ao]={ah.list(aB,3),ah.label(aB,tostring(aF.replyCount or 0)..
-(if aF.replyCount==1 then' reply'else' replies'),{Name='ReplyCount',LayoutOrder=
-0,Size=UDim2.new(1,0,0,20),TextSize=12,TextXAlignment=Enum.TextXAlignment.Right}
-),ah.label(aB,tostring(aF.viewCount or 0)..(if aF.viewCount==1 then' view'else
-' views'),{Name='ViewCount',LayoutOrder=1,Size=UDim2.new(1,0,0,18),TextSize=11,
-TextColor3=ap.FgTertiary,TextXAlignment=Enum.TextXAlignment.Right}),ah.label(aB,
-ah.time(aF.updatedAt),{Name='LastActivity',LayoutOrder=2,Size=UDim2.new(1,0,0,18
-),TextSize=11,TextColor3=ap.FgTertiary,TextXAlignment=Enum.TextXAlignment.Right}
-)}}else nil,ah.line(aB,{Position=UDim2.new(0,0,1,-1)})}})end function aq.
-overview(aB,aD,aF)local aH,aJ=aB:Computed(function(aH)return(aH(aD.Data).
-overview or{}).messages or{}end),aB:Computed(function(aH)return(aH(aD.Data).
-overview or{}).threads or{}end)return aB:New'Frame'{Name='CommunityOverview',
-BackgroundTransparency=1,Size=UDim2.fromScale(1,1),[ao]={ar(aB,'Community',
-'Chat, guides, and discussions.'),ah.scroll(aB,{Name='OverviewCards',Position=
-UDim2.fromOffset(0,74),Size=UDim2.new(1,0,1,-74),[ao]={ah.padding(aB,12),ah.
-list(aB,10),az(aB,'GlobalChatPreview','Global Chat','CommunityHashIcon',0,UDim2.
-new(1,-2,0,0),{at(aB,aD,aH,'No messages yet. Start the conversation.'),aB:
-ForPairs(av(aB,aH),function(aL,aN,aO,aP)return aO,aj.message(aN,aP.item,aP.order
-,true)end)},'Open chat',function()aD:Navigate('chat','global')end),aB:New'Frame'
-{Name='OverviewColumns',LayoutOrder=1,BackgroundTransparency=1,Size=UDim2.new(1,
--2,0,0),AutomaticSize=Enum.AutomaticSize.Y,[ao]={ah.list(aB,14,not af.peek(aF)),
-az(aB,'RecentThreads','Recent Threads','CommunityForumIcon',0,UDim2.new(1,0,0,0)
-,{at(aB,aD,aJ,'No threads yet. Share a question or an idea.'),aB:ForPairs(av(aB,
-aJ),function(aL,aN,aO,aP)return aO,aq.threadRow(aN,aD,aP.item,aP.order,true)end)
-},'View Forum',function()aD:Navigate('forum','global')end)}}}})}}end function aq
-.chat(aB,aD)local aF=af.peek(aD.Channel)if aF==am.Scope then return am.render(aB
-,aD)end local aH,aJ for aL,aN in ipairs(af.peek(aD.Data).channels)do if aN.id==
-aF then aH=aN end for aO,aP in ipairs(aN.rooms or{})do if aP.id==aF then aH,aJ=
-aN,aP end end end local aL=aH and aH.kind=='game'local aN,aO=if aL then 116 else
-74,if aJ then aJ.name:lower()else'global'return aB:New'Frame'{Name=
-'CommunityChat',BackgroundTransparency=1,Size=UDim2.fromScale(1,1),[ao]={ar(aB,
-if aL then aH.name else'Global Chat',if aL then'Game community \u{b7} '..(aJ and
-aJ.name or'General')else'A place for every Ethos user.',an.actions(aB,aD,
-'channel',aJ or aH or{id=aF},{Position=UDim2.new(1,-102,0,16),Size=UDim2.
-fromOffset(84,28)}),if aL then as(aB,aH)else nil),if aL then aB:New'Frame'{Name=
-'GameRooms',BackgroundTransparency=1,Position=UDim2.fromOffset(18,74),Size=UDim2
-.new(1,-36,0,42),[ao]={ah.list(aB,6,true),aB:ForPairs(aH.rooms or{},function(aP,
-aQ,aR,aS)return aR,ah.button(aQ,aS.name,function()aD:Navigate('chat',aS.id)end,{
-Name='Room_'..aS.name,LayoutOrder=aR,Size=UDim2.fromOffset(76,34),
-BackgroundTransparency=if aS.id==aF then 0.3 else 1,TextColor3=if aS.id==aF then
-ap.AccentPrimary else ap.FgSecondary,[ao]={if aS.id==aF then ah.line(aQ,{
-BackgroundColor3=ap.AccentPrimary,Position=UDim2.new(0,8,1,-1),Size=UDim2.new(1,
--16,0,2)})else nil}})end)}}else nil,ah.line(aB,{Position=UDim2.fromOffset(0,aN)}
-),aj.timeline(aB,aD,'messages',{Position=UDim2.fromOffset(0,aN+1),Size=UDim2.
-new(1,0,1,-aN-145)}),aj.composer(aB,aD,'message','Message #'..aO)}}end local aB=
-function(aB,aD,aF,aH,aJ,aL)return ah.button(aB,aH,function()if aJ then aD:
-LoadMore()else aD:Refresh()end end,{Name=aF,LayoutOrder=aL,Size=UDim2.new(1,0,0,
-32),Visible=aB:Computed(function(aN)local aO=aN(aD.Data)return if aJ then aO.
-nextCursor~=nil else aO.browsingHistory==true end),Interactable=aB:Computed(
-function(aN)return not aN(aD.Data).loading end)})end function aq.forum(aD,aF)
-local aH,aJ=aD:Computed(function(aH)return aH(aF.Data).threads end),function()aF
-:Navigate('forum',af.peek(aF.Channel),af.peek(aF.Category))end return aD:New
-'Frame'{Name='CommunityForum',BackgroundTransparency=1,Size=UDim2.fromScale(1,1)
-,[ao]={ar(aD,'Forum','Questions, guides, and ideas from the community.',ah.
-button(aD,'New Thread',function()aF:ShowComposer()end,{Name='NewThread',Type=
-'primary',Position=UDim2.new(1,-126,0,16),Size=UDim2.fromOffset(108,28),
-Interactable=aD:Computed(function(aL)return aF:CanPost('thread',aL)end)})),ah.
-panel(aD,{Name='ForumSearch',Position=UDim2.fromOffset(18,80),Size=UDim2.new(1,-
-126,0,36),[ao]={ah.icon(aD,'SearchIcon',{Position=UDim2.fromOffset(10,10),Size=
-UDim2.fromOffset(16,16)}),ah.input(aD,aF.Search,'Search threads\u{2026}',100,{
-Name='SearchThreads',Position=UDim2.fromOffset(36,0),Size=UDim2.new(1,-48,1,0),
-MultiLine=false,TextWrapped=false,TextYAlignment=Enum.TextYAlignment.Center,[af.
-OnEvent'FocusLost']=function(aL)if aL then aJ()end end})}}),ah.button(aD,
-'Search',aJ,{Position=UDim2.new(1,-94,0,80),Size=UDim2.fromOffset(76,36)}),aD:
-New'Frame'{Name='ThreadSorting',BackgroundTransparency=1,Position=UDim2.
-fromOffset(18,128),Size=UDim2.new(1,-36,0,32),[ao]={ah.list(aD,6,true),aD:
-ForPairs({{id='latest',label='Latest',width=72},{id='top',label='Top',width=62},
-{id='unanswered',label='Unanswered',width=104}},function(aL,aN,aO,aP)return aO,
-ah.button(aN,aP.label,function()aF:SetSort(aP.id)end,{Name='Sort_'..aP.id,
-LayoutOrder=aO,Size=UDim2.fromOffset(aP.width,30),TextColor3=aN:Computed(
-function(aQ)return if aQ(aF.Sort)==aP.id then aQ(ap.AccentPrimary)else aQ(ap.
-FgSecondary)end),BackgroundTransparency=aN:Computed(function(aQ)return if aQ(aF.
-Sort)==aP.id then 0 else 1 end)})end)}},ah.scroll(aD,{Name='CategoryFilters',
-Position=UDim2.fromOffset(18,170),Size=UDim2.new(1,-36,0,32),AutomaticCanvasSize
-=Enum.AutomaticSize.X,ScrollingDirection=Enum.ScrollingDirection.X,
-ScrollBarThickness=0,[ao]={ah.list(aD,6,true),ah.button(aD,'All',function()aF:
-Navigate('forum','global')end,{Size=UDim2.fromOffset(46,28),
-BackgroundTransparency=1,TextColor3=aD:Computed(function(aL)return if aL(aF.
-Category)==nil then aL(ap.AccentPrimary)else aL(ap.FgTertiary)end)}),aD:
-ForPairs(aD:Computed(function(aL)return aL(aF.Data).categories end),function(aL,
-aN,aO,aP)return aO,ah.button(aN,ah.category(aP),function()aF:Navigate('forum',
-'global',aP)end,{LayoutOrder=aO,Size=UDim2.fromOffset(if#aP>8 then 100 else 82,
-28),BackgroundTransparency=1,TextColor3=aN:Computed(function(aQ)return if aQ(aF.
-Category)==aP then aQ(ap.AccentPrimary)else aQ(ap.FgTertiary)end)})end)}}),ah.
-label(aD,aD:Computed(function(aL)return if aL(aF.Sort)=='top'then
-'MOST DISCUSSED \u{b7} ranked by replies'elseif aL(aF.Sort)=='unanswered'then
-'AWAITING A FIRST REPLY'else'LATEST THREADS'end),{Name='ForumSortDescription',
-Position=UDim2.fromOffset(18,208),Size=UDim2.new(1,-36,0,22),TextSize=11,
-TextColor3=ap.FgTertiary}),ah.line(aD,{Position=UDim2.fromOffset(18,238),Size=
-UDim2.new(1,-36,0,1)}),ah.scroll(aD,{Name='ForumThreads',Position=UDim2.
-fromOffset(0,239),Size=UDim2.new(1,0,1,-239),[ao]={ah.padding(aD,18),ah.list(aD,
-6),aB(aD,aF,'LatestThreads','Back to current threads',false,-1),at(aD,aF,aH,
-[[No threads found. Start a discussion or change your filters.]]),aD:ForPairs(
-av(aD,aH),function(aL,aN,aO,aP)return aO,aq.threadRow(aN,aF,aP.item,aP.order,
-false)end),aB(aD,aF,'MoreThreads','Load more threads',true,1000)}})}}end
-function aq.thread(aD,aF)local aH=aD:Computed(function(aH)local aJ=aH(aF.Data)
-return al.threadReplies(aJ.replies,aJ.ancestors,aH(aF.ReplySort))end)return aD:
-New'Frame'{Name='ThreadDetail',BackgroundTransparency=1,Size=UDim2.fromScale(1,1
-),[ao]={ax(aD,aD:Computed(function(aJ)return'Back to '..(if aJ(aF.Category)then
-ah.category(aJ(aF.Category))else'Forum')end),function()aF:Navigate('forum',af.
-peek(aF.Channel),af.peek(aF.Category))end,{Name='BackToForum',Position=UDim2.
-fromOffset(18,8),Size=UDim2.fromOffset(190,30),TextXAlignment=Enum.
-TextXAlignment.Left,[ao]={ah.icon(aD,'AgentSendIcon',{Position=UDim2.fromOffset(
--26,6),Size=UDim2.fromOffset(18,18),Rotation=-90,ImageColor3=ap.AccentPrimary}),
-aD:New'UIPadding'{PaddingLeft=UDim.new(0,26)}}}),ah.scroll(aD,{Name=
-'ThreadPosts',Position=UDim2.fromOffset(0,44),Size=UDim2.new(1,0,1,-188),[ao]={
-ah.padding(aD,18),ah.list(aD,14),ah.heading(aD,aD:Computed(function(aJ)return(
-aJ(aF.Data).thread or{}).title or'Loading thread\u{2026}'end),{Name=
-'ThreadTitle',LayoutOrder=0,TextSize=18,Size=UDim2.new(1,0,0,0),AutomaticSize=
-Enum.AutomaticSize.Y,TextWrapped=true}),ah.label(aD,aD:Computed(function(aJ)
-local aL=aJ(aF.Data).thread return if aL then ah.category(aL.category)..
-' \u{b7} Started by '..ah.author(aL)..' \u{b7} '..ah.time(aL.createdAt)..
-' \u{b7} '..tostring(aL.viewCount or 0)..(if aL.viewCount==1 then' view'else
-' views')else''end),{Name='ThreadMetadata',LayoutOrder=1,TextSize=12,TextColor3=
-ap.FgTertiary,TextWrapped=true,Size=UDim2.new(1,0,0,18),AutomaticSize=Enum.
-AutomaticSize.Y}),aD:Computed(function(aJ,aL)local aN=aJ(aF.Data).thread if not
-aN then return nil end return ah.panel(aL,{Name='OriginalPost',LayoutOrder=2,
-Size=UDim2.new(1,-2,0,0),AutomaticSize=Enum.AutomaticSize.Y,[ao]={ah.padding(aL,
-14),aj.message(aL,aN,0,false,aF)}})end),aD:New'Frame'{Name='ReplyHeading',
-LayoutOrder=3,BackgroundTransparency=1,Size=UDim2.new(1,0,0,34),[ao]={ah.
-heading(aD,aD:Computed(function(aJ)local aL=(aJ(aF.Data).thread or{}).replyCount
-or 0 return tostring(aL)..(if aL==1 then' Reply'else' Replies')end),{TextSize=15
-,Size=UDim2.new(1,-180,1,0)}),ah.button(aD,'Newest',function()aF:SetReplySort
-'newest'end,{Name='RepliesNewest',Position=UDim2.new(1,-170,0,1),Size=UDim2.
-fromOffset(80,30),TextColor3=aD:Computed(function(aJ)return if aJ(aF.ReplySort)
-=='newest'then aJ(ap.AccentPrimary)else aJ(ap.FgSecondary)end)}),ah.button(aD,
-'Oldest',function()aF:SetReplySort'oldest'end,{Name='RepliesOldest',Position=
-UDim2.new(1,-82,0,1),Size=UDim2.fromOffset(80,30),TextColor3=aD:Computed(
-function(aJ)return if aJ(aF.ReplySort)=='oldest'then aJ(ap.AccentPrimary)else
-aJ(ap.FgSecondary)end)})}},ah.line(aD,{LayoutOrder=4}),aB(aD,aF,'LatestReplies',
-'Back to current replies',false,5),at(aD,aF,aH,
-'No replies yet. Be the first to join this discussion.',6),aD:ForPairs(av(aD,aH)
-,function(aJ,aL,aN,aO)return aN,aj.message(aL,aO.item,10+aO.order,false,aF)end),
-aB(aD,aF,'MoreReplies','Load more replies',true,1000)}}),aj.composer(aD,aF,
-'reply','Write a reply\u{2026}')}}end return aq end,[
-'components/window/pages/communityPage/widgets']=function(aa,ab)local ad=aa.
-Parent.Parent.Parent.Parent.Parent local af,ah,aj,ak,al,am,an,ao,ap,aq,ar,as=ab(
-ad.packages.fusion),ab(ad.storage.theme),ab(ad.components.ui.container),ab(ad.
-components.button),ab(ad.components.actionButton),ab(ad.components.ui.shared.
-TextHolder),ab(ad.components.ui.shared.fonts),ab(ad.utils.images),ab(ad.utils.
-animate),ab(aa.Parent.model),ab(ad.utils.pendingTasks),game:GetService
-'TextService'local at,av={Theme=ah,Children=af.Children,animate=ap},af.Children
-function at.label(ax,az,aB)aB=aB or{}local aD,aF,aH=am.create{scope=ax,titleText
-=az,titleColor=aB.TextColor3 or ah.FgSecondary,textSize=aB.TextSize or 14,width=
-aB.Size or UDim2.new(1,0,0,22),fonts={Title=aB.FontFace or an.Body,Body=an.Body}
-},{Name=(aB.Name or'Label')..'Holder',BackgroundTransparency=1,BorderSizePixel=0
-,AutomaticSize=Enum.AutomaticSize.None},{Name=aB.Name or'Label',RichText=false,
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.
-Center,Position=UDim2.new(),AutomaticSize=aB.AutomaticSize or Enum.AutomaticSize
-.None,Size=if aB.AutomaticSize==Enum.AutomaticSize.Y or aB.AutomaticSize==Enum.
-AutomaticSize.XY then UDim2.new(1,0,0,0)else UDim2.fromScale(1,1)}for aJ,aL in
-pairs(aB)do if type(aJ)=='string'and(aJ:sub(1,4)=='Text'or aJ=='RichText'or aJ==
-'FontFace')then if aJ~='TextColor3'and aJ~='TextSize'and aJ~='FontFace'then aH[
-aJ]=aL end elseif aJ~='Name'then aF[aJ]=aL end end ax:Hydrate(aD.Title)(aH)
-return ax:Hydrate(aD)(aF)end function at.heading(ax,az,aB)local aD={FontFace=an.
-Title,TextColor3=ah.FgPrimary}for aF,aH in pairs(aB or{})do aD[aF]=aH end return
-at.label(ax,az,aD)end function at.padding(ax,az)return ax:New'UIPadding'{
-PaddingTop=UDim.new(0,az),PaddingBottom=UDim.new(0,az),PaddingLeft=UDim.new(0,az
-),PaddingRight=UDim.new(0,az)}end function at.list(ax,az,aB)return ax:New
-'UIListLayout'{SortOrder=Enum.SortOrder.LayoutOrder,Padding=UDim.new(0,az or 0),
-FillDirection=if aB then Enum.FillDirection.Horizontal else Enum.FillDirection.
-Vertical}end function at.line(ax,az)local aB={Name='Divider',BackgroundColor3=ah
-.BgTertiary,BorderSizePixel=0,Size=UDim2.new(1,0,0,1)}for aD,aF in pairs(az or{}
-)do aB[aD]=aF end return ax:New'Frame'(aB)end function at.panel(ax,az)local aB={
-Color=ah.BgPrimaryHighlight,CornerRadius=4,StrokeColor=ah.BgTertiary}for aD,aF
-in pairs(az or{})do aB[aD]=aF end return aj(ax,aB)end function at.icon(ax,az,aB)
-local aD={Name=az,Image=ao[az],ImageColor3=ah.FgSecondary,BackgroundTransparency
-=1,Size=UDim2.fromOffset(18,18)}for aF,aH in pairs(aB or{})do aD[aF]=aH end
-return ao:Track(az,ax:New'ImageLabel'(aD))end function at.button(ax,az,aB,aD)aD=
-aD or{}local aF=ak.new{Scope=ax,Title=az,Callback=aB,Type=aD.Type,Enabled=aD.
-Interactable,Icon=aD.Icon,IconSize=aD.IconSize,Size=aD.Size or UDim2.fromOffset(
-100,28),FontFace=aD.FontFace or an.Title,TextSize=aD.TextSize,TextColor3=aD.
-TextColor3,BackgroundColor3=aD.BackgroundColor3,BackgroundTransparency=aD.
-BackgroundTransparency,Stroke=aD.Stroke,StrokeColor=aD.StrokeColor,
-StrokeThickness=aD.StrokeThickness,StrokeTransparency=aD.StrokeTransparency or(
-if aD.BackgroundTransparency==1 then 1 else nil)}local aH=aF:Render(ax)local aJ=
-aH:FindFirstChild('TextButton',true)assert(aJ and aJ:IsA'TextButton',
-'Button render must include a TextButton surface')local aL=aJ.ContentContainer
-if aD.TextXAlignment then aL.ContentLayout.HorizontalAlignment=Enum.
-HorizontalAlignment[aD.TextXAlignment.Name]aL.ButtonText.TextXAlignment=aD.
-TextXAlignment end if aD.Hovering then ax:insert(aJ.MouseEnter:Connect(function(
-)aD.Hovering:set(true)end))ax:insert(aJ.MouseLeave:Connect(function()aD.Hovering
-:set(false)end))end ax:Hydrate(aJ){AutomaticSize=aD.AutomaticSize or Enum.
-AutomaticSize.None,Interactable=if aD.Interactable==nil then true else aD.
-Interactable,[av]=aD[av]}return ax:Hydrate(aH){Name=aD.Name or'Button',
-AnchorPoint=aD.AnchorPoint or Vector2.zero,Position=aD.Position or UDim2.new(),
-LayoutOrder=aD.LayoutOrder or 0,AutomaticSize=aD.AutomaticSize or Enum.
-AutomaticSize.None,Visible=if aD.Visible==nil then true else aD.Visible,
-Interactable=if aD.Interactable==nil then true else aD.Interactable}end function
-at.action(ax,az,aB,aD)aD=aD or{}local aF=al.new{Scope=ax,Name=aD.Name,
-DefaultImageKey=az,ImageSize=aD.ImageSize or UDim2.fromOffset(15,15),Size=aD.
-Size or UDim2.fromOffset(25,25),Stroke=aD.Stroke,StrokeColor=aD.StrokeColor,
-StrokeThickness=aD.StrokeThickness,LayoutOrder=aD.LayoutOrder,ToggleOnClick=
-false,OnClick=aB}return ax:Hydrate(aF.Root){Name=aD.Name or'ActionButton',
-AnchorPoint=aD.AnchorPoint or Vector2.zero,Position=aD.Position or UDim2.new(),
-Visible=if aD.Visible==nil then true else aD.Visible}end function at.input(ax,az
-,aB,aD,aF)local aH local aJ={Name='Input',Text=az,PlaceholderText=aB,
-ClearTextOnFocus=false,BackgroundTransparency=1,BorderSizePixel=0,TextColor3=ah.
-FgPrimary,PlaceholderColor3=ah.FgTertiary,FontFace=an.Body,TextSize=14,
-TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.Top,
-TextWrapped=true,RichText=false,MultiLine=true,Size=UDim2.fromScale(1,1),[af.
-OnChange'Text']=function(aJ)local aL=aq.boundText(aJ,aD)if aH and aL~=aJ then aH
-.Text=aL end az:set(aL)end}for aL,aN in pairs(aF or{})do aJ[aL]=aN end local aL=
-aJ.AutomaticSize==Enum.AutomaticSize.Y if aL then aJ.AutomaticSize=Enum.
-AutomaticSize.None end aH=ax:New'TextBox'(aJ)if aL then local aN,aO,aP,aQ,aR=aJ.
-Size.Y.Offset,(ax:New'GetTextBoundsParams'{Font=aH.FontFace,Size=aH.TextSize})
-local aS=function()local aS,aT=1,aH while aT do local aU=aT:
-FindFirstChildOfClass'UIScale'if aU then aS*=aU.Scale end aT=aT.Parent end local
-aU,aV=math.max(1,aH.AbsoluteSize.X/math.max(aS,0.001)),aH.Text if aV==aQ and aU
-==aR then return end aQ,aR=aV,aU ar.cancel(aP)aO.Text,aO.Width=aV,aU aP=ar.
-defer(function()local aW,aX=pcall(function()return as:GetTextBoundsAsync(aO)end)
-if aW then aH.Size=UDim2.new(aJ.Size.X.Scale,aJ.Size.X.Offset,0,math.max(aN,math
-.ceil(aX.Y)+2))end end)end ax:insert(aH:GetPropertyChangedSignal'Text':Connect(
-aS))ax:insert(aH:GetPropertyChangedSignal'AbsoluteSize':Connect(aS))ax:insert(
-function()ar.cancel(aP)end)aS()end return aH end function at.scroll(ax,az)local
-aB={Name='List',BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.fromScale(
-1,1),CanvasSize=UDim2.new(),AutomaticCanvasSize=Enum.AutomaticSize.Y,
-ScrollBarThickness=1,ScrollBarImageColor3=ah.FgTertiary,ScrollingDirection=Enum.
-ScrollingDirection.Y,ClipsDescendants=true}for aD,aF in pairs(az or{})do aB[aD]=
-aF end return ax:New'ScrollingFrame'(aB)end function at.author(ax)return if
-type(ax.author)=='table'and type(ax.author.displayName)=='string'then ax.author.
-displayName else'Ethos user'end function at.preview(ax)local az=(ax or''):gsub(
-utf8.char(0x2028),' '):gsub(utf8.char(0x2029),' '):gsub('%s+',' ')return(az:
-gsub('^ ',''):gsub(' $',''))end function at.time(ax)if type(ax)~='number'then
-return''end local az,aB=pcall(function()local az=math.max(0,math.floor((DateTime
-.now().UnixTimestampMillis-ax)/1000))if az<60 then return'Just now'elseif az<
-3600 then return tostring(math.floor(az/60))..'m ago'elseif az<86400 then return
-tostring(math.floor(az/3600))..'h ago'end return tostring(math.floor(az/86400))
-..'d ago'end)return if az then aB else''end function at.category(ax)return if
-type(ax)=='string'then ax:sub(1,1):upper()..ax:sub(2)else''end function at.
-avatar(ax,az,aB)local aD=at.author(az)local aF=aD:sub(1,(utf8.offset(aD,2)or#aD+
-1)-1):upper()return at.heading(ax,aF,{Name='Avatar',BackgroundTransparency=0,
-BackgroundColor3=ah.BgTertiary,TextColor3=ah.AccentPrimary,TextXAlignment=Enum.
-TextXAlignment.Center,Size=UDim2.fromOffset(aB,aB),[av]={ax:New'UICorner'{
-CornerRadius=UDim.new(1,0)}}})end return at end,[
-'components/window/pages/mainPage']=function(aa,ab)local ad=aa.Parent.Parent.
-Parent.Parent.utils local af,ah,aj,ak=ab(ad.animate),ab(ad.images),ab(aa.Parent.
-Parent.sectionLayout),aa.Parent.Parent.Parent.Parent.packages local al,am,an,ao=
-ab(ak.fusion),ab(ak.states),ab(aa.Parent.Parent.Parent.Parent.Internal),ab(aa.
-Parent.Parent.Parent.Parent.storage.theme)local ap,aq,ar,as=an.Scope,al.Children
-,al.OnEvent,aa.Parent.Parent.parts return function(at)b(c(g),d(h),e(false))local
-av,ax,az=(at.Scope or ap):innerScope(),at.Window,at.isTablistCollapsed local aB=
-at.isCompact or av:Value(false)local aD,aF,aH,aJ,aL,aN=ab(aa.Parent.
-communityPage)(av,ax,aB),av:Computed(function(aD)return not aD(ax.CommunityOpen)
-end),av:Computed(function(aD)return aD(am.isCustomContainerToggled)and not aD(ax
-.CommunityOpen)end),at.statuses,at.CreateStatusIndicator,av:Value(nil)local aO=
-ab(aa.Parent.Parent.tooltip){Scope=av,Text='Community',Reference=aN}local aP=ab(
-aa.Parent.Parent.Parent.actionButton).new{Scope=av,Name='OpenCommunity',
-DefaultImageKey='ChatIcon',ActiveImageKey='ChatActiveIcon',IsToggled=ax.
-CommunityOpen,ToggleOnClick=false,LayoutOrder=3,OnMouseEnter=function()aO.
-set_visible(true)end,OnMouseLeave=function()aO.set_visible(false)end,OnClick=
-function()aO.set_visible(false)ax:SetCommunityOpen(not al.peek(ax.CommunityOpen)
-)end}aN:set(aP.Root)ax.ActionButtons.Community=aP local aQ,aR=av:New'Frame'{Name
-='MainPage',BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.fromScale(1,1)
-,[aq]={av:New'Frame'{Name='Tablist',Visible=av:Computed(function(aQ)return not
-aQ(aH)end),BackgroundColor3=ao.BgPrimary,BackgroundTransparency=av:Computed(
-function(aQ)b(c(g),d(h),e(false))return if aQ(aB)then 0 else 1 end),BorderColor3
-=Color3.fromRGB(0,0,0),BorderSizePixel=0,Position=UDim2.fromOffset(0,0),Size=af(
-function(aQ)b(c(g),d(h),e(false))local aR,aS=aQ(az)or aQ(aH),if aQ(aB)then 180
-else 200 return UDim2.new(0,aR and 0 or aS,1,0)end,30,1,av),Interactable=av:
-Computed(function(aQ)b(c(g),d(h),e(false))return not aQ(az)end),ClipsDescendants
-=true,ZIndex=5,[aq]={aD.Navigation,av:New'ScrollingFrame'{Name='Tablist',Visible
-=aF,ScrollBarImageColor3=Color3.fromRGB(32,32,44),ScrollBarThickness=0,
-ScrollingDirection=Enum.ScrollingDirection.Y,BackgroundColor3=Color3.fromRGB(255
-,255,255),BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),
-BorderSizePixel=0,Selectable=false,Size=UDim2.new(1,0,1,-40),AutomaticCanvasSize
-=Enum.AutomaticSize.Y,CanvasSize=UDim2.new(0,0,0,0),[aq]={av:New'UIListLayout'{
-Name='UIListLayout',Padding=UDim.new(0,10),SortOrder=Enum.SortOrder.LayoutOrder}
-,av:New'UIPadding'{Name='UIPadding',PaddingTop=UDim.new(0,4)},av:ForPairs(am.
-Categorys,function(aQ,aR,aS,aT)return aS,aT end)}},av:New'Frame'{Name='Buttons',
+aJ.Window=nil aJ.Scope=nil end return aJ end,['components/window/pages/mainPage'
+]=function(aa,ab)local ad=aa.Parent.Parent.Parent.Parent.utils local af,ah,aj=
+ab(ad.animate),ab(ad.images),aa.Parent.Parent.Parent.Parent.packages local ak,al
+,am,an=ab(aj.fusion),ab(aj.states),ab(aa.Parent.Parent.Parent.Parent.Internal),
+ab(aa.Parent.Parent.Parent.Parent.storage.theme)local ao,ap,aq,ar=am.Scope,ak.
+Children,ak.OnEvent,aa.Parent.Parent.parts return function(as)b(c(g),d(h),e(
+false))local at,av,ax=(as.Scope or ao):innerScope(),as.Window,as.
+isTablistCollapsed local az,aB,aD=as.isCompact or at:Value(false),as.statuses,as
+.CreateStatusIndicator local aF,aH=at:New'Frame'{Name='MainPage',
+BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.fromScale(1,1),[ap]={at:
+New'Frame'{Name='Tablist',BackgroundColor3=an.BgPrimary,BackgroundTransparency=
+at:Computed(function(aF)b(c(g),d(h),e(false))return if aF(az)then 0 else 1 end),
+BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Position=UDim2.fromOffset(0
+,0),Size=af(function(aF)b(c(g),d(h),e(false))local aH,aJ=aF(ax),if aF(az)then
+180 else 200 return UDim2.new(0,aH and 0 or aJ,1,0)end,30,1,at),Interactable=at:
+Computed(function(aF)b(c(g),d(h),e(false))return not aF(ax)end),ClipsDescendants
+=true,ZIndex=5,[ap]={at:New'ScrollingFrame'{Name='Tablist',ScrollBarImageColor3=
+Color3.fromRGB(32,32,44),ScrollBarThickness=0,ScrollingDirection=Enum.
+ScrollingDirection.Y,BackgroundColor3=Color3.fromRGB(255,255,255),
+BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
+Selectable=false,Size=UDim2.fromScale(1,1),AutomaticCanvasSize=Enum.
+AutomaticSize.Y,CanvasSize=UDim2.new(0,0,0,0),[ap]={at:New'UIListLayout'{Name=
+'UIListLayout',Padding=UDim.new(0,10),SortOrder=Enum.SortOrder.LayoutOrder},at:
+New'UIPadding'{Name='UIPadding',PaddingTop=UDim.new(0,4)},at:ForPairs(al.
+Categorys,function(aF,aH,aJ,aL)return aJ,aL end)}},at:New'Frame'{Name=
+'Seperator',BackgroundColor3=an.BgTertiary,BackgroundTransparency=af(function(aF
+)b(c(g),d(h),e(false))return aF(ax)and 1 or 0 end,55,1,at),BorderColor3=Color3.
+fromRGB(0,0,0),BorderSizePixel=0,Position=UDim2.fromScale(1,0),Size=UDim2.new(0,
+-1,1,0)}}},at:New'Frame'{Name='Containers',AnchorPoint=Vector2.new(1,0),
 BackgroundColor3=Color3.fromRGB(255,255,255),BackgroundTransparency=1,
-BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Size=UDim2.new(1,0,0,30),
-AnchorPoint=Vector2.new(0,1),Position=UDim2.fromScale(0,1),[aq]={av:New'Frame'{
-Name='Holder',BackgroundColor3=Color3.fromRGB(255,255,255),
-BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
-Size=UDim2.new(1,0,1,0),[aq]={av:New'UIListLayout'{Name='UIListLayout',SortOrder
-=Enum.SortOrder.LayoutOrder,VerticalAlignment=Enum.VerticalAlignment.Center,
-Padding=UDim.new(0,7),FillDirection=Enum.FillDirection.Horizontal},av:New
-'UIPadding'{Name='UIPadding',PaddingLeft=UDim.new(0,10),PaddingBottom=UDim.new(0
-,10)},av:ForPairs(av:Computed(function()return{Dashboard={Name='Dashboard',
-DefaultImageKey='ModPanelIcon',ActiveImageKey='ModPanelActiveIcon',IsToggled=am.
-isDashboardToggled,LayoutOrder=1},ClientControl={Name='ClientControlContainer',
-DefaultImageKey='ClientControlIcon',ActiveImageKey='ClientControlActiveIcon',
-IsToggled=am.isCustomContainerToggled,LayoutOrder=2}}end),function(aQ,aR,aS,aT)
-local aU=ab(aa.Parent.Parent.Parent.actionButton)local aV=aU.new{Scope=aR,Name=
-aT.Name,DefaultImageKey=aT.DefaultImageKey,ActiveImageKey=aT.ActiveImageKey,
-IsToggled=aT.IsToggled,HasNotification=aT.HasNotification,ShowNotification=aT.
-ShowNotification,LayoutOrder=aT.LayoutOrder,OnClick=function()ax:
-SetCommunityOpen(false)end}ax.ActionButtons[aS]=aV return aS,aV.Root end),aP.
-Root}}}},av:New'Frame'{Name='Seperator',BackgroundColor3=ao.BgTertiary,
-BackgroundTransparency=af(function(aQ)b(c(g),d(h),e(false))return aQ(az)and 1 or
-0 end,55,1,av),BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Position=
-UDim2.fromScale(1,0),Size=UDim2.new(0,-1,1,0)}}},av:New'Frame'{Name='Containers'
-,AnchorPoint=Vector2.new(1,0),BackgroundColor3=Color3.fromRGB(255,255,255),
-BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
-ClipsDescendants=true,Position=UDim2.new(1,0,0,0),Size=af(function(aQ)b(c(g),d(h
-),e(false))local aR=aQ(az)or aQ(aH)if aQ(aB)then return UDim2.fromScale(1,1)end
-return UDim2.new(1,aR and 0 or-200,1,0)end,30,1,av),SelectionGroup=true,[aq]={aD
-.Content,av:New'Frame'{Name='MainControls',BackgroundTransparency=1,Size=UDim2.
-fromScale(1,1),Visible=aF,[aq]={ab(as.statusBar){scope=av,Theme=ao,statuses=aJ,
-States=am,Images=ah,CreateStatusIndicator=aL},av:New'ScrollingFrame'{Name=
-'ClientControlContainer',ScrollBarImageColor3=ao.FgTertiary,ScrollBarThickness=2
-,ScrollingDirection=Enum.ScrollingDirection.Y,BackgroundColor3=Color3.fromRGB(
-255,255,255),BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),
-BorderSizePixel=0,ClipsDescendants=true,Selectable=false,Size=UDim2.new(1,0,1,-
-31),AutomaticCanvasSize=Enum.AutomaticSize.Y,CanvasSize=UDim2.new(0,0,0,0),
-Visible=av:Computed(function(aQ)b(c(g),d(h),e(false))return aQ(am.
-isCustomContainerToggled)and not aQ(ax.Search.Active)end),[aq]={av:New
-'UIListLayout'{SortOrder=Enum.SortOrder.LayoutOrder,HorizontalAlignment=Enum.
-HorizontalAlignment.Center,Padding=UDim.new(0,10)},av:New'UIPadding'{PaddingTop=
-UDim.new(0,10)},ax.ClientControlContainer.Content,aj(av,{Name=
-'ClientControlSections',Sections=ax.ClientControlContainer.Sections,LayoutMode=
-ax.LayoutMode,IsCompact=aB})}},av:ForPairs(am.Containers,function(aQ,aR,aS,aT)
-return aS,aT end),ax.Search:Render(av)}}}},av:New'TextButton'{Name=
+BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,ClipsDescendants=true,
+Position=UDim2.new(1,0,0,0),Size=af(function(aF)b(c(g),d(h),e(false))local aH=
+aF(ax)if aF(az)then return UDim2.fromScale(1,1)end return UDim2.new(1,aH and 0
+or-200,1,0)end,30,1,at),SelectionGroup=true,[ap]={at:New'Frame'{Name=
+'MainControls',BackgroundTransparency=1,Size=UDim2.fromScale(1,1),[ap]={ab(ar.
+statusBar){scope=at,Theme=an,statuses=aB,States=al,Images=ah,
+CreateStatusIndicator=aD},at:ForPairs(al.Containers,function(aF,aH,aJ,aL)return
+aJ,aL end),av.Search:Render(at)}}}},at:New'TextButton'{Name=
 'CompactSidebarScrim',Text='',AutoButtonColor=false,BackgroundColor3=Color3.new(
 0,0,0),BackgroundTransparency=0.45,BorderSizePixel=0,Size=UDim2.fromScale(1,1),
-Visible=av:Computed(function(aQ)b(c(g),d(h),e(false))return aQ(aB)and not aQ(az)
-and not aQ(aH)end),ZIndex=4,[ar'Activated']=function()ax:ToggleTablist()end}}},
-false local aS=function()if aR then return end av:doCleanup()end av:insert(
-function()aR=true end)av:insert(aQ.Destroying:Connect(aS))return aQ end end,[
+Visible=at:Computed(function(aF)b(c(g),d(h),e(false))return aF(az)and not aF(ax)
+end),ZIndex=4,[aq'Activated']=function()av:ToggleTablist()end}}},false local aJ=
+function()if aH then return end at:doCleanup()end at:insert(function()aH=true
+end)at:insert(aF.Destroying:Connect(aJ))return aF end end,[
 'components/window/pages/pageContainer']=function(aa,ab)local ad=aa.Parent.
 Parent.Parent.Parent.packages local af,ah=ab(ad.fusion),ab(aa.Parent.Parent.
 Parent.Parent.Internal)local aj,ak=ah.Scope,af.Children return function(al)b(c(g
@@ -5749,164 +3430,149 @@ Enum.FontWeight.Bold,Enum.FontStyle.Normal)return function(ao)b(c(g),d(h),e(
 false))local ap,aq,ar,as,at,av,ax,az,aB,aD,aF,aH,aJ,aL=ao.scope,ao.Theme,ao.
 Images,ao.animate,ao.Window,ao.MinimizeHovering,ao.MinimizeHeldDown,ao.
 CloseHovering,ao.CloseHeldDown,ao.peek,ao.OnEvent,ao.Title,ao.Tag,ao.Library
-local aN,aO,aP,aQ=ao.IsCompact or ap:Value(false),ap:Computed(function(aN)return
-not aN(at.CommunityOpen)end),ao.pageManager,ap:Value(false)local aR=ap:Computed(
-function(aR)return aR(ao.Size).X<560 and(aR(aQ)or aR(at.Search.Query)~='')end)
-local aS,aT=ap:Computed(function(aS)return aS(ao.Size).X<560 and not aS(aR)end),
-ap:Computed(function(aS)return aS(aO)and aS(aP.currentPage)=='main'and not aS(aR
-)and not aS(at.Search.Active)end)local aU=ap:Computed(function(aU)if aU(at.
-CommunityOpen)then return 0 end if aU(aR)then return math.max(100,aU(ao.Size).X-
-30-(if aU(aN)then 84 else 64))end if aU(aS)then return 32 end return math.clamp(
-aU(ao.Size).X*0.3,110,220)end)local aV,aW=ap:Computed(function(aV)return aV(aU)+
-(if aV(aN)then 84 else 64)+(if aV(aT)then 82 else 0)end),ab(aa.Parent.searchBar
-)(ap,at,aU,aN)ap:Hydrate(aW){Visible=ap:Computed(function(aX)return not aX(aS)
-end)}local aX=aW:FindFirstChild('SearchInput',true)ap:insert(aX.Focused:Connect(
-function()aQ:set(true)end))ap:insert(aX.FocusLost:Connect(function()if aD(at.
-Search.Query)==''then aQ:set(false)end end))local aY,aZ=(ap:Value(nil))local a_=
-function(a_)if a_ and not aZ then aZ=ab(aa.Parent.Parent.tooltip){Scope=ap,Text=
-'Search controls',Reference=aY}end if aZ then aZ.set_visible(a_)end end local a0
-=ap:New'TextButton'{Name='OpenSearch',Text='',AutoButtonColor=false,
-BackgroundColor3=aq.BgPrimary,BorderSizePixel=0,Size=UDim2.fromScale(1,1),
-Visible=aS,[aF'MouseEnter']=function()a_(true)end,[aF'MouseLeave']=function()a_(
-false)end,[aF'SelectionGained']=function()a_(true)end,[aF'SelectionLost']=
-function()a_(false)end,[aF'Activated']=function()a_(false)aQ:set(true)task.
-defer(function()if aX.Parent then aX:CaptureFocus()end end)end,[ap.Children]={ap
-:New'UICorner'{CornerRadius=UDim.new(0,4)},ap:New'UIStroke'{Color=aq.BgTertiary}
-,ar:Track('SearchIcon',ap:New'ImageLabel'{Name='SearchIcon',Image=ar.SearchIcon,
+local aN,aO,aP=ao.IsCompact or ap:Value(false),ao.pageManager,ap:Value(false)
+local aQ=ap:Computed(function(aQ)return aQ(ao.Size).X<560 and(aQ(aP)or aQ(at.
+Search.Query)~='')end)local aR,aS=ap:Computed(function(aR)return aR(ao.Size).X<
+560 and not aR(aQ)end),ap:Computed(function(aR)return aR(aO.currentPage)=='main'
+and not aR(aQ)and not aR(at.Search.Active)end)local aT=ap:Computed(function(aT)
+if aT(aQ)then return math.max(100,aT(ao.Size).X-30-(if aT(aN)then 84 else 64))
+end if aT(aR)then return 32 end return math.clamp(aT(ao.Size).X*0.3,110,220)end)
+local aU,aV=ap:Computed(function(aU)return aU(aT)+(if aU(aN)then 84 else 64)+(if
+aU(aS)then 82 else 0)end),ab(aa.Parent.searchBar)(ap,at,aT,aN)ap:Hydrate(aV){
+Visible=ap:Computed(function(aW)return not aW(aR)end)}local aW=aV:
+FindFirstChild('SearchInput',true)ap:insert(aW.Focused:Connect(function()aP:set(
+true)end))ap:insert(aW.FocusLost:Connect(function()if aD(at.Search.Query)==''
+then aP:set(false)end end))local aX,aY=(ap:Value(nil))local aZ=function(aZ)if aZ
+and not aY then aY=ab(aa.Parent.Parent.tooltip){Scope=ap,Text='Search controls',
+Reference=aX}end if aY then aY.set_visible(aZ)end end local a_=ap:New
+'TextButton'{Name='OpenSearch',Text='',AutoButtonColor=false,BackgroundColor3=aq
+.BgPrimary,BorderSizePixel=0,Size=UDim2.fromScale(1,1),Visible=aR,[aF
+'MouseEnter']=function()aZ(true)end,[aF'MouseLeave']=function()aZ(false)end,[aF
+'SelectionGained']=function()aZ(true)end,[aF'SelectionLost']=function()aZ(false)
+end,[aF'Activated']=function()aZ(false)aP:set(true)task.defer(function()if aW.
+Parent then aW:CaptureFocus()end end)end,[ap.Children]={ap:New'UICorner'{
+CornerRadius=UDim.new(0,4)},ap:New'UIStroke'{Color=aq.BgTertiary},ar:Track(
+'SearchIcon',ap:New'ImageLabel'{Name='SearchIcon',Image=ar.SearchIcon,
 ImageColor3=aq.FgTertiary,BackgroundTransparency=1,AnchorPoint=Vector2.new(0.5,
-0.5),Position=UDim2.fromScale(0.5,0.5),Size=UDim2.fromOffset(16,16)})}}aY:set(a0
-)ap:Observer(aS):onChange(function()if not aD(aS)then a_(false)end end)ap:
-Observer(aO):onChange(function()if not aD(aO)then a_(false)end end)local a1=ak(
-ap,{Name='LayoutSwitcher',Items={{Id='vertical',Title='List layout',Icon=
+0.5),Position=UDim2.fromScale(0.5,0.5),Size=UDim2.fromOffset(16,16)})}}aX:set(a_
+)ap:Observer(aR):onChange(function()if not aD(aR)then aZ(false)end end)local a0=
+ak(ap,{Name='LayoutSwitcher',Items={{Id='vertical',Title='List layout',Icon=
 'rows-3'},{Id='horizontal',Title='Two columns when space allows',Icon=
 'columns-2'}},Value=at.LayoutMode,IconOnly=true,Size=UDim2.fromOffset(72,32),
-OnChanged=function(a1)at:SetLayoutMode(a1)end})ap:Hydrate(a1){Visible=aT,
-LayoutOrder=0}local a2,a3=ap:Value(false),ap:Value(false)local a4,a5,a6,a7,a8=
-as(function(a4)b(c(g),d(h),e(false))if a4(a3)then return a4(aq.FgTertiary)end if
-a4(a2)then return a4(aq.FgSecondary)end return a4(aq.FgPrimary)end,30,1.2,ap),
-as(function(a4)return if a4(at.CommunityOpen)then 1 else 0 end,30,1.2,ap),ap:
-Computed(function(a4)b(c(g),d(h),e(false))if a4(at.CommunityOpen)then return
-true end local a5=a4(aP.breadcrumbs)return type(a5)=='table'and#a5>0 end),ap:
-Computed(function(a4)b(c(g),d(h),e(false))local a5=a4(aH)if not a5 or type(a5)~=
-'string'or a5==''then return'Window'end return a5 end),ap:Computed(function(a4)
-b(c(g),d(h),e(false))if a4(at.CommunityOpen)then return'COMMUNITY'end local a5=
-a4(aP.breadcrumbs)if type(a5)~='table'then return''end local a6=a4(aq.FgTertiary
-):ToHex()return table.concat(a5,string.format(' <font color="#%s">/</font> ',a6)
-)end)return ap:New'Frame'{Name='Topbar',BackgroundColor3=aq.BgPrimaryHighlight,
+OnChanged=function(a0)at:SetLayoutMode(a0)end})ap:Hydrate(a0){Visible=aS,
+LayoutOrder=0}local a1,a2=ap:Value(false),ap:Value(false)local a3,a4,a5,a6=as(
+function(a3)b(c(g),d(h),e(false))if a3(a2)then return a3(aq.FgTertiary)end if
+a3(a1)then return a3(aq.FgSecondary)end return a3(aq.FgPrimary)end,30,1.2,ap),ap
+:Computed(function(a3)b(c(g),d(h),e(false))local a4=a3(aO.breadcrumbs)return
+type(a4)=='table'and#a4>0 end),ap:Computed(function(a3)b(c(g),d(h),e(false))
+local a4=a3(aH)if not a4 or type(a4)~='string'or a4==''then return'Window'end
+return a4 end),ap:Computed(function(a3)b(c(g),d(h),e(false))local a4=a3(aO.
+breadcrumbs)if type(a4)~='table'then return''end local a5=a3(aq.FgTertiary):
+ToHex()return table.concat(a4,string.format(' <font color="#%s">/</font> ',a5))
+end)return ap:New'Frame'{Name='Topbar',BackgroundColor3=aq.BgPrimaryHighlight,
 BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Size=UDim2.new(1,0,0,45),
 ZIndex=1,[ap.Children]={ap:New'Frame'{Name='Seperator',BackgroundColor3=aq.
 BgTertiary,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Position=UDim2.
 new(0,0,1,-1),Size=UDim2.new(1,0,0,1)},ap:New'UICorner'{Name='UICorner',
 CornerRadius=UDim.new(0,4)},ap:New'Frame'{Name='TextHolder',Visible=ap:Computed(
-function(i)return not i(aR)end),BackgroundColor3=Color3.fromRGB(255,255,255),
+function(a7)return not a7(aQ)end),BackgroundColor3=Color3.fromRGB(255,255,255),
 BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
-Position=UDim2.fromOffset(15,0),Size=ap:Computed(function(i)b(c(g),d(h),e(false)
-)if i(at.CommunityOpen)then return UDim2.new(1,-30,1,0)end return UDim2.new(1,-
-i(aV)-42,1,0)end),ClipsDescendants=true,[ap.Children]={ap:New'TextButton'{Name=
-'Title',Text='',AutomaticSize=Enum.AutomaticSize.X,AutoButtonColor=false,
-BackgroundColor3=Color3.fromRGB(255,255,255),BackgroundTransparency=1,
-BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Position=UDim2.fromOffset(
-15,0),Size=UDim2.fromOffset(0,45),[ap.Children]={ap:New'Frame'{Name=
-'CommunityBackArrow',Visible=ap:Computed(function(i)return i(at.CommunityOpen)or
-i(a5)>0.001 end),BackgroundTransparency=1,AnchorPoint=Vector2.new(0,0.5),
-Position=ap:Computed(function(i)return UDim2.new(0,-2-8*(1-i(a5)),0.5,0)end),
-Size=UDim2.fromOffset(18,18),[ap.Children]={ar:Track('arrow-left',ap:New
-'ImageLabel'{Name='Arrow',Image='',BackgroundTransparency=1,ImageColor3=a4,
-ImageTransparency=ap:Computed(function(i)return math.clamp(1-i(a5),0,1)end),Size
-=UDim2.fromScale(1,1)})}},ap:New'Frame'{Name='TitleContent',AutomaticSize=Enum.
-AutomaticSize.X,BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.
-fromOffset(0,45),[ap.Children]={ap:New'TextLabel'{Name='TitleText',FontFace=an,
-Text=a7,TextColor3=a4,TextSize=17,TextXAlignment=Enum.TextXAlignment.Left,
-TextYAlignment=Enum.TextYAlignment.Center,AutomaticSize=Enum.AutomaticSize.X,
-BackgroundColor3=Color3.fromRGB(255,255,255),BackgroundTransparency=1,
-BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Size=UDim2.fromOffset(0,45)
-},ap:New'Frame'{Name='BreadcrumbSeparator',Visible=ap:Computed(function(i)b(c(g)
-,d(h),e(false))return i(a6)and(not i(aN)or i(at.CommunityOpen))end),
-BackgroundColor3=ap:Computed(function(i)b(c(g),d(h),e(false))return af.
-darkenRGB(i(aq.FgTertiary),20)end),BorderColor3=Color3.fromRGB(0,0,0),
-BorderSizePixel=0,Size=UDim2.fromOffset(4,4),[ap.Children]={ap:New'UICorner'{
-Name='UICorner',CornerRadius=UDim.new(1,0)}}},ap:New'TextLabel'{Name=
-'Breadcrumbs',FontFace=am,Text=a8,RichText=true,TextColor3=aq.FgTertiary,
+Position=UDim2.fromOffset(15,0),Size=ap:Computed(function(a7)b(c(g),d(h),e(false
+))return UDim2.new(1,-a7(aU)-42,1,0)end),ClipsDescendants=true,[ap.Children]={ap
+:New'TextButton'{Name='Title',Text='',AutomaticSize=Enum.AutomaticSize.X,
+AutoButtonColor=false,BackgroundColor3=Color3.fromRGB(255,255,255),
+BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
+Position=UDim2.fromOffset(15,0),Size=UDim2.fromOffset(0,45),[ap.Children]={ap:
+New'Frame'{Name='TitleContent',AutomaticSize=Enum.AutomaticSize.X,
+BackgroundTransparency=1,BorderSizePixel=0,Size=UDim2.fromOffset(0,45),[ap.
+Children]={ap:New'TextLabel'{Name='TitleText',FontFace=an,Text=a5,TextColor3=a3,
 TextSize=17,TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.
-TextYAlignment.Center,Visible=ap:Computed(function(i)b(c(g),d(h),e(false))return
-i(a6)and(not i(aN)or i(at.CommunityOpen))end),AutomaticSize=Enum.AutomaticSize.X
-,BackgroundColor3=Color3.fromRGB(255,255,255),BackgroundTransparency=1,
+TextYAlignment.Center,AutomaticSize=Enum.AutomaticSize.X,BackgroundColor3=Color3
+.fromRGB(255,255,255),BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0
+),BorderSizePixel=0,Size=UDim2.fromOffset(0,45)},ap:New'Frame'{Name=
+'BreadcrumbSeparator',Visible=ap:Computed(function(a7)b(c(g),d(h),e(false))
+return a7(a4)and not a7(aN)end),BackgroundColor3=ap:Computed(function(a7)b(c(g),
+d(h),e(false))return af.darkenRGB(a7(aq.FgTertiary),20)end),BorderColor3=Color3.
+fromRGB(0,0,0),BorderSizePixel=0,Size=UDim2.fromOffset(4,4),[ap.Children]={ap:
+New'UICorner'{Name='UICorner',CornerRadius=UDim.new(1,0)}}},ap:New'TextLabel'{
+Name='Breadcrumbs',FontFace=am,Text=a6,RichText=true,TextColor3=aq.FgTertiary,
+TextSize=17,TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.
+TextYAlignment.Center,Visible=ap:Computed(function(a7)b(c(g),d(h),e(false))
+return a7(a4)and not a7(aN)end),AutomaticSize=Enum.AutomaticSize.X,
+BackgroundColor3=Color3.fromRGB(255,255,255),BackgroundTransparency=1,
 BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Size=UDim2.fromOffset(0,45)
 },ap:New'UIListLayout'{Name='UIListLayout',Padding=UDim.new(0,7),FillDirection=
 Enum.FillDirection.Horizontal,SortOrder=Enum.SortOrder.LayoutOrder,
-VerticalAlignment=Enum.VerticalAlignment.Center},ap:New'UIPadding'{PaddingLeft=
-ap:Computed(function(i)return UDim.new(0,25*i(a5))end)}}}},[aF'MouseEnter']=
-function()a2:set(true)end,[aF'MouseLeave']=function()a3:set(false)a2:set(false)
-end,[aF'InputBegan']=function(i)if i.UserInputType==Enum.UserInputType.
-MouseButton1 or i.UserInputType==Enum.UserInputType.Touch then a3:set(true)end
-end,[aF'InputEnded']=function(i)if i.UserInputType==Enum.UserInputType.
-MouseButton1 or i.UserInputType==Enum.UserInputType.Touch then a3:set(false)end
-end,[aF'Activated']=function()if aD(at.CommunityOpen)then at:SetCommunityOpen(
-false)elseif aP:GetCurrentPage().id=='main'then at:ToggleTablist()else aP:
-NavigateBack()end end},ap:New'UIListLayout'{Name='UIListLayout',Padding=UDim.
-new(0,7),FillDirection=Enum.FillDirection.Horizontal,SortOrder=Enum.SortOrder.
-LayoutOrder,VerticalAlignment=Enum.VerticalAlignment.Center},aj(ap,function(i,j)
-local k=j[al]j[al]=nil local l=i:New'ImageLabel'{Name='ButtonHighlight',Image=ar
-.ButtonIcon,Size=UDim2.fromScale(1,1),BackgroundTransparency=1,BackgroundColor3=
-Color3.fromRGB(255,255,255),ImageColor3=Color3.fromRGB(255,255,255),ScaleType=
-Enum.ScaleType.Slice,SliceScale=0.5,SliceCenter=Rect.new(25,25,25,25),Active=
-false,ZIndex=1}return i:New'Frame'(ah(j,{Name='TagHolder',Visible=ap:Computed(
-function(m)b(c(g),d(h),e(false))return not m(aN)or m(at.CommunityOpen)end),
-AutomaticSize=Enum.AutomaticSize.X,BackgroundColor3=aq.AccentPrimary,
-BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Size=UDim2.fromOffset(0,15)
-,[ap.Children]={l,i:New'UIStroke'{Name='AdaptiveHighlightStroke',ApplyStrokeMode
-=Enum.ApplyStrokeMode.Border,Color=Color3.fromRGB(255,255,255),Thickness=1.5,[ap
-.Children]={k}},ap:New'TextLabel'{Name='TagTitle',FontFace=Font.new(
-'rbxassetid://12187365364',Enum.FontWeight.Medium,Enum.FontStyle.Normal),Text=aJ
-,TextColor3=Color3.fromRGB(0,0,0),TextSize=12,AutomaticSize=Enum.AutomaticSize.X
-,BackgroundColor3=Color3.fromRGB(255,255,255),BackgroundTransparency=1,
-BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,Size=UDim2.fromScale(1,1)},
-ap:New'UIPadding'{Name='UIPadding',PaddingLeft=UDim.new(0,5),PaddingRight=UDim.
-new(0,5)},ap:New'UICorner'{Name='UICorner',CornerRadius=UDim.new(0,4)}}}))end,{
-GradientColor=ap:Computed(function(i)b(c(g),d(h),e(false))local j=i(aq.
-AccentPrimary)return ColorSequence.new{ColorSequenceKeypoint.new(0,af.
-lightenRGB(j,35)),ColorSequenceKeypoint.new(1,af.darkenRGB(j,35))}end),
-GradientTransparency=0,GradientProperty=al})}},ap:New'Frame'{Name='ButtonHolder'
-,Visible=aO,AnchorPoint=Vector2.new(1,0),BackgroundColor3=Color3.fromRGB(255,255
-,255),BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),
-BorderSizePixel=0,Position=UDim2.new(1,-15,0,0),Size=ap:Computed(function(i)
-return UDim2.new(0,i(aV),1,0)end),[ap.Children]={ap:New'Frame'{Name=
-'ControlSearchHolder',BackgroundTransparency=1,LayoutOrder=-1,Visible=ap:
-Computed(function(i)return not i(at.CommunityOpen)end),Size=ap:Computed(function
-(i)return UDim2.fromOffset(i(aU),if i(aN)then 32 else 28)end),[ap.Children]={aW,
-a0}},a1,ap:New'UIListLayout'{Name='UIListLayout',Padding=UDim.new(0,10),
-FillDirection=Enum.FillDirection.Horizontal,HorizontalAlignment=Enum.
+VerticalAlignment=Enum.VerticalAlignment.Center}}}},[aF'MouseEnter']=function()
+a1:set(true)end,[aF'MouseLeave']=function()a2:set(false)a1:set(false)end,[aF
+'InputBegan']=function(a7)if a7.UserInputType==Enum.UserInputType.MouseButton1
+or a7.UserInputType==Enum.UserInputType.Touch then a2:set(true)end end,[aF
+'InputEnded']=function(a7)if a7.UserInputType==Enum.UserInputType.MouseButton1
+or a7.UserInputType==Enum.UserInputType.Touch then a2:set(false)end end,[aF
+'Activated']=function()if aO:GetCurrentPage().id=='main'then at:ToggleTablist()
+else aO:NavigateBack()end end},ap:New'UIListLayout'{Name='UIListLayout',Padding=
+UDim.new(0,7),FillDirection=Enum.FillDirection.Horizontal,SortOrder=Enum.
+SortOrder.LayoutOrder,VerticalAlignment=Enum.VerticalAlignment.Center},aj(ap,
+function(a7,a8)local i=a8[al]a8[al]=nil local j=a7:New'ImageLabel'{Name=
+'ButtonHighlight',Image=ar.ButtonIcon,Size=UDim2.fromScale(1,1),
+BackgroundTransparency=1,BackgroundColor3=Color3.fromRGB(255,255,255),
+ImageColor3=Color3.fromRGB(255,255,255),ScaleType=Enum.ScaleType.Slice,
+SliceScale=0.5,SliceCenter=Rect.new(25,25,25,25),Active=false,ZIndex=1}return a7
+:New'Frame'(ah(a8,{Name='TagHolder',Visible=ap:Computed(function(k)b(c(g),d(h),
+e(false))return not k(aN)end),AutomaticSize=Enum.AutomaticSize.X,
+BackgroundColor3=aq.AccentPrimary,BorderColor3=Color3.fromRGB(0,0,0),
+BorderSizePixel=0,Size=UDim2.fromOffset(0,15),[ap.Children]={j,a7:New'UIStroke'{
+Name='AdaptiveHighlightStroke',ApplyStrokeMode=Enum.ApplyStrokeMode.Border,Color
+=Color3.fromRGB(255,255,255),Thickness=1.5,[ap.Children]={i}},ap:New'TextLabel'{
+Name='TagTitle',FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.
+Medium,Enum.FontStyle.Normal),Text=aJ,TextColor3=Color3.fromRGB(0,0,0),TextSize=
+12,AutomaticSize=Enum.AutomaticSize.X,BackgroundColor3=Color3.fromRGB(255,255,
+255),BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel
+=0,Size=UDim2.fromScale(1,1)},ap:New'UIPadding'{Name='UIPadding',PaddingLeft=
+UDim.new(0,5),PaddingRight=UDim.new(0,5)},ap:New'UICorner'{Name='UICorner',
+CornerRadius=UDim.new(0,4)}}}))end,{GradientColor=ap:Computed(function(a7)b(c(g)
+,d(h),e(false))local a8=a7(aq.AccentPrimary)return ColorSequence.new{
+ColorSequenceKeypoint.new(0,af.lightenRGB(a8,35)),ColorSequenceKeypoint.new(1,af
+.darkenRGB(a8,35))}end),GradientTransparency=0,GradientProperty=al})}},ap:New
+'Frame'{Name='ButtonHolder',AnchorPoint=Vector2.new(1,0),BackgroundColor3=Color3
+.fromRGB(255,255,255),BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0
+),BorderSizePixel=0,Position=UDim2.new(1,-15,0,0),Size=ap:Computed(function(a7)
+return UDim2.new(0,a7(aU),1,0)end),[ap.Children]={ap:New'Frame'{Name=
+'ControlSearchHolder',BackgroundTransparency=1,LayoutOrder=-1,Size=ap:Computed(
+function(a7)return UDim2.fromOffset(a7(aT),if a7(aN)then 32 else 28)end),[ap.
+Children]={aV,a_}},a0,ap:New'UIListLayout'{Name='UIListLayout',Padding=UDim.new(
+0,10),FillDirection=Enum.FillDirection.Horizontal,HorizontalAlignment=Enum.
 HorizontalAlignment.Right,SortOrder=Enum.SortOrder.LayoutOrder,VerticalAlignment
 =Enum.VerticalAlignment.Center},ar:Track('MinimizeIcon',ap:New'ImageButton'{Name
-='Minimize',LayoutOrder=1,Image=ar.MinimizeIcon,ImageColor3=as(function(i)b(c(g)
-,d(h),e(false))if i(ax)then return i(aq.FgSecondary)end if i(av)then return i(aq
-.FgPrimary)end return i(aq.FgTertiary)end,25,1,ap),Active=false,AnchorPoint=
-Vector2.new(0.5,0.5),BackgroundColor3=Color3.fromRGB(255,255,255),
+='Minimize',LayoutOrder=1,Image=ar.MinimizeIcon,ImageColor3=as(function(a7)b(c(g
+),d(h),e(false))if a7(ax)then return a7(aq.FgSecondary)end if a7(av)then return
+a7(aq.FgPrimary)end return a7(aq.FgTertiary)end,25,1,ap),Active=false,
+AnchorPoint=Vector2.new(0.5,0.5),BackgroundColor3=Color3.fromRGB(255,255,255),
 BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
-Position=UDim2.fromScale(0.5,0.5),Selectable=false,Size=ap:Computed(function(i)
-b(c(g),d(h),e(false))local j=if i(aN)then 32 else 22 return UDim2.fromOffset(j,j
-)end),[aF'InputEnded']=function(i)if i.UserInputType==Enum.UserInputType.
-MouseButton1 or i.UserInputType==Enum.UserInputType.Touch then ax:set(false)at:
-Minimize()end end,[aF'InputBegan']=function(i)if i.UserInputType==Enum.
-UserInputType.MouseButton1 or i.UserInputType==Enum.UserInputType.Touch then ax:
-set(true)end end,[aF'MouseEnter']=function()av:set(true)end,[aF'MouseLeave']=
+Position=UDim2.fromScale(0.5,0.5),Selectable=false,Size=ap:Computed(function(a7)
+b(c(g),d(h),e(false))local a8=if a7(aN)then 32 else 22 return UDim2.fromOffset(
+a8,a8)end),[aF'InputEnded']=function(a7)if a7.UserInputType==Enum.UserInputType.
+MouseButton1 or a7.UserInputType==Enum.UserInputType.Touch then ax:set(false)at:
+Minimize()end end,[aF'InputBegan']=function(a7)if a7.UserInputType==Enum.
+UserInputType.MouseButton1 or a7.UserInputType==Enum.UserInputType.Touch then ax
+:set(true)end end,[aF'MouseEnter']=function()av:set(true)end,[aF'MouseLeave']=
 function()ax:set(false)av:set(false)end}),ar:Track('CloseIcon',ap:New
 'ImageButton'{Name='Close',LayoutOrder=2,Image=ar.CloseIcon,ImageColor3=as(
-function(i)b(c(g),d(h),e(false))if i(aB)then return i(aq.FgSecondary)end if i(az
-)then return i(aq.FgPrimary)end return i(aq.FgTertiary)end,25,1,ap),Active=false
-,AnchorPoint=Vector2.new(0.5,0.5),BackgroundColor3=Color3.fromRGB(255,255,255),
-BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
-Position=UDim2.fromScale(0.5,0.5),Selectable=false,Size=ap:Computed(function(i)
-b(c(g),d(h),e(false))local j=if i(aN)then 32 else 22 return UDim2.fromOffset(j,j
-)end),[aF'InputEnded']=function(i)if i.UserInputType==Enum.UserInputType.
-MouseButton1 or i.UserInputType==Enum.UserInputType.Touch then aB:set(false)
-local j=at:Dialog{Title='EXIT SCRIPT',Description=
-'Are you sure you want to exit the script?'}j:AddButton{Title='Go Back',Style=
-'default'}j:AddButton{Title='Exit Script',Style='primary',Callback=function()aL:
-Destroy()end}end end,[aF'InputBegan']=function(i)if i.UserInputType==Enum.
-UserInputType.MouseButton1 or i.UserInputType==Enum.UserInputType.Touch then aB:
-set(true)end end,[aF'MouseEnter']=function()az:set(true)end,[aF'MouseLeave']=
-function()az:set(false)aB:set(false)end})}}}}end end,[
+function(a7)b(c(g),d(h),e(false))if a7(aB)then return a7(aq.FgSecondary)end if
+a7(az)then return a7(aq.FgPrimary)end return a7(aq.FgTertiary)end,25,1,ap),
+Active=false,AnchorPoint=Vector2.new(0.5,0.5),BackgroundColor3=Color3.fromRGB(
+255,255,255),BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),
+BorderSizePixel=0,Position=UDim2.fromScale(0.5,0.5),Selectable=false,Size=ap:
+Computed(function(a7)b(c(g),d(h),e(false))local a8=if a7(aN)then 32 else 22
+return UDim2.fromOffset(a8,a8)end),[aF'InputEnded']=function(a7)if a7.
+UserInputType==Enum.UserInputType.MouseButton1 or a7.UserInputType==Enum.
+UserInputType.Touch then aB:set(false)local a8=at:Dialog{Title='EXIT SCRIPT',
+Description='Are you sure you want to exit the script?'}a8:AddButton{Title=
+'Go Back',Style='default'}a8:AddButton{Title='Exit Script',Style='primary',
+Callback=function()aL:Destroy()end}end end,[aF'InputBegan']=function(a7)if a7.
+UserInputType==Enum.UserInputType.MouseButton1 or a7.UserInputType==Enum.
+UserInputType.Touch then aB:set(true)end end,[aF'MouseEnter']=function()az:set(
+true)end,[aF'MouseLeave']=function()az:set(false)aB:set(false)end})}}}}end end,[
 'components/window/section']=function(aa,ab)local ad=aa.Parent.Parent.Parent
 local af,ah,aj,ak,al,am,an,ao,ap,aq=ab(ad.packages.fusion),ab(ad.Internal),ab(ad
 .storage.theme),ab(ad.utils.images),ab(ad.utils.animate),ab(ad.components.ui.
@@ -6112,11 +3778,10 @@ if aN(aL)~=nil then 24 else 0 end),af(function(aN)if aN(aF.LockState.Locked)then
 return aN(az.FgTertiary)end if aN(aF.Selected)then return aN(az.FgPrimary)elseif
 aN(aF.Hovering)then return aN(az.FgSecondary)end return aN(az.FgTertiary)end,25,
 1,aD),aD:Computed(function(aN)b(c(g),d(h),e(false))return not aN(ap.ChatOpen)and
-not(aB.SearchActive and aN(aB.SearchActive))and not aN(ap.
-isCustomContainerToggled)and not aN(ap.isAIChatToggled)and aN(aF.Selected)end)
-local aQ=function(aQ)local aR=aQ:New'ScrollingFrame'{Name=aB.Title,
-ScrollBarImageColor3=az.FgTertiary,ScrollBarThickness=1,ScrollingDirection=Enum.
-ScrollingDirection.Y,BackgroundColor3=Color3.fromRGB(255,255,255),
+not(aB.SearchActive and aN(aB.SearchActive))and not aN(ap.isAIChatToggled)and
+aN(aF.Selected)end)local aQ=function(aQ)local aR=aQ:New'ScrollingFrame'{Name=aB.
+Title,ScrollBarImageColor3=az.FgTertiary,ScrollBarThickness=1,ScrollingDirection
+=Enum.ScrollingDirection.Y,BackgroundColor3=Color3.fromRGB(255,255,255),
 BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
 ClipsDescendants=true,Selectable=false,Size=UDim2.new(1,0,1,-31),
 AutomaticCanvasSize=Enum.AutomaticSize.Y,CanvasSize=UDim2.new(0,0,0,0),
@@ -6241,127 +3906,110 @@ true aD:doCleanup()end,function()aZ=true if aY then aY:Disconnect()aY=nil end
 end aD:insert(a0)aD:insert(aR.Destroying:Connect(a0))return{instance=aR,
 set_visible=function(a1)if not aZ then aF:set(a1)end end,destroy=a_}end return
 aB end,['components/window/window']=function(aa,ab)local ad=aa.Parent.Parent.
-Parent.utils local af,ah,aj,ak,al,am=ab(ad.animate),ab(ad.insertitem),ab(ad.
-services),ab(ad.perf),ab(ad.controlRegistry),aa.Parent.Parent.Parent.packages
-local an,ao,ap,aq,ar,as,at,av,ax,az,aB,aD,aF=ab(am.fusion),ab(am.snapdragon),ab(
-am.states),ab(am.keybindDispatcher),ab(aa.Parent.Parent.Parent.Internal),ab(aa.
-Parent.pages.pageManager),ab(aa.Parent.pages.mainPage),ab(aa.Parent.pages.
-pageContainer),ab(aa.Parent.dialog),ab(aa.Parent.category),ab(aa.Parent.
-sectionBuilder),ab(aa.Parent.Parent.Parent.storage.theme),aa.Parent.
-window_modules local aH,aJ,aL,aN,aO,aP,aQ,aR,aS,aT,aU,aV,aW,aX,aY,aZ,a_,a0,a1,a2
-=ab(aF.constants),ab(aF.statusLogic),ab(aF.statusView),ab(aF.view),ab(aF.
-responsive),ab(aF.interactions.cursor),ab(aF.interactions.resize),ab(aF.
-interactions.drag),ab(aF.interactions.keybind),ab(aF.interactions.viewport),ab(
-aF.robloxTopbarToggle),ar.Scope,an.Children,an.peek,an.OnEvent,aj.Workspace.
-CurrentCamera,aj.UserInputService,aj.GuiService,ab(aa.Parent.Parent.Parent.utils
-.images),aa.Parent.parts return function(a3)b(c(g),d(h),e(false))local a4,a5=(a3
-.Scope or aV):innerScope(),aX(ap.Library)local a6,a7=a5.Connections,{
-ActionButtons={},Categorys=1,ClientControlContainer={Sections=a4:Value(table.
-freeze{}),Content=a4:Value(nil),nSections=0},_dialogInitialized=false,Scope=a4,
-CommunityOpen=a4:Value(false),CommunityOverlay=a4:Value(nil),LayoutMode=a4:
-Value(a3.LayoutMode or'vertical')}assert(aX(a7.LayoutMode)=='vertical'or aX(a7.
+Parent.utils local af,ah,aj,ak,al=ab(ad.animate),ab(ad.services),ab(ad.perf),ab(
+ad.controlRegistry),aa.Parent.Parent.Parent.packages local am,an,ao,ap,aq,ar,as,
+at,av,ax,az,aB=ab(al.fusion),ab(al.snapdragon),ab(al.states),ab(al.
+keybindDispatcher),ab(aa.Parent.Parent.Parent.Internal),ab(aa.Parent.pages.
+pageManager),ab(aa.Parent.pages.mainPage),ab(aa.Parent.pages.pageContainer),ab(
+aa.Parent.dialog),ab(aa.Parent.category),ab(aa.Parent.Parent.Parent.storage.
+theme),aa.Parent.window_modules local aD,aF,aH,aJ,aL,aN,aO,aP,aQ,aR,aS,aT,aU,aV,
+aW,aX,aY,aZ,a_,a0=ab(aB.constants),ab(aB.statusLogic),ab(aB.statusView),ab(aB.
+view),ab(aB.responsive),ab(aB.interactions.cursor),ab(aB.interactions.resize),
+ab(aB.interactions.drag),ab(aB.interactions.keybind),ab(aB.interactions.viewport
+),ab(aB.robloxTopbarToggle),aq.Scope,am.Children,am.peek,am.OnEvent,ah.Workspace
+.CurrentCamera,ah.UserInputService,ah.GuiService,ab(aa.Parent.Parent.Parent.
+utils.images),aa.Parent.parts return function(a1)b(c(g),d(h),e(false))local a2,
+a3=(a1.Scope or aT):innerScope(),aV(ao.Library)local a4,a5=a3.Connections,{
+ActionButtons={},Categorys=1,_dialogInitialized=false,Scope=a2,LayoutMode=a2:
+Value(a1.LayoutMode or'vertical')}assert(aV(a5.LayoutMode)=='vertical'or aV(a5.
 LayoutMode)=='horizontal','LayoutMode must be vertical or horizontal')function
-a7.SetLayoutMode(a8,i)assert(i=='vertical'or i=='horizontal',
-'LayoutMode must be vertical or horizontal')a7.LayoutMode:set(i)end local a8=as.
-new(a4)a7.Search=ab(aF.controlSearch)(a4)a4:Observer(ap.isCustomContainerToggled
-):onChange(function()a7.Search:SetQuery''end)local i,j=a_.MouseIconEnabled,a4:
-Value(false)a7.IsOpen=j local k,l,m,n,o,q,r=a4:Value(false),a4:Value(UDim2.
-fromOffset(0,0)),a4:Value(),a4:Value(),a4:Value(),a4:Value(),a0:GetInsetArea(
-Enum.ScreenInsets.DeviceSafeInsets)local s=r.Max-r.Min if s.X<=0 or s.Y<=0 then
-s=aZ.ViewportSize end local t,u=aO.resolveSize(a3.Size,s),ap.EffectiveDPIScale u
-:set(aO.getEffectiveScale(aX(ap.DPIScale),s,aH.Window))local v,w,x,y,z,A=a4:
-Value(aO.fitWindowSize(t,s,aH.Window,aX(u))),a4:Value(false),a4:Value(false),a4:
-Value(false),a4:Value(false),a4:Value(Vector2.new(a3.Size.X.Offset,a3.Size.Y.
-Offset))local B,D,E=a4:Computed(function(B)b(c(g),d(h),e(false))return aO.
-isCompact(B(v),aH.Window)end),a4:Value(false),a4:Value(false)function a7.
-CloseCompactTablist(F)if aX(B)then E:set(false)end end function a7.
-SetCommunityOpen(F,G)if aX(a7.CommunityOpen)==(G==true)then return end a7.Search
-:SetQuery''a7.CommunityOpen:set(G==true)a7:CloseCompactTablist()end local F,G,H=
-a4:Computed(function(F)b(c(g),d(h),e(false))if F(B)then return not F(E)end
-return F(D)end),a4:Value(false),aX(B)a4:Observer(B):onChange(function()local I=
-aX(B)if I and not H then E:set(false)end H=I end)local I=aJ{scope=a4,States=ap,
-peek=aX,validStatusTypes=aH.Status.ValidTypes}a8:RegisterPage('main',{title=
-'Main',component=function(J)return at{Scope=J,Window=a7,isTablistCollapsed=F,
-isCompact=B,statuses=I.statuses,CreateStatusIndicator=function(L,N,P)return aL.
-createStatusIndicator(L,aD,aW,N,P)end}end,showTablist=true,showContainers=true,
-breadcrumbPath={}})a8:NavigateTo('main',false)local J=false function a7.Minimize
-(L)ak.mark'window:minimize'ak.profile('window:minimize',function()local N=not
-aX(j)if not N then aq.cancelCapture'window closed'end j:set(N)if not N and not J
-then J=true local P=a5.MinimizeKeybind and a5.MinimizeKeybind.Value or'Unknown'
-local R=if a_.TouchEnabled then
+a5.SetLayoutMode(a6,a7)assert(a7=='vertical'or a7=='horizontal',
+'LayoutMode must be vertical or horizontal')a5.LayoutMode:set(a7)end local a6=ar
+.new(a2)a5.Search=ab(aB.controlSearch)(a2)local a7,a8=aY.MouseIconEnabled,a2:
+Value(false)a5.IsOpen=a8 local i,j,k,l,m,n,o=a2:Value(false),a2:Value(UDim2.
+fromOffset(0,0)),a2:Value(),a2:Value(),a2:Value(),a2:Value(),aZ:GetInsetArea(
+Enum.ScreenInsets.DeviceSafeInsets)local q=o.Max-o.Min if q.X<=0 or q.Y<=0 then
+q=aX.ViewportSize end local r,s=aL.resolveSize(a1.Size,q),ao.EffectiveDPIScale s
+:set(aL.getEffectiveScale(aV(ao.DPIScale),q,aD.Window))local t,u,v,w,x,y=a2:
+Value(aL.fitWindowSize(r,q,aD.Window,aV(s))),a2:Value(false),a2:Value(false),a2:
+Value(false),a2:Value(false),a2:Value(Vector2.new(a1.Size.X.Offset,a1.Size.Y.
+Offset))local z,A,B=a2:Computed(function(z)b(c(g),d(h),e(false))return aL.
+isCompact(z(t),aD.Window)end),a2:Value(false),a2:Value(false)function a5.
+CloseCompactTablist(D)if aV(z)then B:set(false)end end local D,E,F=a2:Computed(
+function(D)b(c(g),d(h),e(false))if D(z)then return not D(B)end return D(A)end),
+a2:Value(false),aV(z)a2:Observer(z):onChange(function()local G=aV(z)if G and not
+F then B:set(false)end F=G end)local G=aF{scope=a2,States=ao,peek=aV,
+validStatusTypes=aD.Status.ValidTypes}a6:RegisterPage('main',{title='Main',
+component=function(H)return as{Scope=H,Window=a5,isTablistCollapsed=D,isCompact=
+z,statuses=G.statuses,CreateStatusIndicator=function(I,J,L)return aH.
+createStatusIndicator(I,az,aU,J,L)end}end,showTablist=true,showContainers=true,
+breadcrumbPath={}})a6:NavigateTo('main',false)local H=false function a5.Minimize
+(I)aj.mark'window:minimize'aj.profile('window:minimize',function()local J=not
+aV(a8)if not J then ap.cancelCapture'window closed'end a8:set(J)if not J and not
+H then H=true local L=a3.MinimizeKeybind and a3.MinimizeKeybind.Value or
+'Unknown'local N=if aY.TouchEnabled then
 [[Tap the Ethos button in the Roblox topbar to toggle the interface again.]]else
-'Click the Ethos button in the Roblox topbar or press '..tostring(P)..
-' to toggle the interface again.'a5:Notify{Title='Interface Minimized',
-Description=R,Duration=6,Type='info'}end end)end local L=aT.
-createResizeWindowToViewport{props=a3,Camera=aZ,Workspace=aj.Workspace,
-GuiService=a0,Size=v,RequestedScale=ap.DPIScale,WindowScale=u,peek=aX,constants=
-aH}local N=aN{scope=a4,Theme=aD,Images=a1,Parts=a2,animate=af,OnEvent=aY,
-Children=aW,Window=a7,props=a3,openedState=j,Size=v,WindowScale=u,isCompact=B,
-isDragging=G,Resizing=o,ResizePos=q,InitialResizeSize=A,TopbarRef=m,ResizeRef=n,
-MinimizeHovering=w,MinimizeHeldDown=x,CloseHovering=y,CloseHeldDown=z,
-isTablistCollapsed=F,pageManager=a8,initialPosition=L(),Library=a5,PageContainer
-=av,peek=aX}local P=function()local P=aX(a7.CommunityOverlay)if P then P.Parent=
-N.Root end end a4:Observer(a7.CommunityOverlay):onChange(P)P()function a7.Dialog
-(R,T)if not a7._dialogInitialized then a7._dialogInitialized=true ax:init(N.Root
-,a4)end local V=ax:Create(T)return V end a7.WindowContainer=N.WindowContainer a7
-.RootFrame=N.Root ap.add('Objects',N.WindowContainer,a3.Title)function a7.
-ResetPosition(R)o:set(false)N.WindowContainer.Position=L()end a4:Observer(ap.
-DPIScale):onChange(function()a7:ResetPosition()end)aP{scope=a4,UserInputService=
-a_,openedState=j,cursorVisible=k,cursorPosition=l,initialCursorState=i,
-WindowRoot=N.Root,ShowCustomCursor=ap.ShowCustomCursor,connections=a6,peek=aX,
-constants=aH,createCursor=function(R)ap.add('Objects',R:New'ImageLabel'{Name=
-'Cursor',Image=a1.Cursor,ImageColor3=aD.AccentPrimary,BackgroundColor3=Color3.
-fromRGB(255,255,255),BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0)
-,BorderSizePixel=0,Position=l,Size=UDim2.fromOffset(aH.Cursor.Size.X,aH.Cursor.
-Size.Y),Visible=k,ZIndex=aH.Cursor.ZIndex},'Cursor')end}aQ{scope=a4,
-UserInputService=a_,Camera=aZ,GuiService=a0,Resizing=o,ResizePos=q,
-InitialResizeSize=A,Size=v,WindowScale=u,peek=aX,constants=aH}aT.
-bindViewportResize{Camera=aZ,Workspace=aj.Workspace,GuiService=a0,
-WindowContainer=N.WindowContainer,isDragging=G,Resizing=o,resizeWindowToViewport
-=L,peek=aX,constants=aH,openedState=j,scope=a4}aR{scope=a4,Snapdragon=ao,
-TopbarRef=m,WindowContainer=N.WindowContainer,isDragging=G,openedState=j,peek=aX
-}aS{UserInputService=a_,connections=a6,Library=a5,Window=a7}local R,T=false
-function a7.SetSilentMode(V,X)if T then T:SetEnabled(a_.TouchEnabled or not X)
-end end function a7.Init(V)local X=aX(ap.Library)if X.Server and X.Server.
-control then X.Server.control:start(a7,X)if not a7.ClientControl then a7.
-ClientControl=ab(aa.Parent.clientControl)(a7,X.Server.control)a7.
-ClientControlContainer.Content:set(a7.ClientControl.Root)end end if X.
-SaveManager then X.SaveManager:LoadAutoloadConfig()end if not R then R=true
-local Z,a9,ba=nil,pcall(game.GetService,game,'CoreGui')if a9 then Z=ba end if Z
-then T=aU{scope=a4,Theme=aD,Children=aW,OnEvent=aY,CoreGui=Z,RegisterFontRoot=a3
-.RegisterFontRoot,openedState=j,Window=a7}end end a7:SetSilentMode(X.SilentMode)
-if not X.SilentMode then j:set(true)end end function a7.AddCategory(a9,ba)local
-V,X=az{Title=ba.Title,Icon=ba.Icon,Locked=ba.Locked,LockReason=ba.LockReason,
-Order=a7.Categorys,Scope=a4,IsTablistCollapsed=F,IsCompact=B,OnTabSelected=
-function()a7.Search:SetQuery''if aX(B)then E:set(false)end end,SearchActive=a7.
-Search.Active,LayoutMode=a7.LayoutMode},al.registerCategory{title=ba.Title,order
-=a7.Categorys,windowTitle=a3.Title}V.AgentContext={windowTitle=a3.Title,
-categoryId=X.id,categoryTitle=X.title}ap.add('Categorys',V.Root,ba.Title)a7.
-Categorys+=1 return V end function a7.SetConnectionStatus(a9,ba,V)I.
-setConnectionStatus(ba,V)end function a7.ToggleTablist(a9)if aX(B)then E:set(not
-aX(E))else D:set(not aX(D))end end function a7.NavigateTo(a9,ba)return a8:
-NavigateTo(ba)end function a7.NavigateBack(a9)return a8:NavigateBack()end
-function a7.RegisterPage(a9,ba,V)return a8:RegisterPage(ba,V)end function a7.
-GetCurrentPage(a9)return a8:GetCurrentPage()end function a7.GetPageManager(a9)
-return a8 end function a7.AddTag(a9,ba)local V,X=a4:New'Frame'{Name='TagHolder',
-AutomaticSize=Enum.AutomaticSize.X,BackgroundColor3=aD.AccentPrimary,
+'Click the Ethos button in the Roblox topbar or press '..tostring(L)..
+' to toggle the interface again.'a3:Notify{Title='Interface Minimized',
+Description=N,Duration=6,Type='info'}end end)end local I=aR.
+createResizeWindowToViewport{props=a1,Camera=aX,Workspace=ah.Workspace,
+GuiService=aZ,Size=t,RequestedScale=ao.DPIScale,WindowScale=s,peek=aV,constants=
+aD}local J=aJ{scope=a2,Theme=az,Images=a_,Parts=a0,animate=af,OnEvent=aW,
+Children=aU,Window=a5,props=a1,openedState=a8,Size=t,WindowScale=s,isCompact=z,
+isDragging=E,Resizing=m,ResizePos=n,InitialResizeSize=y,TopbarRef=k,ResizeRef=l,
+MinimizeHovering=u,MinimizeHeldDown=v,CloseHovering=w,CloseHeldDown=x,
+isTablistCollapsed=D,pageManager=a6,initialPosition=I(),Library=a3,PageContainer
+=at,peek=aV}function a5.Dialog(L,N)if not a5._dialogInitialized then a5.
+_dialogInitialized=true av:init(J.Root,a2)end local P=av:Create(N)return P end
+a5.WindowContainer=J.WindowContainer a5.RootFrame=J.Root ao.add('Objects',J.
+WindowContainer,a1.Title)function a5.ResetPosition(L)m:set(false)J.
+WindowContainer.Position=I()end a2:Observer(ao.DPIScale):onChange(function()a5:
+ResetPosition()end)aN{scope=a2,UserInputService=aY,openedState=a8,cursorVisible=
+i,cursorPosition=j,initialCursorState=a7,WindowRoot=J.Root,ShowCustomCursor=ao.
+ShowCustomCursor,connections=a4,peek=aV,constants=aD,createCursor=function(L)ao.
+add('Objects',L:New'ImageLabel'{Name='Cursor',Image=a_.Cursor,ImageColor3=az.
+AccentPrimary,BackgroundColor3=Color3.fromRGB(255,255,255),
 BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
-Size=UDim2.fromOffset(0,15),[aW]={a4:New'TextLabel'{Name='TagTitle',FontFace=
-Font.new('rbxassetid://12187365364',Enum.FontWeight.Medium,Enum.FontStyle.Normal
-),Text=ba or'TAG',TextColor3=aD.FgTertiary,TextSize=12,AutomaticSize=Enum.
-AutomaticSize.X,BackgroundColor3=Color3.fromRGB(255,255,255),
+Position=j,Size=UDim2.fromOffset(aD.Cursor.Size.X,aD.Cursor.Size.Y),Visible=i,
+ZIndex=aD.Cursor.ZIndex},'Cursor')end}aO{scope=a2,UserInputService=aY,Camera=aX,
+GuiService=aZ,Resizing=m,ResizePos=n,InitialResizeSize=y,Size=t,WindowScale=s,
+peek=aV,constants=aD}aR.bindViewportResize{Camera=aX,Workspace=ah.Workspace,
+GuiService=aZ,WindowContainer=J.WindowContainer,isDragging=E,Resizing=m,
+resizeWindowToViewport=I,peek=aV,constants=aD,openedState=a8,scope=a2}aP{scope=
+a2,Snapdragon=an,TopbarRef=k,WindowContainer=J.WindowContainer,isDragging=E,
+openedState=a8,peek=aV}aQ{UserInputService=aY,connections=a4,Library=a3,Window=
+a5}local L,N=false function a5.SetSilentMode(P,R)if N then N:SetEnabled(aY.
+TouchEnabled or not R)end end function a5.Init(P)local R=aV(ao.Library)if R.
+SaveManager then R.SaveManager:LoadAutoloadConfig()end if not L then L=true
+local T,V,X=nil,pcall(game.GetService,game,'CoreGui')if V then T=X end if T then
+N=aS{scope=a2,Theme=az,Children=aU,OnEvent=aW,CoreGui=T,RegisterFontRoot=a1.
+RegisterFontRoot,openedState=a8,Window=a5}end end a5:SetSilentMode(R.SilentMode)
+if not R.SilentMode then a8:set(true)end end function a5.AddCategory(P,R)local T
+,V=ax{Title=R.Title,Icon=R.Icon,Locked=R.Locked,LockReason=R.LockReason,Order=a5
+.Categorys,Scope=a2,IsTablistCollapsed=D,IsCompact=z,OnTabSelected=function()a5.
+Search:SetQuery''if aV(z)then B:set(false)end end,SearchActive=a5.Search.Active,
+LayoutMode=a5.LayoutMode},ak.registerCategory{title=R.Title,order=a5.Categorys,
+windowTitle=a1.Title}T.AgentContext={windowTitle=a1.Title,categoryId=V.id,
+categoryTitle=V.title}ao.add('Categorys',T.Root,R.Title)a5.Categorys+=1 return T
+end function a5.SetConnectionStatus(P,R,T)G.setConnectionStatus(R,T)end function
+a5.ToggleTablist(P)if aV(z)then B:set(not aV(B))else A:set(not aV(A))end end
+function a5.NavigateTo(P,R)return a6:NavigateTo(R)end function a5.NavigateBack(P
+)return a6:NavigateBack()end function a5.RegisterPage(P,R,T)return a6:
+RegisterPage(R,T)end function a5.GetCurrentPage(P)return a6:GetCurrentPage()end
+function a5.GetPageManager(P)return a6 end function a5.AddTag(P,R)local T,V=a2:
+New'Frame'{Name='TagHolder',AutomaticSize=Enum.AutomaticSize.X,BackgroundColor3=
+az.AccentPrimary,BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),
+BorderSizePixel=0,Size=UDim2.fromOffset(0,15),[aU]={a2:New'TextLabel'{Name=
+'TagTitle',FontFace=Font.new('rbxassetid://12187365364',Enum.FontWeight.Medium,
+Enum.FontStyle.Normal),Text=R or'TAG',TextColor3=az.FgTertiary,TextSize=12,
+AutomaticSize=Enum.AutomaticSize.X,BackgroundColor3=Color3.fromRGB(255,255,255),
 BackgroundTransparency=1,BorderColor3=Color3.fromRGB(0,0,0),BorderSizePixel=0,
-Size=UDim2.fromScale(1,1)},a4:New'UIPadding'{Name='UIPadding',PaddingLeft=UDim.
-new(0,5),PaddingRight=UDim.new(0,5)},a4:New'UICorner'{Name='UICorner',
-CornerRadius=UDim.new(0,4)},a4:New'UIStroke'{Name='UIStroke',Color=aD.BgTertiary
-,Thickness=1.75}}},aX(m).TextHolder V.Parent=X return V end function a7.
-AddStatus(a9,ba,V,X)return I.addStatus(ba,V,X)end function a7.
-AddClientControlSection(a9,ba)local V=aB{Title=ba.Title,Icon=ba.Icon,Order=a7.
-ClientControlContainer.nSections,Collapsed=ba.Collapsed,Side=ba.Side,Suspended=
-a7.Search.Active,Scope=a4,LayoutMode=a7.LayoutMode,AgentContext={windowTitle=a3.
-Title,sectionKind='client_control'}}ah(a7.ClientControlContainer.Sections,V.
-Component)a7.ClientControlContainer.nSections+=1 return V end ar.Maid:GiveTask(
-function()pcall(function()a_.MouseIconEnabled=i end)end)return a7 end end,[
+Size=UDim2.fromScale(1,1)},a2:New'UIPadding'{Name='UIPadding',PaddingLeft=UDim.
+new(0,5),PaddingRight=UDim.new(0,5)},a2:New'UICorner'{Name='UICorner',
+CornerRadius=UDim.new(0,4)},a2:New'UIStroke'{Name='UIStroke',Color=az.BgTertiary
+,Thickness=1.75}}},aV(k).TextHolder T.Parent=V return T end function a5.
+AddStatus(P,R,T,V)return G.addStatus(R,T,V)end aq.Maid:GiveTask(function()pcall(
+function()aY.MouseIconEnabled=a7 end)end)return a5 end end,[
 'components/window/window_modules/constants']=function(aa,ab)local ad,af,ah=
 table.freeze{ValidTypes=table.freeze{success=true,info=true,warning=true,danger=
 true}},table.freeze{MinSize=Vector2.new(400,300),MinScaleSize=Vector2.new(320,
@@ -6753,13 +4401,13 @@ _EXTREMELY_DANGEROUS_usedAsValue=(aS._goal)return false end local aU,aV=at(aS,aT
 return false end local aX=typeof(aU)local aY,aZ=(aX~=aS._activeType)if aY then
 aZ=aU else local a_,a0,a1,a2=aL(aW,aS._activeDamping,aS._activeSpeed)local a3=
 false for a4=1,aS._activeNumSprings do local a5,a6,a7=aS._activeStartP[a4],aS.
-_activeTargetP[a4],aS._activeStartV[a4]local a8=a5-a6 local a9,ba=a8*a_+a7*a0,a8
-*a1+a7*a2 if a9~=a9 or ba~=ba then ar.logWarn'springNanMotion'a9,ba=0,0 end if
-math.abs(a9)>aO or math.abs(ba)>aO then a3=true end local i=a9+a6 aS.
-_activeLatestP[a4]=i aS._activeLatestV[a4]=ba end if not a3 and aV:isPlaying()
-then aS._activeLatestP=table.clone(aS._activeTargetP)aS._activeLatestV=table.
-create(aS._activeNumSprings,0)aV:pause()aV:zero()end aZ=(aH(aS._activeLatestP,aS
-._activeType))end local a_,a0=(aB(aS._speed)),(aB(aS._damping))if aY or aU~=aS.
+_activeTargetP[a4],aS._activeStartV[a4]local a8=a5-a6 local i,j=a8*a_+a7*a0,a8*
+a1+a7*a2 if i~=i or j~=j then ar.logWarn'springNanMotion'i,j=0,0 end if math.
+abs(i)>aO or math.abs(j)>aO then a3=true end local k=i+a6 aS._activeLatestP[a4]=
+k aS._activeLatestV[a4]=j end if not a3 and aV:isPlaying()then aS._activeLatestP
+=table.clone(aS._activeTargetP)aS._activeLatestV=table.create(aS.
+_activeNumSprings,0)aV:pause()aV:zero()end aZ=(aH(aS._activeLatestP,aS.
+_activeType))end local a_,a0=(aB(aS._speed)),(aB(aS._damping))if aY or aU~=aS.
 _activeGoal or a_~=aS._activeSpeed or a0~=aS._activeDamping then aS.
 _activeTargetP=aJ(aU,aX)aS._activeNumSprings=#aS._activeTargetP if aY then aS.
 _activeStartP=table.clone(aS._activeTargetP)aS._activeLatestP=table.clone(aS.
@@ -7499,62 +5147,61 @@ a8 end end if a6 then for a8 in as,a7 do return a8:FindFirstChild(a5,true)end
 end end},FindFirstAncestor={{'string'},function(a4,a5)local a6=a4.Parent while
 a6 do if a6.Name==a5 then return a6 end a6=a6.Parent end end},WaitForChild={{
 'string','number?'},function(a4,a5)return a4:FindFirstChild(a5)end}},{}for a6,a7
-in as,a4 do local a8,a9,ba=a7[1],a7[2],{}for i,j in as,a8 do local k,l=aT(j,
-'^([^%?]+)(%??)')ba[i]={k,l}end a5[a6]=function(i,...)if not a3[i]then ar(
-"Expected ':' not '.' calling member function "..a6,2)end local j={...}for k,l
-in as,ba do local m=j[k]local n,o,q=aB(m),l[1],l[2]if m==nil and not q then ar(
-'Argument '..m..' missing or nil',3)end if o~='any'and n~=o and not(n=='nil'and
-q)then ar('Argument '..k..' expects type "'..o..'", got "'..n..'"',2)end end
-return a9(i,...)end end local a6=function(a6,a7,a8)local a9,ba=(aq({},{__mode=
-'k'}))local i,j,k,l=function(i)ar(i..' is not a valid (virtual) member of '..a6
-..' "'..a7..'"',3)end,function(i)ar('Unable to assign (virtual) property '..i..
-'. Property is read only',3)end,{},{}l.__metatable=false l.__index=function(m,n)
-if n=='ClassName'then return a6 elseif n=='Name'then return a7 elseif n==
-'Parent'then return a8 elseif a6=='StringValue'and n=='Value'then return ba else
-local o=a5[n]if o then return o end end for o in as,a9 do if o.Name==n then
-return o end end i(n)end l.__newindex=function(m,n,o)if n=='ClassName'then j(n)
-elseif n=='Name'then a7=o elseif n=='Parent'then if o==k then return end if a8~=
-nil then a3[a8][k]=nil end a8=o if o~=nil then a3[o][k]=true end elseif a6==
-'StringValue'and n=='Value'then ba=o else i(n)end end l.__tostring=function()
-return a7 end aq(k,l)a3[k]=a9 if a8~=nil then a3[a8][k]=true end return k end
-local function a7(a8,a9)local ba,i,j,k=a8[1],a8[2],a8[3],a8[4]local l=aX[i]local
-m=j and aP(j,1)or l local n=a6(l,m,a9)aY[ba]=n if j then for o,q in as,j do n[o]
-=q end end if k then for o,q in as,k do a7(q,n)end end return n end local a8=a6(
-'Folder','['..an..']')for a9,ba in as,al do a7(ba,a8)end for a9,ba in as,ak do
-local i=aY[a9]aZ[i]=ba a_[i]=a9 local j=i.ClassName if j=='LocalScript'or j==
-'Script'then aO(a1,i)end end local a9=function(a9)local ba,i=a9.ClassName,a0[a9]
-if i and ba=='ModuleScript'then return av(i)end local j,k=aZ[a9],function(j)j=
-aH(j)local k,l,m=a9:GetFullName(),aT(j,'[^:]+:(%d+): (.+)')if not l or not aN
-then return k..':*: '..(m or j)end l=aJ(l)local n=a_[a9]local o=aN[n]local q=l-o
-+1 if q<0 then q='?'end return k..':'..q..': '..m end if ba=='LocalScript'or ba
-=='Script'then local l,m=aF(j)if not l then ar(k(m),0)end else local l={aF(j)}
-local m=aP(l,1)if not m then local n=aP(l,1)ar(k(n),0)end a0[a9]=l return av(l)
-end end function af(ba)local i,j,k=aY[ba],function(i,...)local j={aF(i,...)}
-local k=aP(j,1)if not k then ar(j[1],3)end return av(j)end,aQ(aq({},{__index=a2,
-__newindex=function(i,j,k)a2[j]=k end,__len=function()return#a2 end,__iter=
-function()return as,a2 end}))local l,m,n=aQ{version=am,envname=an,shared=k,
-script=az,require=aD},i,function(l,...)local m,n,o=aB(l),
-'Attempted to call require with a non-ModuleScript',
-'Attempted to call require with self'if m=='table'and a3[l]then if l.ClassName~=
-'ModuleScript'then ar(n,2)elseif l==i then ar(o,2)end return a9(l)elseif m==
-'string'and aS(l,1,1)~='@'then if#l==0 then ar(
-'Attempted to call require with empty string',2)end local q=i if aS(l,1,1)=='/'
-then q=a8 elseif aS(l,1,2)=='./'then l=aS(l,3)end local r for s in aU(l,
-'([^/]*)/?')do local t=s if s=='..'then t='Parent'end if t~=''then local u=q:
-FindFirstChild(t)if not u then local v=q.Parent if v then u=v:FindFirstChild(t)
-end end if u then q=u elseif s~=r and s~='init'and s~='init.server'and s~=
-'init.client'then ar('Virtual script path "'..l..'" not found',2)end end r=s end
-if q.ClassName~='ModuleScript'then ar(n,2)elseif q==i then ar(o,2)end return a9(
-q)end return j(aD,l,...)end return l,m,n end for ba,i in as,a1 do aW(a9,i)end
-return a9(a8:GetChildren()[1])end,['packages/maid']=function(aa,ab)local ad={}ad
-.ClassName='Maid'function ad.new()return setmetatable({_tasks={}},ad)end
-function ad.isMaid(af)return type(af)=='table'and af.ClassName=='Maid'end
-function ad.__index(af,ah)if ad[ah]then return ad[ah]else return af._tasks[ah]
-end end function ad.__newindex(af,ah,aj)if ad[ah]~=nil then error((
-"'%s' is reserved"):format(tostring(ah)),2)end local ak=af._tasks local al=ak[ah
-]if al==aj then return end ak[ah]=aj if al then if type(al)=='function'then al()
-elseif typeof(al)=='RBXScriptConnection'then al:Disconnect()elseif al.Destroy
-then al:Destroy()end end end function ad.GiveTask(af,ah)if not ah then error(
+in as,a4 do local a8,i,j=a7[1],a7[2],{}for k,l in as,a8 do local m,n=aT(l,
+'^([^%?]+)(%??)')j[k]={m,n}end a5[a6]=function(k,...)if not a3[k]then ar(
+"Expected ':' not '.' calling member function "..a6,2)end local l={...}for m,n
+in as,j do local o=l[m]local q,r,s=aB(o),n[1],n[2]if o==nil and not s then ar(
+'Argument '..o..' missing or nil',3)end if r~='any'and q~=r and not(q=='nil'and
+s)then ar('Argument '..m..' expects type "'..r..'", got "'..q..'"',2)end end
+return i(k,...)end end local a6=function(a6,a7,a8)local i,j=(aq({},{__mode='k'})
+)local k,l,m,n=function(k)ar(k..' is not a valid (virtual) member of '..a6..' "'
+..a7..'"',3)end,function(k)ar('Unable to assign (virtual) property '..k..
+'. Property is read only',3)end,{},{}n.__metatable=false n.__index=function(o,q)
+if q=='ClassName'then return a6 elseif q=='Name'then return a7 elseif q==
+'Parent'then return a8 elseif a6=='StringValue'and q=='Value'then return j else
+local r=a5[q]if r then return r end end for r in as,i do if r.Name==q then
+return r end end k(q)end n.__newindex=function(o,q,r)if q=='ClassName'then l(q)
+elseif q=='Name'then a7=r elseif q=='Parent'then if r==m then return end if a8~=
+nil then a3[a8][m]=nil end a8=r if r~=nil then a3[r][m]=true end elseif a6==
+'StringValue'and q=='Value'then j=r else k(q)end end n.__tostring=function()
+return a7 end aq(m,n)a3[m]=i if a8~=nil then a3[a8][m]=true end return m end
+local function a7(a8,i)local j,k,l,m=a8[1],a8[2],a8[3],a8[4]local n=aX[k]local o
+=l and aP(l,1)or n local q=a6(n,o,i)aY[j]=q if l then for r,s in as,l do q[r]=s
+end end if m then for r,s in as,m do a7(s,q)end end return q end local a8=a6(
+'Folder','['..an..']')for i,j in as,al do a7(j,a8)end for i,j in as,ak do local
+k=aY[i]aZ[k]=j a_[k]=i local l=k.ClassName if l=='LocalScript'or l=='Script'then
+aO(a1,k)end end local i=function(i)local j,k=i.ClassName,a0[i]if k and j==
+'ModuleScript'then return av(k)end local l,m=aZ[i],function(l)l=aH(l)local m,n,o
+=i:GetFullName(),aT(l,'[^:]+:(%d+): (.+)')if not n or not aN then return m..
+':*: '..(o or l)end n=aJ(n)local q=a_[i]local r=aN[q]local s=n-r+1 if s<0 then s
+='?'end return m..':'..s..': '..o end if j=='LocalScript'or j=='Script'then
+local n,o=aF(l)if not n then ar(m(o),0)end else local n={aF(l)}local o=aP(n,1)if
+not o then local q=aP(n,1)ar(m(q),0)end a0[i]=n return av(n)end end function af(
+j)local k,l,m=aY[j],function(k,...)local l={aF(k,...)}local m=aP(l,1)if not m
+then ar(l[1],3)end return av(l)end,aQ(aq({},{__index=a2,__newindex=function(k,l,
+m)a2[l]=m end,__len=function()return#a2 end,__iter=function()return as,a2 end}))
+local n,o,q=aQ{version=am,envname=an,shared=m,script=az,require=aD},k,function(n
+,...)local o,q,r=aB(n),'Attempted to call require with a non-ModuleScript',
+'Attempted to call require with self'if o=='table'and a3[n]then if n.ClassName~=
+'ModuleScript'then ar(q,2)elseif n==k then ar(r,2)end return i(n)elseif o==
+'string'and aS(n,1,1)~='@'then if#n==0 then ar(
+'Attempted to call require with empty string',2)end local s=k if aS(n,1,1)=='/'
+then s=a8 elseif aS(n,1,2)=='./'then n=aS(n,3)end local t for u in aU(n,
+'([^/]*)/?')do local v=u if u=='..'then v='Parent'end if v~=''then local w=s:
+FindFirstChild(v)if not w then local x=s.Parent if x then w=x:FindFirstChild(v)
+end end if w then s=w elseif u~=t and u~='init'and u~='init.server'and u~=
+'init.client'then ar('Virtual script path "'..n..'" not found',2)end end t=u end
+if s.ClassName~='ModuleScript'then ar(q,2)elseif s==k then ar(r,2)end return i(s
+)end return l(aD,n,...)end return n,o,q end for j,k in as,a1 do aW(i,k)end
+return i(a8:GetChildren()[1])end,['packages/maid']=function(aa,ab)local ad={}ad.
+ClassName='Maid'function ad.new()return setmetatable({_tasks={}},ad)end function
+ad.isMaid(af)return type(af)=='table'and af.ClassName=='Maid'end function ad.
+__index(af,ah)if ad[ah]then return ad[ah]else return af._tasks[ah]end end
+function ad.__newindex(af,ah,aj)if ad[ah]~=nil then error(("'%s' is reserved"):
+format(tostring(ah)),2)end local ak=af._tasks local al=ak[ah]if al==aj then
+return end ak[ah]=aj if al then if type(al)=='function'then al()elseif typeof(al
+)=='RBXScriptConnection'then al:Disconnect()elseif al.Destroy then al:Destroy()
+end end end function ad.GiveTask(af,ah)if not ah then error(
 'Task cannot be false or nil',2)end local aj=#af._tasks+1 af[aj]=ah return aj
 end function ad.GivePromise(af,ah)if not ah:IsPending()then return ah end local
 aj=ah.resolved(ah)local ak=af:GiveTask(aj)aj:Finally(function()af[ak]=nil end)
@@ -7643,17 +5290,17 @@ snapVerticalMargin,as.snapThresholdVertical,as.snapThresholdHorizontal,workspace
 FindFirstAncestorOfClass'PluginGui',Vector2.new()if a3 and aN=='LayerCollector'
 then a1=a3.AbsoluteSize elseif aN=='Parent'then assert(ax.Parent:IsA'GuiObject',
 [[DragRelativeTo is set to Parent, but the parent is not a GuiObject!]])a1=ax.
-Parent.AbsoluteSize end if aB then local a5,a6,a7,a8,a9,ba=a1.X*aV.X.Scale,a1.Y*
-aV.Y.Scale,aV.X.Offset+a2.X,aV.Y.Offset+a2.Y,ax.AbsoluteSize+Vector2.new(aY.Y,aZ
-.Y+a4.Y),Vector2.new(ax.AbsoluteSize.X*ax.AnchorPoint.X,ax.AbsoluteSize.Y*ax.
-AnchorPoint.Y)if aJ=='XY'or aJ=='X'then local i,j=aY.X+ba.X,a1.X-a9.X+ba.X if(a7
-+a5)>j-a0.Y then a7=j-a5 aR.X='Max'elseif(a7+a5)<i+a0.X then a7=-a5+i aR.X='Min'
-end end if aJ=='XY'or aJ=='Y'then local i,j=aZ.X+ba.Y,a1.Y-a9.Y+ba.Y if(a8+a6)>j
--a_.Y then a8=j-a6 aR.Y='Max'elseif(a8+a6)<i+a_.X then a8=-a6+i aR.Y='Min'end
-end if aO>0 then a7=math.floor(a7/aO)*aO a8=math.floor(a8/aO)*aO end if aP==
-'Offset'then local i=UDim2.new(aV.X.Scale,a7,aV.Y.Scale,a8)ax.Position=i aH:Fire
-{GuiPosition=i}else local i=UDim2.new(aV.X.Scale+(a7/a1.X),0,aV.Y.Scale+(a8/a1.Y
-),0)ax.Position=i aH:Fire{SnapAxis=aJ,GuiPosition=i,DragPositionMode=aP}end else
+Parent.AbsoluteSize end if aB then local a5,a6,a7,a8,i,j=a1.X*aV.X.Scale,a1.Y*aV
+.Y.Scale,aV.X.Offset+a2.X,aV.Y.Offset+a2.Y,ax.AbsoluteSize+Vector2.new(aY.Y,aZ.Y
++a4.Y),Vector2.new(ax.AbsoluteSize.X*ax.AnchorPoint.X,ax.AbsoluteSize.Y*ax.
+AnchorPoint.Y)if aJ=='XY'or aJ=='X'then local k,l=aY.X+j.X,a1.X-i.X+j.X if(a7+a5
+)>l-a0.Y then a7=l-a5 aR.X='Max'elseif(a7+a5)<k+a0.X then a7=-a5+k aR.X='Min'end
+end if aJ=='XY'or aJ=='Y'then local k,l=aZ.X+j.Y,a1.Y-i.Y+j.Y if(a8+a6)>l-a_.Y
+then a8=l-a6 aR.Y='Max'elseif(a8+a6)<k+a_.X then a8=-a6+k aR.Y='Min'end end if
+aO>0 then a7=math.floor(a7/aO)*aO a8=math.floor(a8/aO)*aO end if aP=='Offset'
+then local k=UDim2.new(aV.X.Scale,a7,aV.Y.Scale,a8)ax.Position=k aH:Fire{
+GuiPosition=k}else local k=UDim2.new(aV.X.Scale+(a7/a1.X),0,aV.Y.Scale+(a8/a1.Y)
+,0)ax.Position=k aH:Fire{SnapAxis=aJ,GuiPosition=k,DragPositionMode=aP}end else
 if aO>0 then a2=Vector2.new(math.floor(a2.X/aO)*aO,math.floor(a2.Y/aO)*aO)end
 local a5=UDim2.new(aV.X.Scale,aV.X.Offset+a2.X,aV.Y.Scale,aV.Y.Offset+a2.Y)ax.
 Position=a5 aH:Fire{GuiPosition=a5}end end at.guiInputBegan=ax.InputBegan:
